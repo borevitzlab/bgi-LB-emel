@@ -1,0 +1,393 @@
+AccessionID,AccessionName,HasSeed,Project,PopulationName,NumberOfMaternalLines,DateCollected,Latitude,Longitude,Altitude,StorageLocation,Source,ExternalID,Notes,FatherAccessionID,MotherAccessionID,SeedRemaining,GradientOrder
+A25001,LB-U-1,?,E.melliodora,LB-U,1,?,-36.632668,144.35019,178,?,Linda,U,,unkown,unkown,,33
+A25002,LB-U-2,?,E.melliodora,LB-U,1,?,-36.632668,144.35019,178,?,Linda,U,,unkown,unkown,,33
+A25003,LB-U-3,?,E.melliodora,LB-U,1,?,-36.632668,144.35019,178,?,Linda,U,,unkown,unkown,,33
+A25004,LB-U-4,?,E.melliodora,LB-U,1,?,-36.632668,144.35019,178,?,Linda,U,,unkown,unkown,,33
+A25005,LB-U-5,?,E.melliodora,LB-U,1,?,-36.632668,144.35019,178,?,Linda,U,,unkown,unkown,,33
+A25006,LB-U-6,?,E.melliodora,LB-U,1,?,-36.632668,144.35019,178,?,Linda,U,,unkown,unkown,,33
+A25007,LB-U-7,?,E.melliodora,LB-U,1,?,-36.632668,144.35019,178,?,Linda,U,,unkown,unkown,,33
+A25008,LB-U-8,?,E.melliodora,LB-U,1,?,-36.632668,144.35019,178,?,Linda,U,,unkown,unkown,,33
+A25009,LB-U-9,?,E.melliodora,LB-U,1,?,-36.632668,144.35019,178,?,Linda,U,,unkown,unkown,,33
+A25010,LB-U-10,?,E.melliodora,LB-U,1,?,-36.632668,144.35019,178,?,Linda,U,,unkown,unkown,,33
+A25011,LB-P-1,?,E.melliodora,LB-P,1,?,-35.819633,145.31187,101,?,Linda,P,,unkown,unkown,,30
+A25012,LB-P-2,?,E.melliodora,LB-P,1,?,-35.819633,145.31187,101,?,Linda,P,,unkown,unkown,,30
+A25013,LB-P-3,?,E.melliodora,LB-P,1,?,-35.819633,145.31187,101,?,Linda,P,,unkown,unkown,,30
+A25014,LB-P-4,?,E.melliodora,LB-P,1,?,-35.819633,145.31187,101,?,Linda,P,,unkown,unkown,,30
+A25015,LB-P-5,?,E.melliodora,LB-P,1,?,-35.819633,145.31187,101,?,Linda,P,,unkown,unkown,,30
+A25016,LB-P-6,?,E.melliodora,LB-P,1,?,-35.819633,145.31187,101,?,Linda,P,,unkown,unkown,,30
+A25017,LB-P-7,?,E.melliodora,LB-P,1,?,-35.819633,145.31187,101,?,Linda,P,,unkown,unkown,,30
+A25018,LB-P-8,?,E.melliodora,LB-P,1,?,-35.819633,145.31187,101,?,Linda,P,,unkown,unkown,,30
+A25019,LB-P-9,?,E.melliodora,LB-P,1,?,-35.819633,145.31187,101,?,Linda,P,,unkown,unkown,,30
+A25020,LB-P-10,?,E.melliodora,LB-P,1,?,-35.819633,145.31187,101,?,Linda,P,,unkown,unkown,,30
+A25021,LB-G-1,?,E.melliodora,LB-G,1,?,-36.86476,148.85016,638,?,Linda,G ,,unkown,unkown,,22
+A25022,LB-G-2,?,E.melliodora,LB-G,1,?,-36.86476,148.85016,638,?,Linda,G ,,unkown,unkown,,22
+A25023,LB-G-3,?,E.melliodora,LB-G,1,?,-36.86476,148.85016,638,?,Linda,G ,,unkown,unkown,,22
+A25024,LB-G-4,?,E.melliodora,LB-G,1,?,-36.86476,148.85016,638,?,Linda,G ,,unkown,unkown,,22
+A25025,LB-G-5,?,E.melliodora,LB-G,1,?,-36.86476,148.85016,638,?,Linda,G ,,unkown,unkown,,22
+A25026,LB-G-6,?,E.melliodora,LB-G,1,?,-36.86476,148.85016,638,?,Linda,G ,,unkown,unkown,,22
+A25027,LB-G-7,?,E.melliodora,LB-G,1,?,-36.86476,148.85016,638,?,Linda,G ,,unkown,unkown,,22
+A25028,LB-G-8,?,E.melliodora,LB-G,1,?,-36.86476,148.85016,638,?,Linda,G ,,unkown,unkown,,22
+A25029,LB-G-9,?,E.melliodora,LB-G,1,?,-36.86476,148.85016,638,?,Linda,G ,,unkown,unkown,,22
+A25030,LB-G-10,?,E.melliodora,LB-G,1,?,-36.86476,148.85016,638,?,Linda,G ,,unkown,unkown,,22
+A25031,LB-W1-1,?,E.melliodora,LB-W1,1,?,-36.42797,144.41092,114,?,Linda,W1,,unkown,unkown,,31
+A25032,LB-W1-2,?,E.melliodora,LB-W1,1,?,-36.42797,144.41092,114,?,Linda,W1,,unkown,unkown,,31
+A25033,LB-W1-3,?,E.melliodora,LB-W1,1,?,-36.42797,144.41092,114,?,Linda,W1,,unkown,unkown,,31
+A25034,LB-W1-4,?,E.melliodora,LB-W1,1,?,-36.42797,144.41092,114,?,Linda,W1,,unkown,unkown,,31
+A25035,LB-W1-5,?,E.melliodora,LB-W1,1,?,-36.42797,144.41092,114,?,Linda,W1,,unkown,unkown,,31
+A25036,LB-W1-6,?,E.melliodora,LB-W1,1,?,-36.42797,144.41092,114,?,Linda,W1,,unkown,unkown,,31
+A25037,LB-W1-7,?,E.melliodora,LB-W1,1,?,-36.42797,144.41092,114,?,Linda,W1,,unkown,unkown,,31
+A25038,LB-W1-8,?,E.melliodora,LB-W1,1,?,-36.42797,144.41092,114,?,Linda,W1,,unkown,unkown,,31
+A25039,LB-W1-9,?,E.melliodora,LB-W1,1,?,-36.42797,144.41092,114,?,Linda,W1,,unkown,unkown,,31
+A25040,LB-W1-10,?,E.melliodora,LB-W1,1,?,-36.42797,144.41092,114,?,Linda,W1,,unkown,unkown,,31
+A25041,LB-H-1,?,E.melliodora,LB-H,1,?,-36.63518,149.56728,186,?,Linda,H ,,unkown,unkown,,21
+A25042,LB-H-2,?,E.melliodora,LB-H,1,?,-36.63518,149.56728,186,?,Linda,H ,,unkown,unkown,,21
+A25043,LB-H-3,?,E.melliodora,LB-H,1,?,-36.63518,149.56728,186,?,Linda,H ,,unkown,unkown,,21
+A25044,LB-H-4,?,E.melliodora,LB-H,1,?,-36.63518,149.56728,186,?,Linda,H ,,unkown,unkown,,21
+A25045,LB-H-5,?,E.melliodora,LB-H,1,?,-36.63518,149.56728,186,?,Linda,H ,,unkown,unkown,,21
+A25046,LB-H-6,?,E.melliodora,LB-H,1,?,-36.63518,149.56728,186,?,Linda,H ,,unkown,unkown,,21
+A25047,LB-H-7,?,E.melliodora,LB-H,1,?,-36.63518,149.56728,186,?,Linda,H ,,unkown,unkown,,21
+A25048,LB-H-8,?,E.melliodora,LB-H,1,?,-36.63518,149.56728,186,?,Linda,H ,,unkown,unkown,,21
+A25049,LB-H-9,?,E.melliodora,LB-H,1,?,-36.63518,149.56728,186,?,Linda,H ,,unkown,unkown,,21
+A25050,LB-H-10,?,E.melliodora,LB-H,1,?,-36.63518,149.56728,186,?,Linda,H ,,unkown,unkown,,21
+A25051,LB-M-3,?,E.melliodora,LB-M,1,?,-34.630472,149.870892,?,?,Linda,M ,,unkown,unkown,,12
+A25052,LB-M-4,?,E.melliodora,LB-M,1,?,-34.630472,149.870892,?,?,Linda,M ,,unkown,unkown,,12
+A25053,LB-M-5,?,E.melliodora,LB-M,1,?,-34.630472,149.870892,?,?,Linda,M ,,unkown,unkown,,12
+A25054,LB-D-1,?,E.melliodora,LB-D,1,?,-36.3675,145.70232,268,?,Linda,D ,,unkown,unkown,,27
+A25055,LB-D-2,?,E.melliodora,LB-D,1,?,-36.3675,145.70232,268,?,Linda,D ,,unkown,unkown,,27
+A25056,LB-D-3,?,E.melliodora,LB-D,1,?,-36.3675,145.70232,268,?,Linda,D ,,unkown,unkown,,27
+A25057,LB-D-4,?,E.melliodora,LB-D,1,?,-36.3675,145.70232,268,?,Linda,D ,,unkown,unkown,,27
+A25058,LB-D-5,?,E.melliodora,LB-D,1,?,-36.3675,145.70232,268,?,Linda,D ,,unkown,unkown,,27
+A25059,LB-D-6,?,E.melliodora,LB-D,1,?,-36.3675,145.70232,268,?,Linda,D ,,unkown,unkown,,27
+A25060,LB-D-7,?,E.melliodora,LB-D,1,?,-36.3675,145.70232,268,?,Linda,D ,,unkown,unkown,,27
+A25061,LB-D-8,?,E.melliodora,LB-D,1,?,-36.3675,145.70232,268,?,Linda,D ,,unkown,unkown,,27
+A25062,LB-D-9,?,E.melliodora,LB-D,1,?,-36.3675,145.70232,268,?,Linda,D ,,unkown,unkown,,27
+A25063,LB-D-10,?,E.melliodora,LB-D,1,?,-36.3675,145.70232,268,?,Linda,D ,,unkown,unkown,,27
+A25064,LB-V-1,?,E.melliodora,LB-V,1,?,-33.423,149.752,844,?,Linda,V,,unkown,unkown,,4
+A25065,LB-V-2,?,E.melliodora,LB-V,1,?,-33.423,149.752,844,?,Linda,V,,unkown,unkown,,4
+A25066,LB-V-3,?,E.melliodora,LB-V,1,?,-33.423,149.752,844,?,Linda,V,,unkown,unkown,,4
+A25067,LB-V-4,?,E.melliodora,LB-V,1,?,-33.423,149.752,844,?,Linda,V,,unkown,unkown,,4
+A25068,LB-V-5,?,E.melliodora,LB-V,1,?,-33.423,149.752,844,?,Linda,V,,unkown,unkown,,4
+A25069,LB-V-6,?,E.melliodora,LB-V,1,?,-33.423,149.752,844,?,Linda,V,,unkown,unkown,,4
+A25070,LB-V-7,?,E.melliodora,LB-V,1,?,-33.423,149.752,844,?,Linda,V,,unkown,unkown,,4
+A25071,LB-V-8,?,E.melliodora,LB-V,1,?,-33.423,149.752,844,?,Linda,V,,unkown,unkown,,4
+A25072,LB-V-9,?,E.melliodora,LB-V,1,?,-33.423,149.752,844,?,Linda,V,,unkown,unkown,,4
+A25073,LB-V-10,?,E.melliodora,LB-V,1,?,-33.423,149.752,844,?,Linda,V,,unkown,unkown,,4
+A25074,LB-A-2,?,E.melliodora,LB-A,1,?,-36.388,146.481,181,?,Linda,A,,unkown,unkown,,24
+A25075,LB-A-3,?,E.melliodora,LB-A,1,?,-36.388,146.481,181,?,Linda,A,,unkown,unkown,,24
+A25076,LB-A-4,?,E.melliodora,LB-A,1,?,-36.388,146.481,181,?,Linda,A,,unkown,unkown,,24
+A25077,LB-A-5,?,E.melliodora,LB-A,1,?,-36.388,146.481,181,?,Linda,A,,unkown,unkown,,24
+A25078,LB-A-6,?,E.melliodora,LB-A,1,?,-36.388,146.481,181,?,Linda,A,,unkown,unkown,,24
+A25079,LB-A-7,?,E.melliodora,LB-A,1,?,-36.388,146.481,181,?,Linda,A,,unkown,unkown,,24
+A25080,LB-A-8,?,E.melliodora,LB-A,1,?,-36.388,146.481,181,?,Linda,A,,unkown,unkown,,24
+A25081,LB-A-9,?,E.melliodora,LB-A,1,?,-36.388,146.481,181,?,Linda,A,,unkown,unkown,,24
+A25082,LB-A-10,?,E.melliodora,LB-A,1,?,-36.388,146.481,181,?,Linda,A,,unkown,unkown,,24
+A25083,LB-A-11,?,E.melliodora,LB-A,1,?,-36.388,146.481,181,?,Linda,A,,unkown,unkown,,24
+A25084,LB-1-1,?,E.melliodora,LB-1,1,?,-33.416668,149.55055,712,?,Linda,1,,unkown,unkown,,7
+A25085,LB-1-2,?,E.melliodora,LB-1,1,?,-33.416668,149.55055,712,?,Linda,1,,unkown,unkown,,7
+A25086,LB-1-3,?,E.melliodora,LB-1,1,?,-33.416668,149.55055,712,?,Linda,1,,unkown,unkown,,7
+A25087,LB-1-4,?,E.melliodora,LB-1,1,?,-33.416668,149.55055,712,?,Linda,1,,unkown,unkown,,7
+A25088,LB-1-5,?,E.melliodora,LB-1,1,?,-33.416668,149.55055,712,?,Linda,1,,unkown,unkown,,7
+A25089,LB-1-6,?,E.melliodora,LB-1,1,?,-33.416668,149.55055,712,?,Linda,1,,unkown,unkown,,7
+A25090,LB-1-7,?,E.melliodora,LB-1,1,?,-33.416668,149.55055,712,?,Linda,1,,unkown,unkown,,7
+A25091,LB-1-8,?,E.melliodora,LB-1,1,?,-33.416668,149.55055,712,?,Linda,1,,unkown,unkown,,7
+A25092,LB-1-9,?,E.melliodora,LB-1,1,?,-33.416668,149.55055,712,?,Linda,1,,unkown,unkown,,7
+A25093,LB-1-10,?,E.melliodora,LB-1,1,?,-33.416668,149.55055,712,?,Linda,1,,unkown,unkown,,7
+A25094,LB-C-1,?,E.melliodora,LB-C,1,?,-35.03333,147.33333,?,?,Linda,C ,,unkown,unkown,,17
+A25095,LB-C-2,?,E.melliodora,LB-C,1,?,-35.03333,147.33333,?,?,Linda,C ,,unkown,unkown,,17
+A25096,LB-C-3,?,E.melliodora,LB-C,1,?,-35.03333,147.33333,?,?,Linda,C ,,unkown,unkown,,17
+A25097,LB-C-4,?,E.melliodora,LB-C,1,?,-35.03333,147.33333,?,?,Linda,C ,,unkown,unkown,,17
+A25098,LB-C-5,?,E.melliodora,LB-C,1,?,-35.03333,147.33333,?,?,Linda,C ,,unkown,unkown,,17
+A25099,LB-C-6,?,E.melliodora,LB-C,1,?,-35.03333,147.33333,?,?,Linda,C ,,unkown,unkown,,17
+A25100,LB-C-7,?,E.melliodora,LB-C,1,?,-35.03333,147.33333,?,?,Linda,C ,,unkown,unkown,,17
+A25101,LB-C-8,?,E.melliodora,LB-C,1,?,-35.03333,147.33333,?,?,Linda,C ,,unkown,unkown,,17
+A25102,LB-C-9,?,E.melliodora,LB-C,1,?,-35.03333,147.33333,?,?,Linda,C ,,unkown,unkown,,17
+A25103,LB-N2-1,?,E.melliodora,LB-N2,1,?,-33.6166,149.64452,782,?,Linda,N2,,unkown,unkown,,8
+A25104,LB-N2-2,?,E.melliodora,LB-N2,1,?,-33.6166,149.64452,782,?,Linda,N2,,unkown,unkown,,8
+A25105,LB-N2-3,?,E.melliodora,LB-N2,1,?,-33.6166,149.64452,782,?,Linda,N2,,unkown,unkown,,8
+A25106,LB-N2-4,?,E.melliodora,LB-N2,1,?,-33.6166,149.64452,782,?,Linda,N2,,unkown,unkown,,8
+A25107,LB-N2-5,?,E.melliodora,LB-N2,1,?,-33.6166,149.64452,782,?,Linda,N2,,unkown,unkown,,8
+A25108,LB-N2-6,?,E.melliodora,LB-N2,1,?,-33.6166,149.64452,782,?,Linda,N2,,unkown,unkown,,8
+A25109,LB-N2-7,?,E.melliodora,LB-N2,1,?,-33.6166,149.64452,782,?,Linda,N2,,unkown,unkown,,8
+A25110,LB-N2-8,?,E.melliodora,LB-N2,1,?,-33.6166,149.64452,782,?,Linda,N2,,unkown,unkown,,8
+A25111,LB-N2-9,?,E.melliodora,LB-N2,1,?,-33.6166,149.64452,782,?,Linda,N2,,unkown,unkown,,8
+A25112,LB-N2-10,?,E.melliodora,LB-N2,1,?,-33.6166,149.64452,782,?,Linda,N2,,unkown,unkown,,8
+A25113,LB-N1-1,?,E.melliodora,LB-N1,1,?,-34.036884,148.5675,318,?,Linda,N1,,unkown,unkown,,11
+A25114,LB-N1-2,?,E.melliodora,LB-N1,1,?,-34.036884,148.5675,318,?,Linda,N1,,unkown,unkown,,11
+A25115,LB-N1-3,?,E.melliodora,LB-N1,1,?,-34.036884,148.5675,318,?,Linda,N1,,unkown,unkown,,11
+A25116,LB-N1-4,?,E.melliodora,LB-N1,1,?,-34.036884,148.5675,318,?,Linda,N1,,unkown,unkown,,11
+A25117,LB-N1-5,?,E.melliodora,LB-N1,1,?,-34.036884,148.5675,318,?,Linda,N1,,unkown,unkown,,11
+A25118,LB-N1-6,?,E.melliodora,LB-N1,1,?,-34.036884,148.5675,318,?,Linda,N1,,unkown,unkown,,11
+A25119,LB-N1-7,?,E.melliodora,LB-N1,1,?,-34.036884,148.5675,318,?,Linda,N1,,unkown,unkown,,11
+A25120,LB-N1-8,?,E.melliodora,LB-N1,1,?,-34.036884,148.5675,318,?,Linda,N1,,unkown,unkown,,11
+A25121,LB-N1-9,?,E.melliodora,LB-N1,1,?,-34.036884,148.5675,318,?,Linda,N1,,unkown,unkown,,11
+A25122,LB-N1-10,?,E.melliodora,LB-N1,1,?,-34.036884,148.5675,318,?,Linda,N1,,unkown,unkown,,11
+A25123,LB-3-1,?,E.melliodora,LB-3,1,?,-27.368696,152.03023,625,?,Linda,3,,unkown,unkown,,1
+A25124,LB-3-2,?,E.melliodora,LB-3,1,?,-27.368696,152.03023,625,?,Linda,3,,unkown,unkown,,1
+A25125,LB-3-3,?,E.melliodora,LB-3,1,?,-27.368696,152.03023,625,?,Linda,3,,unkown,unkown,,1
+A25126,LB-3-4,?,E.melliodora,LB-3,1,?,-27.368696,152.03023,625,?,Linda,3,,unkown,unkown,,1
+A25127,LB-3-5,?,E.melliodora,LB-3,1,?,-27.368696,152.03023,625,?,Linda,3,,unkown,unkown,,1
+A25128,LB-3-6,?,E.melliodora,LB-3,1,?,-27.368696,152.03023,625,?,Linda,3,,unkown,unkown,,1
+A25129,LB-3-7,?,E.melliodora,LB-3,1,?,-27.368696,152.03023,625,?,Linda,3,,unkown,unkown,,1
+A25130,LB-3-8,?,E.melliodora,LB-3,1,?,-27.368696,152.03023,625,?,Linda,3,,unkown,unkown,,1
+A25131,LB-3-9,?,E.melliodora,LB-3,1,?,-27.368696,152.03023,625,?,Linda,3,,unkown,unkown,,1
+A25132,LB-3-10,?,E.melliodora,LB-3,1,?,-27.368696,152.03023,625,?,Linda,3,,unkown,unkown,,1
+A25133,LB-7-1,?,E.melliodora,LB-7,1,?,-33.936944,116.963333,?,?,Linda,7,,unkown,unkown,,0
+A25134,LB-7-2,?,E.melliodora,LB-7,1,?,-33.936944,116.963333,?,?,Linda,7,,unkown,unkown,,0
+A25135,LB-7-3,?,E.melliodora,LB-7,1,?,-33.936944,116.963333,?,?,Linda,7,,unkown,unkown,,0
+A25136,LB-7-4,?,E.melliodora,LB-7,1,?,-33.936944,116.963333,?,?,Linda,7,,unkown,unkown,,0
+A25137,LB-7-5,?,E.melliodora,LB-7,1,?,-33.936944,116.963333,?,?,Linda,7,,unkown,unkown,,0
+A25138,LB-7-6,?,E.melliodora,LB-7,1,?,-33.936944,116.963333,?,?,Linda,7,,unkown,unkown,,0
+A25139,LB-7-7,?,E.melliodora,LB-7,1,?,-33.936944,116.963333,?,?,Linda,7,,unkown,unkown,,0
+A25140,LB-B-1,?,E.melliodora,LB-B,1,?,-35.235664,149.16422,613,?,Linda,B ,,unkown,unkown,,15
+A25141,LB-B-2,?,E.melliodora,LB-B,1,?,-35.235664,149.16422,613,?,Linda,B ,,unkown,unkown,,15
+A25142,LB-B-3,?,E.melliodora,LB-B,1,?,-35.235664,149.16422,613,?,Linda,B ,,unkown,unkown,,15
+A25143,LB-B-4,?,E.melliodora,LB-B,1,?,-35.235664,149.16422,613,?,Linda,B ,,unkown,unkown,,15
+A25144,LB-B-5,?,E.melliodora,LB-B,1,?,-35.235664,149.16422,613,?,Linda,B ,,unkown,unkown,,15
+A25145,LB-B-6,?,E.melliodora,LB-B,1,?,-35.235664,149.16422,613,?,Linda,B ,,unkown,unkown,,15
+A25146,LB-B-7,?,E.melliodora,LB-B,1,?,-35.235664,149.16422,613,?,Linda,B ,,unkown,unkown,,15
+A25147,LB-B-8,?,E.melliodora,LB-B,1,?,-35.235664,149.16422,613,?,Linda,B ,,unkown,unkown,,15
+A25148,LB-B-9,?,E.melliodora,LB-B,1,?,-35.235664,149.16422,613,?,Linda,B ,,unkown,unkown,,15
+A25149,LB-B-10,?,E.melliodora,LB-B,1,?,-35.235664,149.16422,613,?,Linda,B ,,unkown,unkown,,15
+A25150,LB-J2-1,?,E.melliodora,LB-J2,1,?,-33.121143,149.05785,709,?,Linda,J2,,unkown,unkown,,5
+A25151,LB-J2-2,?,E.melliodora,LB-J2,1,?,-33.121143,149.05785,709,?,Linda,J2,,unkown,unkown,,5
+A25152,LB-J2-3,?,E.melliodora,LB-J2,1,?,-33.121143,149.05785,709,?,Linda,J2,,unkown,unkown,,5
+A25153,LB-J2-4,?,E.melliodora,LB-J2,1,?,-33.121143,149.05785,709,?,Linda,J2,,unkown,unkown,,5
+A25154,LB-J2-5,?,E.melliodora,LB-J2,1,?,-33.121143,149.05785,709,?,Linda,J2,,unkown,unkown,,5
+A25155,LB-J2-6,?,E.melliodora,LB-J2,1,?,-33.121143,149.05785,709,?,Linda,J2,,unkown,unkown,,5
+A25156,LB-J2-7,?,E.melliodora,LB-J2,1,?,-33.121143,149.05785,709,?,Linda,J2,,unkown,unkown,,5
+A25157,LB-J2-8,?,E.melliodora,LB-J2,1,?,-33.121143,149.05785,709,?,Linda,J2,,unkown,unkown,,5
+A25158,LB-J2-9,?,E.melliodora,LB-J2,1,?,-33.121143,149.05785,709,?,Linda,J2,,unkown,unkown,,5
+A25159,LB-J2-10,?,E.melliodora,LB-J2,1,?,-33.121143,149.05785,709,?,Linda,J2,,unkown,unkown,,5
+A25160,LB-17-1,?,E.melliodora,LB-17,1,?,-33.44218,147.51628,213,?,Linda,17,,unkown,unkown,,10
+A25161,LB-17-2,?,E.melliodora,LB-17,1,?,-33.44218,147.51628,213,?,Linda,17,,unkown,unkown,,10
+A25162,LB-17-3,?,E.melliodora,LB-17,1,?,-33.44218,147.51628,213,?,Linda,17,,unkown,unkown,,10
+A25163,LB-17-4,?,E.melliodora,LB-17,1,?,-33.44218,147.51628,213,?,Linda,17,,unkown,unkown,,10
+A25164,LB-17-5,?,E.melliodora,LB-17,1,?,-33.44218,147.51628,213,?,Linda,17,,unkown,unkown,,10
+A25165,LB-17-6,?,E.melliodora,LB-17,1,?,-33.44218,147.51628,213,?,Linda,17,,unkown,unkown,,10
+A25166,LB-17-7,?,E.melliodora,LB-17,1,?,-33.44218,147.51628,213,?,Linda,17,,unkown,unkown,,10
+A25167,LB-17-8,?,E.melliodora,LB-17,1,?,-33.44218,147.51628,213,?,Linda,17,,unkown,unkown,,10
+A25168,LB-17-9,?,E.melliodora,LB-17,1,?,-33.44218,147.51628,213,?,Linda,17,,unkown,unkown,,10
+A25169,LB-17-10,?,E.melliodora,LB-17,1,?,-33.44218,147.51628,213,?,Linda,17,,unkown,unkown,,10
+A25170,LB-11-1,?,E.melliodora,LB-11,1,?,-35.40026,149.1318,669,?,Linda,11,,unkown,unkown,,16
+A25171,LB-11-2,?,E.melliodora,LB-11,1,?,-35.40026,149.1318,669,?,Linda,11,,unkown,unkown,,16
+A25172,LB-11-3,?,E.melliodora,LB-11,1,?,-35.40026,149.1318,669,?,Linda,11,,unkown,unkown,,16
+A25173,LB-11-4,?,E.melliodora,LB-11,1,?,-35.40026,149.1318,669,?,Linda,11,,unkown,unkown,,16
+A25174,LB-11-5,?,E.melliodora,LB-11,1,?,-35.40026,149.1318,669,?,Linda,11,,unkown,unkown,,16
+A25175,LB-11-6,?,E.melliodora,LB-11,1,?,-35.40026,149.1318,669,?,Linda,11,,unkown,unkown,,16
+A25176,LB-11-7,?,E.melliodora,LB-11,1,?,-35.40026,149.1318,669,?,Linda,11,,unkown,unkown,,16
+A25177,LB-11-8,?,E.melliodora,LB-11,1,?,-35.40026,149.1318,669,?,Linda,11,,unkown,unkown,,16
+A25178,LB-11-9,?,E.melliodora,LB-11,1,?,-35.40026,149.1318,669,?,Linda,11,,unkown,unkown,,16
+A25179,LB-11-10,?,E.melliodora,LB-11,1,?,-35.40026,149.1318,669,?,Linda,11,,unkown,unkown,,16
+A25180,LB-i2-1,?,E.melliodora,LB-i2,1,?,-36.54041,146.10739,195,?,Linda,i2,,unkown,unkown,,26
+A25181,LB-i2-2,?,E.melliodora,LB-i2,1,?,-36.54041,146.10739,195,?,Linda,i2,,unkown,unkown,,26
+A25182,LB-i2-3,?,E.melliodora,LB-i2,1,?,-36.54041,146.10739,195,?,Linda,i2,,unkown,unkown,,26
+A25183,LB-i2-4,?,E.melliodora,LB-i2,1,?,-36.54041,146.10739,195,?,Linda,i2,,unkown,unkown,,26
+A25184,LB-i2-5,?,E.melliodora,LB-i2,1,?,-36.54041,146.10739,195,?,Linda,i2,,unkown,unkown,,26
+A25185,LB-i2-6,?,E.melliodora,LB-i2,1,?,-36.54041,146.10739,195,?,Linda,i2,,unkown,unkown,,26
+A25186,LB-i2-7,?,E.melliodora,LB-i2,1,?,-36.54041,146.10739,195,?,Linda,i2,,unkown,unkown,,26
+A25187,LB-i2-8,?,E.melliodora,LB-i2,1,?,-36.54041,146.10739,195,?,Linda,i2,,unkown,unkown,,26
+A25188,LB-i2-9,?,E.melliodora,LB-i2,1,?,-36.54041,146.10739,195,?,Linda,i2,,unkown,unkown,,26
+A25189,LB-i2-10,?,E.melliodora,LB-i2,1,?,-36.54041,146.10739,195,?,Linda,i2,,unkown,unkown,,26
+A25190,LB-16-1,?,E.melliodora,LB-16,1,?,-33.224724,149.28056,?,?,Linda,16,,unkown,unkown,,6
+A25191,LB-16-2,?,E.melliodora,LB-16,1,?,-33.224724,149.28056,?,?,Linda,16,,unkown,unkown,,6
+A25192,LB-16-3,?,E.melliodora,LB-16,1,?,-33.224724,149.28056,?,?,Linda,16,,unkown,unkown,,6
+A25193,LB-16-4,?,E.melliodora,LB-16,1,?,-33.224724,149.28056,?,?,Linda,16,,unkown,unkown,,6
+A25194,LB-16-5,?,E.melliodora,LB-16,1,?,-33.224724,149.28056,?,?,Linda,16,,unkown,unkown,,6
+A25195,LB-16-6,?,E.melliodora,LB-16,1,?,-33.224724,149.28056,?,?,Linda,16,,unkown,unkown,,6
+A25196,LB-16-7,?,E.melliodora,LB-16,1,?,-33.224724,149.28056,?,?,Linda,16,,unkown,unkown,,6
+A25197,LB-2-1,?,E.melliodora,LB-2,1,?,-36.6755,146.26477,236,?,Linda,2,,unkown,unkown,,25
+A25198,LB-2-2,?,E.melliodora,LB-2,1,?,-36.6755,146.26477,236,?,Linda,2,,unkown,unkown,,25
+A25199,LB-2-3,?,E.melliodora,LB-2,1,?,-36.6755,146.26477,236,?,Linda,2,,unkown,unkown,,25
+A25200,LB-2-4,?,E.melliodora,LB-2,1,?,-36.6755,146.26477,236,?,Linda,2,,unkown,unkown,,25
+A25201,LB-2-5,?,E.melliodora,LB-2,1,?,-36.6755,146.26477,236,?,Linda,2,,unkown,unkown,,25
+A25202,LB-2-6,?,E.melliodora,LB-2,1,?,-36.6755,146.26477,236,?,Linda,2,,unkown,unkown,,25
+A25203,LB-2-7,?,E.melliodora,LB-2,1,?,-36.6755,146.26477,236,?,Linda,2,,unkown,unkown,,25
+A25204,LB-2-8,?,E.melliodora,LB-2,1,?,-36.6755,146.26477,236,?,Linda,2,,unkown,unkown,,25
+A25205,LB-2-9,?,E.melliodora,LB-2,1,?,-36.6755,146.26477,236,?,Linda,2,,unkown,unkown,,25
+A25206,LB-2-10,?,E.melliodora,LB-2,1,?,-36.6755,146.26477,236,?,Linda,2,,unkown,unkown,,25
+A25207,LB-14-1,?,E.melliodora,LB-14,1,?,-32.389167,150.881667,147,?,Linda,14,,unkown,unkown,,3
+A25208,LB-14-2,?,E.melliodora,LB-14,1,?,-32.389167,150.881667,147,?,Linda,14,,unkown,unkown,,3
+A25209,LB-14-3,?,E.melliodora,LB-14,1,?,-32.389167,150.881667,147,?,Linda,14,,unkown,unkown,,3
+A25210,LB-14-4,?,E.melliodora,LB-14,1,?,-32.389167,150.881667,147,?,Linda,14,,unkown,unkown,,3
+A25211,LB-14-5,?,E.melliodora,LB-14,1,?,-32.389167,150.881667,147,?,Linda,14,,unkown,unkown,,3
+A25212,LB-14-6,?,E.melliodora,LB-14,1,?,-32.389167,150.881667,147,?,Linda,14,,unkown,unkown,,3
+A25213,LB-14-7,?,E.melliodora,LB-14,1,?,-32.389167,150.881667,147,?,Linda,14,,unkown,unkown,,3
+A25214,LB-14-8,?,E.melliodora,LB-14,1,?,-32.389167,150.881667,147,?,Linda,14,,unkown,unkown,,3
+A25215,LB-14-9,?,E.melliodora,LB-14,1,?,-32.389167,150.881667,147,?,Linda,14,,unkown,unkown,,3
+A25216,LB-14-10,?,E.melliodora,LB-14,1,?,-32.389167,150.881667,147,?,Linda,14,,unkown,unkown,,3
+A25217,LB-5-1,?,E.melliodora,LB-5,1,?,-33.710145,149.52355,978,?,Linda,5,not E. melliodora?,unkown,unkown,,9
+A25218,LB-5-2,?,E.melliodora,LB-5,1,?,-33.710145,149.52355,978,?,Linda,5,,unkown,unkown,,9
+A25219,LB-5-3,?,E.melliodora,LB-5,1,?,-33.710145,149.52355,978,?,Linda,5,,unkown,unkown,,9
+A25220,LB-5-4,?,E.melliodora,LB-5,1,?,-33.710145,149.52355,978,?,Linda,5,,unkown,unkown,,9
+A25221,LB-5-5,?,E.melliodora,LB-5,1,?,-33.710145,149.52355,978,?,Linda,5,,unkown,unkown,,9
+A25222,LB-5-6,?,E.melliodora,LB-5,1,?,-33.710145,149.52355,978,?,Linda,5,,unkown,unkown,,9
+A25223,LB-5-7,?,E.melliodora,LB-5,1,?,-33.710145,149.52355,978,?,Linda,5,,unkown,unkown,,9
+A25224,LB-5-8,?,E.melliodora,LB-5,1,?,-33.710145,149.52355,978,?,Linda,5,,unkown,unkown,,9
+A25225,LB-5-9,?,E.melliodora,LB-5,1,?,-33.710145,149.52355,978,?,Linda,5,,unkown,unkown,,9
+A25226,LB-5-10,?,E.melliodora,LB-5,1,?,-33.710145,149.52355,978,?,Linda,5,,unkown,unkown,,9
+A25227,LB-10-1,?,E.melliodora,LB-10,1,?,-37.285278,143.77778,321,?,Linda,10,,unkown,unkown,,36
+A25228,LB-10-2,?,E.melliodora,LB-10,1,?,-37.285278,143.77778,321,?,Linda,10,,unkown,unkown,,36
+A25229,LB-10-3,?,E.melliodora,LB-10,1,?,-37.285278,143.77778,321,?,Linda,10,,unkown,unkown,,36
+A25230,LB-10-4,?,E.melliodora,LB-10,1,?,-37.285278,143.77778,321,?,Linda,10,,unkown,unkown,,36
+A25231,LB-10-5,?,E.melliodora,LB-10,1,?,-37.285278,143.77778,321,?,Linda,10,,unkown,unkown,,36
+A25232,LB-10-6,?,E.melliodora,LB-10,1,?,-37.285278,143.77778,321,?,Linda,10,,unkown,unkown,,36
+A25233,LB-10-7,?,E.melliodora,LB-10,1,?,-37.285278,143.77778,321,?,Linda,10,,unkown,unkown,,36
+A25234,LB-10-8,?,E.melliodora,LB-10,1,?,-37.285278,143.77778,321,?,Linda,10,,unkown,unkown,,36
+A25235,LB-10-9,?,E.melliodora,LB-10,1,?,-37.285278,143.77778,321,?,Linda,10,,unkown,unkown,,36
+A25236,LB-10-10,?,E.melliodora,LB-10,1,?,-37.285278,143.77778,321,?,Linda,10,,unkown,unkown,,36
+A25237,LB-T1-1,?,E.melliodora,LB-T1,1,?,-35.26495,147.310133,265,?,Linda,T1,,unkown,unkown,,18
+A25238,LB-T1-2,?,E.melliodora,LB-T1,1,?,-35.26495,147.310133,265,?,Linda,T1,,unkown,unkown,,18
+A25239,LB-T1-3,?,E.melliodora,LB-T1,1,?,-35.26495,147.310133,265,?,Linda,T1,,unkown,unkown,,18
+A25240,LB-T1-4,?,E.melliodora,LB-T1,1,?,-35.26495,147.310133,265,?,Linda,T1,,unkown,unkown,,18
+A25241,LB-T1-5,?,E.melliodora,LB-T1,1,?,-35.26495,147.310133,265,?,Linda,T1,,unkown,unkown,,18
+A25242,LB-T1-6,?,E.melliodora,LB-T1,1,?,-35.26495,147.310133,265,?,Linda,T1,,unkown,unkown,,18
+A25243,LB-T1-7,?,E.melliodora,LB-T1,1,?,-35.26495,147.310133,265,?,Linda,T1,,unkown,unkown,,18
+A25244,LB-T1-8,?,E.melliodora,LB-T1,1,?,-35.26495,147.310133,265,?,Linda,T1,,unkown,unkown,,18
+A25245,LB-T1-9,?,E.melliodora,LB-T1,1,?,-35.26495,147.310133,265,?,Linda,T1,,unkown,unkown,,18
+A25246,LB-T1-10,?,E.melliodora,LB-T1,1,?,-35.26495,147.310133,265,?,Linda,T1,,unkown,unkown,,18
+A25247,LB-19-1,?,E.melliodora,LB-19,1,?,-37.179444,144.483333,517,?,Linda,19,,unkown,unkown,,32
+A25248,LB-19-2,?,E.melliodora,LB-19,1,?,-37.179444,144.483333,517,?,Linda,19,,unkown,unkown,,32
+A25249,LB-19-3,?,E.melliodora,LB-19,1,?,-37.179444,144.483333,517,?,Linda,19,,unkown,unkown,,32
+A25250,LB-19-4,?,E.melliodora,LB-19,1,?,-37.179444,144.483333,517,?,Linda,19,,unkown,unkown,,32
+A25251,LB-19-5,?,E.melliodora,LB-19,1,?,-37.179444,144.483333,517,?,Linda,19,,unkown,unkown,,32
+A25252,LB-19-6,?,E.melliodora,LB-19,1,?,-37.179444,144.483333,517,?,Linda,19,,unkown,unkown,,32
+A25253,LB-19-7,?,E.melliodora,LB-19,1,?,-37.179444,144.483333,517,?,Linda,19,,unkown,unkown,,32
+A25254,LB-19-8,?,E.melliodora,LB-19,1,?,-37.179444,144.483333,517,?,Linda,19,,unkown,unkown,,32
+A25255,LB-19-9,?,E.melliodora,LB-19,1,?,-37.179444,144.483333,517,?,Linda,19,,unkown,unkown,,32
+A25256,LB-19-10,?,E.melliodora,LB-19,1,?,-37.179444,144.483333,517,?,Linda,19,,unkown,unkown,,32
+A25257,LB-K2-1,?,E.melliodora,LB-K2,1,?,-30.54493,151.79367,1055,?,Linda,K2,,unkown,unkown,,2
+A25258,LB-K2-2,?,E.melliodora,LB-K2,1,?,-30.54493,151.79367,1055,?,Linda,K2,,unkown,unkown,,2
+A25259,LB-K2-3,?,E.melliodora,LB-K2,1,?,-30.54493,151.79367,1055,?,Linda,K2,,unkown,unkown,,2
+A25260,LB-K2-4,?,E.melliodora,LB-K2,1,?,-30.54493,151.79367,1055,?,Linda,K2,,unkown,unkown,,2
+A25261,LB-K2-5,?,E.melliodora,LB-K2,1,?,-30.54493,151.79367,1055,?,Linda,K2,,unkown,unkown,,2
+A25262,LB-K2-6,?,E.melliodora,LB-K2,1,?,-30.54493,151.79367,1055,?,Linda,K2,,unkown,unkown,,2
+A25263,LB-K2-7,?,E.melliodora,LB-K2,1,?,-30.54493,151.79367,1055,?,Linda,K2,,unkown,unkown,,2
+A25264,LB-K2-8,?,E.melliodora,LB-K2,1,?,-30.54493,151.79367,1055,?,Linda,K2,,unkown,unkown,,2
+A25265,LB-K2-9,?,E.melliodora,LB-K2,1,?,-30.54493,151.79367,1055,?,Linda,K2,,unkown,unkown,,2
+A25266,LB-K2-10,?,E.melliodora,LB-K2,1,?,-30.54493,151.79367,1055,?,Linda,K2,,unkown,unkown,,2
+A25267,LB-20-1,?,E.melliodora,LB-20,1,?,-34.911785,148.971179,562,?,Linda,20,,unkown,unkown,,13
+A25268,LB-20-2,?,E.melliodora,LB-20,1,?,-34.911785,148.971179,562,?,Linda,20,,unkown,unkown,,13
+A25269,LB-20-3,?,E.melliodora,LB-20,1,?,-34.911785,148.971179,562,?,Linda,20,,unkown,unkown,,13
+A25270,LB-20-4,?,E.melliodora,LB-20,1,?,-34.911785,148.971179,562,?,Linda,20,,unkown,unkown,,13
+A25271,LB-20-5,?,E.melliodora,LB-20,1,?,-34.911785,148.971179,562,?,Linda,20,,unkown,unkown,,13
+A25272,LB-20-6,?,E.melliodora,LB-20,1,?,-34.911785,148.971179,562,?,Linda,20,,unkown,unkown,,13
+A25273,LB-20-7,?,E.melliodora,LB-20,1,?,-34.911785,148.971179,562,?,Linda,20,,unkown,unkown,,13
+A25274,LB-20-8,?,E.melliodora,LB-20,1,?,-34.911785,148.971179,562,?,Linda,20,,unkown,unkown,,13
+A25275,LB-20-9,?,E.melliodora,LB-20,1,?,-34.911785,148.971179,562,?,Linda,20,,unkown,unkown,,13
+A25276,LB-20-10,?,E.melliodora,LB-20,1,?,-34.911785,148.971179,562,?,Linda,20,,unkown,unkown,,13
+A25277,LB-W2-1,?,E.melliodora,LB-W2,1,?,-36.580471,143.521639,206,?,Linda,W2,,unkown,unkown,,37
+A25278,LB-W2-2,?,E.melliodora,LB-W2,1,?,-36.580471,143.521639,206,?,Linda,W2,,unkown,unkown,,37
+A25279,LB-W2-3,?,E.melliodora,LB-W2,1,?,-36.580471,143.521639,206,?,Linda,W2,,unkown,unkown,,37
+A25280,LB-W2-4,?,E.melliodora,LB-W2,1,?,-36.580471,143.521639,206,?,Linda,W2,,unkown,unkown,,37
+A25281,LB-W2-5,?,E.melliodora,LB-W2,1,?,-36.580471,143.521639,206,?,Linda,W2,,unkown,unkown,,37
+A25282,LB-W2-6,?,E.melliodora,LB-W2,1,?,-36.580471,143.521639,206,?,Linda,W2,,unkown,unkown,,37
+A25283,LB-W2-7,?,E.melliodora,LB-W2,1,?,-36.580471,143.521639,206,?,Linda,W2,,unkown,unkown,,37
+A25284,LB-W2-8,?,E.melliodora,LB-W2,1,?,-36.580471,143.521639,206,?,Linda,W2,,unkown,unkown,,37
+A25285,LB-W2-9,?,E.melliodora,LB-W2,1,?,-36.580471,143.521639,206,?,Linda,W2,,unkown,unkown,,37
+A25286,LB-W2-10,?,E.melliodora,LB-W2,1,?,-36.580471,143.521639,206,?,Linda,W2,,unkown,unkown,,37
+A25287,LB-24-1,?,E.melliodora,LB-24,1,?,-36.980278,144.047611,333,?,Linda,24,,unkown,unkown,,34
+A25288,LB-24-2,?,E.melliodora,LB-24,1,?,-36.980278,144.047611,333,?,Linda,24,,unkown,unkown,,34
+A25289,LB-24-3,?,E.melliodora,LB-24,1,?,-36.980278,144.047611,333,?,Linda,24,,unkown,unkown,,34
+A25290,LB-24-4,?,E.melliodora,LB-24,1,?,-36.980278,144.047611,333,?,Linda,24,,unkown,unkown,,34
+A25291,LB-24-5,?,E.melliodora,LB-24,1,?,-36.980278,144.047611,333,?,Linda,24,,unkown,unkown,,34
+A25292,LB-24-6,?,E.melliodora,LB-24,1,?,-36.980278,144.047611,333,?,Linda,24,,unkown,unkown,,34
+A25293,LB-24-7,?,E.melliodora,LB-24,1,?,-36.980278,144.047611,333,?,Linda,24,,unkown,unkown,,34
+A25294,LB-24-8,?,E.melliodora,LB-24,1,?,-36.980278,144.047611,333,?,Linda,24,,unkown,unkown,,34
+A25295,LB-24-9,?,E.melliodora,LB-24,1,?,-36.980278,144.047611,333,?,Linda,24,,unkown,unkown,,34
+A25296,LB-24-10,?,E.melliodora,LB-24,1,?,-36.980278,144.047611,333,?,Linda,24,,unkown,unkown,,34
+A25297,LB-W3-1,?,E.melliodora,LB-W3,1,?,-36.487921,143.891325,138,?,Linda,W3,,unkown,unkown,,35
+A25298,LB-W3-2,?,E.melliodora,LB-W3,1,?,-36.487921,143.891325,138,?,Linda,W3,,unkown,unkown,,35
+A25299,LB-W3-3,?,E.melliodora,LB-W3,1,?,-36.487921,143.891325,138,?,Linda,W3,,unkown,unkown,,35
+A25300,LB-W3-4,?,E.melliodora,LB-W3,1,?,-36.487921,143.891325,138,?,Linda,W3,,unkown,unkown,,35
+A25301,LB-W3-5,?,E.melliodora,LB-W3,1,?,-36.487921,143.891325,138,?,Linda,W3,,unkown,unkown,,35
+A25302,LB-W3-6,?,E.melliodora,LB-W3,1,?,-36.487921,143.891325,138,?,Linda,W3,,unkown,unkown,,35
+A25303,LB-W3-7,?,E.melliodora,LB-W3,1,?,-36.487921,143.891325,138,?,Linda,W3,,unkown,unkown,,35
+A25304,LB-W3-8,?,E.melliodora,LB-W3,1,?,-36.487921,143.891325,138,?,Linda,W3,,unkown,unkown,,35
+A25305,LB-W3-9,?,E.melliodora,LB-W3,1,?,-36.487921,143.891325,138,?,Linda,W3,,unkown,unkown,,35
+A25306,LB-W3-10,?,E.melliodora,LB-W3,1,?,-36.487921,143.891325,138,?,Linda,W3,,unkown,unkown,,35
+A25307,LB-T3-1,?,E.melliodora,LB-T3,1,?,-35.299683,147.165733,258,?,Linda,T3,,unkown,unkown,,19
+A25308,LB-T3-2,?,E.melliodora,LB-T3,1,?,-35.299683,147.165733,258,?,Linda,T3,,unkown,unkown,,19
+A25309,LB-T3-3,?,E.melliodora,LB-T3,1,?,-35.299683,147.165733,258,?,Linda,T3,,unkown,unkown,,19
+A25310,LB-T3-4,?,E.melliodora,LB-T3,1,?,-35.299683,147.165733,258,?,Linda,T3,,unkown,unkown,,19
+A25311,LB-T3-5,?,E.melliodora,LB-T3,1,?,-35.299683,147.165733,258,?,Linda,T3,,unkown,unkown,,19
+A25312,LB-T3-6,?,E.melliodora,LB-T3,1,?,-35.299683,147.165733,258,?,Linda,T3,,unkown,unkown,,19
+A25313,LB-T3-7,?,E.melliodora,LB-T3,1,?,-35.299683,147.165733,258,?,Linda,T3,,unkown,unkown,,19
+A25314,LB-T3-8,?,E.melliodora,LB-T3,1,?,-35.299683,147.165733,258,?,Linda,T3,,unkown,unkown,,19
+A25315,LB-T3-9,?,E.melliodora,LB-T3,1,?,-35.299683,147.165733,258,?,Linda,T3,,unkown,unkown,,19
+A25316,LB-T3-10,?,E.melliodora,LB-T3,1,?,-35.299683,147.165733,258,?,Linda,T3,,unkown,unkown,,19
+A25317,LB-21-1,?,E.melliodora,LB-21,1,?,-37.144361,142.839428,244,?,Linda,21,,unkown,unkown,,38
+A25318,LB-21-2,?,E.melliodora,LB-21,1,?,-37.144361,142.839428,244,?,Linda,21,,unkown,unkown,,38
+A25319,LB-21-3,?,E.melliodora,LB-21,1,?,-37.144361,142.839428,244,?,Linda,21,,unkown,unkown,,38
+A25320,LB-21-4,?,E.melliodora,LB-21,1,?,-37.144361,142.839428,244,?,Linda,21,,unkown,unkown,,38
+A25321,LB-21-5,?,E.melliodora,LB-21,1,?,-37.144361,142.839428,244,?,Linda,21,,unkown,unkown,,38
+A25322,LB-21-6,?,E.melliodora,LB-21,1,?,-37.144361,142.839428,244,?,Linda,21,,unkown,unkown,,38
+A25323,LB-21-7,?,E.melliodora,LB-21,1,?,-37.144361,142.839428,244,?,Linda,21,,unkown,unkown,,38
+A25324,LB-21-8,?,E.melliodora,LB-21,1,?,-37.144361,142.839428,244,?,Linda,21,,unkown,unkown,,38
+A25325,LB-21-9,?,E.melliodora,LB-21,1,?,-37.144361,142.839428,244,?,Linda,21,,unkown,unkown,,38
+A25326,LB-21-10,?,E.melliodora,LB-21,1,?,-37.144361,142.839428,244,?,Linda,21,,unkown,unkown,,38
+A25327,LB-T2-1,?,E.melliodora,LB-T2,1,?,-35.37515,147.25261,266,?,Linda,T2,,unkown,unkown,,20
+A25328,LB-T2-2,?,E.melliodora,LB-T2,1,?,-35.37515,147.25261,266,?,Linda,T2,,unkown,unkown,,20
+A25329,LB-T2-3,?,E.melliodora,LB-T2,1,?,-35.37515,147.25261,266,?,Linda,T2,,unkown,unkown,,20
+A25330,LB-T2-4,?,E.melliodora,LB-T2,1,?,-35.37515,147.25261,266,?,Linda,T2,,unkown,unkown,,20
+A25331,LB-T2-5,?,E.melliodora,LB-T2,1,?,-35.37515,147.25261,266,?,Linda,T2,,unkown,unkown,,20
+A25332,LB-T2-6,?,E.melliodora,LB-T2,1,?,-35.37515,147.25261,266,?,Linda,T2,,unkown,unkown,,20
+A25333,LB-T2-7,?,E.melliodora,LB-T2,1,?,-35.37515,147.25261,266,?,Linda,T2,,unkown,unkown,,20
+A25334,LB-T2-8,?,E.melliodora,LB-T2,1,?,-35.37515,147.25261,266,?,Linda,T2,,unkown,unkown,,20
+A25335,LB-T2-9,?,E.melliodora,LB-T2,1,?,-35.37515,147.25261,266,?,Linda,T2,,unkown,unkown,,20
+A25336,LB-T2-10,?,E.melliodora,LB-T2,1,?,-35.37515,147.25261,266,?,Linda,T2,,unkown,unkown,,20
+A25337,LB-13-1,?,E.melliodora,LB-13,1,?,-36.997778,145.474944,?,?,Linda,13,,unkown,unkown,,29
+A25338,LB-13-2,?,E.melliodora,LB-13,1,?,-36.997778,145.474944,?,?,Linda,13,,unkown,unkown,,29
+A25339,LB-13-3,?,E.melliodora,LB-13,1,?,-36.997778,145.474944,?,?,Linda,13,,unkown,unkown,,29
+A25340,LB-13-4,?,E.melliodora,LB-13,1,?,-36.997778,145.474944,?,?,Linda,13,,unkown,unkown,,29
+A25341,LB-13-5,?,E.melliodora,LB-13,1,?,-36.997778,145.474944,?,?,Linda,13,,unkown,unkown,,29
+A25342,LB-13-6,?,E.melliodora,LB-13,1,?,-36.997778,145.474944,?,?,Linda,13,,unkown,unkown,,29
+A25343,LB-26-1,?,E.melliodora,LB-26,1,?,-35.39474,149.677129,?,?,Linda,26,not E. melliodora?,unkown,unkown,,14
+A25344,LB-26-2,?,E.melliodora,LB-26,1,?,-35.39474,149.677129,?,?,Linda,26,not E. melliodora?,unkown,unkown,,14
+A25345,LB-26-3,?,E.melliodora,LB-26,1,?,-35.39474,149.677129,?,?,Linda,26,,unkown,unkown,,14
+A25346,LB-26-4,?,E.melliodora,LB-26,1,?,-35.39474,149.677129,?,?,Linda,26,not E. melliodora?,unkown,unkown,,14
+A25347,LB-26-5,?,E.melliodora,LB-26,1,?,-35.39474,149.677129,?,?,Linda,26,not E. melliodora?,unkown,unkown,,14
+A25348,LB-26-6,?,E.melliodora,LB-26,1,?,-35.39474,149.677129,?,?,Linda,26,,unkown,unkown,,14
+A25349,LB-26-7,?,E.melliodora,LB-26,1,?,-35.39474,149.677129,?,?,Linda,26,not E. melliodora?,unkown,unkown,,14
+A25350,LB-26-8,?,E.melliodora,LB-26,1,?,-35.39474,149.677129,?,?,Linda,26,not E. melliodora?,unkown,unkown,,14
+A25351,LB-26-9,?,E.melliodora,LB-26,1,?,-35.39474,149.677129,?,?,Linda,26,,unkown,unkown,,14
+A25352,LB-26-10,?,E.melliodora,LB-26,1,?,-35.39474,149.677129,?,?,Linda,26,not E. melliodora?,unkown,unkown,,14
+A25353,LB-i1-1,?,E.melliodora,LB-i1,1,?,-36.75,145.583333,178,?,Linda,i1,,unkown,unkown,,28
+A25354,LB-i1-2,?,E.melliodora,LB-i1,1,?,-36.75,145.583333,178,?,Linda,i1,,unkown,unkown,,28
+A25355,LB-i1-3,?,E.melliodora,LB-i1,1,?,-36.75,145.583333,178,?,Linda,i1,,unkown,unkown,,28
+A25356,LB-i1-4,?,E.melliodora,LB-i1,1,?,-36.75,145.583333,178,?,Linda,i1,,unkown,unkown,,28
+A25357,LB-i1-5,?,E.melliodora,LB-i1,1,?,-36.75,145.583333,178,?,Linda,i1,,unkown,unkown,,28
+A25358,LB-i1-6,?,E.melliodora,LB-i1,1,?,-36.75,145.583333,178,?,Linda,i1,,unkown,unkown,,28
+A25359,LB-i1-7,?,E.melliodora,LB-i1,1,?,-36.75,145.583333,178,?,Linda,i1,,unkown,unkown,,28
+A25360,LB-i1-8,?,E.melliodora,LB-i1,1,?,-36.75,145.583333,178,?,Linda,i1,,unkown,unkown,,28
+A25361,LB-i1-9,?,E.melliodora,LB-i1,1,?,-36.75,145.583333,178,?,Linda,i1,,unkown,unkown,,28
+A25362,LB-i1-10,?,E.melliodora,LB-i1,1,?,-36.75,145.583333,178,?,Linda,i1,,unkown,unkown,,28
+A25363,LB-O-1,?,E.melliodora,LB-O,1,?,-37.4279,147.8924,?,?,Linda,O,not E. melliodora?,unkown,unkown,,23
+A25364,LB-O-2,?,E.melliodora,LB-O,1,?,-37.4279,147.8924,?,?,Linda,O,not E. melliodora?,unkown,unkown,,23
+A25365,LB-O-3,?,E.melliodora,LB-O,1,?,-37.4279,147.8924,?,?,Linda,O,not E. melliodora?,unkown,unkown,,23
+A25366,LB-O-4,?,E.melliodora,LB-O,1,?,-37.4279,147.8924,?,?,Linda,O,not E. melliodora?,unkown,unkown,,23
+A25367,LB-O-5,?,E.melliodora,LB-O,1,?,-37.4279,147.8924,?,?,Linda,O,not E. melliodora?,unkown,unkown,,23
+A25368,LB-O-6,?,E.melliodora,LB-O,1,?,-37.4279,147.8924,?,?,Linda,O,not E. melliodora?,unkown,unkown,,23
+A25369,LB-O-7,?,E.melliodora,LB-O,1,?,-37.4279,147.8924,?,?,Linda,O,,unkown,unkown,,23
+A25370,LB-O-8,?,E.melliodora,LB-O,1,?,-37.4279,147.8924,?,?,Linda,O,not E. melliodora?,unkown,unkown,,23
+A25371,LB-O-9,?,E.melliodora,LB-O,1,?,-37.4279,147.8924,?,?,Linda,O,not E. melliodora?,unkown,unkown,,23
+A25372,LB-O-10,?,E.melliodora,LB-O,1,?,-37.4279,147.8924,?,?,Linda,O,not E. melliodora?,unkown,unkown,,23
+A25373,RYE,GA?,E.melliodora,RYE,bulk,2004-2007,-34.6775,148.9245,?,?,GA,Rye Park 1,,unkown,unkown,,
+A25374,MAJ,GA?,E.melliodora,MAJ,bulk,2004-2007,-34.6736,149.1538,?,?,GA,Mt Majura 2,,unkown,unkown,,
+A25375,MUL,GA?,E.melliodora,MUL,bulk,2004-2007,-35.172,149.159,?,?,GA,Mulligans Flat 3,,unkown,unkown,,
+A25376,DIC,GA?,E.melliodora,DIC,1,2004-2007,-34.9884,149.161,?,?,GA,Dicks Creek 4,,unkown,unkown,,
+A25377,HAR,GA?,E.melliodora,HAR,bulk,2004-2007,-34.7382,148.2772,?,?,GA,Harden 5,,unkown,unkown,,
+A25378,TEM,GA?,E.melliodora,TEM,bulk,2004-2007,-34.536,147.6671,?,?,GA,Temora 6,,unkown,unkown,,
+A25379,JUN,GA?,E.melliodora,JUN,bulk,2004-2007,-34.8359,147.5079,?,?,GA,Junee 7,,unkown,unkown,,
+A25380,WAL,GA?,E.melliodora,WAL,bulk,2004-2007,-34.5959,148.1677,?,?,GA,Wallendbeen 8,,unkown,unkown,,
+A25381,BAR,GA?,E.melliodora,BAR,bulk,2004-2007,-34.1797,147.4116,?,?,GA,Barmedman 9,,unkown,unkown,,
+A25382,GUN,GA?,E.melliodora,GUN,bulk,2004-2007,-34.7672,149.2954,?,?,GA,Gunning 10,,unkown,unkown,,
+A25383,EUB,GA?,E.melliodora,EUB,bulk,2004-2007,-35.056,147.2324,?,?,GA,Euberta 11,,unkown,unkown,,
+A25384,COL,GA?,E.melliodora,COL,bulk,2004-2007,-35.0723,147.1113,?,?,GA,Collingullie 12,,unkown,unkown,,
+A25385,MOR,GA?,E.melliodora,MOR,bulk,2004-2007,-34.1067,148.6678,?,?,GA,Morongla 13,,unkown,unkown,,
+A25386,BER,GA?,E.melliodora,BER,bulk,2004-2007,-33.8416,147.5757,?,?,GA,Berrigan 14,,unkown,unkown,,
+A25387,CON,GA?,E.melliodora,CON,bulk,2004-2007,-35.2985,145.1679,?,?,GA,Conargo 15,,unkown,unkown,,
+A25388,HOLA,GA?,E.melliodora,HOLA,bulk,2004-2007,-35.5679,147.2737,?,?,GA,Holbrook 16,,unkown,unkown,,
+A25389,JER,GA?,E.melliodora,JER,bulk,2004-2007,-35.5437,147.2736,?,?,GA,Jerra Jerra 17,,unkown,unkown,,
+A25390,HOLB,GA?,E.melliodora,HOLB,bulk,2004-2007,-35.6333,147.3221,?,?,GA,Holbrook 18,,unkown,unkown,,
+A25391,MAR,GA?,E.melliodora,MAR,bulk,2004-2007,-35.9118,148.0951,?,?,GA,Maragle 19,,unkown,unkown,,
+A25392,WAB,GA?,E.melliodora,WAB,bulk,2004-2007,-35.6856,146.7222,?,?,GA,Walbundrie 20,,unkown,unkown,,

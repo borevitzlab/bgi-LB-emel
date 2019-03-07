@@ -1,0 +1,1392 @@
+PlantID,PlantName,AccessionID,AccessionName,ExperimentID,ExperimentName,ExperimentCondition,GrowthLocation,TrayPosition,SampleID,SampleName,SampleType,PlateName,PlateCoordinate,NameInWell,TubeBarcode,Notes,CleanedFileSize
+blank1,blank1,blank1,blank1,blank1,blank1,blank1,blank1,blank1,blank1,empty,control,Emel003A,B7,empty,none,blank,-
+P35001,LB-U-1,A25001,LB-U-1,none,none,nature,wild,none,S45001,U-1,leaf,Emelliodora_LB_Block1,A1,U1,none,,39124440
+P35002,LB-U-2,A25002,LB-U-2,none,none,nature,wild,none,S45002,U-2,leaf,Emelliodora_LB_Block1,B1,U2,none,,31663349
+P35003,LB-U-3,A25003,LB-U-3,none,none,nature,wild,none,S45003,U-3,leaf,Emelliodora_LB_Block1,C1,U3,none,,27787797
+P35004,LB-U-4,A25004,LB-U-4,none,none,nature,wild,none,S45004,U-4,leaf,Emelliodora_LB_Block1,D1,U4,none,,52016154
+P35005,LB-U-5,A25005,LB-U-5,none,none,nature,wild,none,S45005,U-5,leaf,Emelliodora_LB_Block1,E1,U5,none,,70053205
+P35006,LB-U-6,A25006,LB-U-6,none,none,nature,wild,none,S45006,U-6,leaf,Emelliodora_LB_Block1,F1,U6,none,,53688363
+P35007,LB-U-7,A25007,LB-U-7,none,none,nature,wild,none,S45007,U-7,leaf,Emelliodora_LB_Block1,G1,U7,none,,136572999
+P35008,LB-U-8,A25008,LB-U-8,none,none,nature,wild,none,S45008,U-8,leaf,Emelliodora_LB_Block1,H1,U8,none,failed—too few loci,970
+P35009,LB-U-9,A25009,LB-U-9,none,none,nature,wild,none,S45009,U-9,leaf,Emelliodora_LB_Block1,A2,U9,none,failed—too few loci,1355530
+P35010,LB-U-10,A25010,LB-U-10,none,none,nature,wild,none,S45010,U-10,leaf,Emelliodora_LB_Block1,B2,U10,none,,51100192
+P35011,LB-P-1,A25011,LB-P-1,none,none,nature,wild,none,S45011,P-1,leaf,Emelliodora_LB_Block1,C2,P1,none,failed—too few loci,1313795
+P35012,LB-P-2,A25012,LB-P-2,none,none,nature,wild,none,S45012,P-2,leaf,Emelliodora_LB_Block1,D2,P2,none,,62543395
+P35013,LB-P-3,A25013,LB-P-3,none,none,nature,wild,none,S45013,P-3,leaf,Emelliodora_LB_Block1,E2,P3,none,,51139918
+P35014,LB-P-4,A25014,LB-P-4,none,none,nature,wild,none,S45014,P-4,leaf,Emelliodora_LB_Block1,F2,P4,none,,82165210
+P35015,LB-P-5,A25015,LB-P-5,none,none,nature,wild,none,S45015,P-5,leaf,Emelliodora_LB_Block1,G2,P5,none,,91966855
+P35016,LB-P-6,A25016,LB-P-6,none,none,nature,wild,none,S45016,P-6,leaf,Emelliodora_LB_Block1,H2,P6,none,,93167542
+P35017,LB-P-7,A25017,LB-P-7,none,none,nature,wild,none,S45017,P-7,leaf,Emelliodora_LB_Block1,A3,P7,none,,53261626
+P35018,LB-P-8,A25018,LB-P-8,none,none,nature,wild,none,S45018,P-8,leaf,Emelliodora_LB_Block1,B3,P8,none,,86374845
+P35019,LB-P-9,A25019,LB-P-9,none,none,nature,wild,none,S45019,P-9,leaf,Emelliodora_LB_Block1,C3,P9,none,,99511396
+P35020,LB-P-10,A25020,LB-P-10,none,none,nature,wild,none,S45020,P-10,leaf,Emelliodora_LB_Block1,D3,P10,none,,85505097
+P35021,LB-G-1,A25021,LB-G-1,none,none,nature,wild,none,S45021,G-1,leaf,Emelliodora_LB_Block1,E3,G1,none,,86686771
+P35022,LB-G-2,A25022,LB-G-2,none,none,nature,wild,none,S45022,G-2,leaf,Emelliodora_LB_Block1,F3,G2,none,,33889004
+P35023,LB-G-3,A25023,LB-G-3,none,none,nature,wild,none,S45023,G-3,leaf,Emelliodora_LB_Block1,G3,G3,none,,60191896
+P35024,LB-G-4,A25024,LB-G-4,none,none,nature,wild,none,S45024,G-4,leaf,Emelliodora_LB_Block1,H3,G4,none,,85849806
+P35025,LB-G-5,A25025,LB-G-5,none,none,nature,wild,none,S45025,G-5,leaf,Emelliodora_LB_Block1,A4,G5,none,,45824854
+P35026,LB-G-6,A25026,LB-G-6,none,none,nature,wild,none,S45026,G-6,leaf,Emelliodora_LB_Block1,B4,G6,none,,87144543
+P35027,LB-G-7,A25027,LB-G-7,none,none,nature,wild,none,S45027,G-7,leaf,Emelliodora_LB_Block1,C4,G7,none,,62853129
+P35028,LB-G-8,A25028,LB-G-8,none,none,nature,wild,none,S45028,G-8,leaf,Emelliodora_LB_Block1,D4,G8,none,,68126855
+P35029,LB-G-9,A25029,LB-G-9,none,none,nature,wild,none,S45029,G-9,leaf,Emelliodora_LB_Block1,E4,G9,none,failed—too few loci,247707
+P35030,LB-G-10,A25030,LB-G-10,none,none,nature,wild,none,S45030,G-10,leaf,Emelliodora_LB_Block1,F4,G10,none,,30424428
+P35031,LB-W1-1,A25031,LB-W1-1,none,none,nature,wild,none,S45031,W1-1,leaf,Emelliodora_LB_Block1,G4,W1-1,none,,96018045
+P35032,LB-W1-2,A25032,LB-W1-2,none,none,nature,wild,none,S45032,W1-2,leaf,Emelliodora_LB_Block1,H4,W1-2,none,,74926800
+P35033,LB-W1-3,A25033,LB-W1-3,none,none,nature,wild,none,S45033,W1-3,leaf,Emelliodora_LB_Block1,A5,W1-3,none,,99969535
+P35034,LB-W1-4,A25034,LB-W1-4,none,none,nature,wild,none,S45034,W1-4,leaf,Emelliodora_LB_Block1,B5,W1-4,none,,64781324
+P35035,LB-W1-5,A25035,LB-W1-5,none,none,nature,wild,none,S45035,W1-5,leaf,Emelliodora_LB_Block1,C5,W1-5,none,failed—too few loci,3067836
+P35036,LB-W1-6,A25036,LB-W1-6,none,none,nature,wild,none,S45036,W1-6,leaf,Emelliodora_LB_Block1,D5,W1-6,none,,85777727
+P35037,LB-W1-7,A25037,LB-W1-7,none,none,nature,wild,none,S45037,W1-7,leaf,Emelliodora_LB_Block1,E5,W1-7,none,,116321722
+P35038,LB-W1-8,A25038,LB-W1-8,none,none,nature,wild,none,S45038,W1-8,leaf,Emelliodora_LB_Block1,F5,W1-8,none,,101759128
+P35039,LB-W1-9,A25039,LB-W1-9,none,none,nature,wild,none,S45039,W1-9,leaf,Emelliodora_LB_Block1,G5,W1-9,none,,48343327
+P35040,LB-W1-10,A25040,LB-W1-10,none,none,nature,wild,none,S45040,W1-10,leaf,Emelliodora_LB_Block1,H5,W1-10,none,failed—too few loci,613589
+P35041,LB-H-1,A25041,LB-H-1,none,none,nature,wild,none,S45041,H-1,leaf,Emelliodora_LB_Block1,A6,H1,none,failed—too few loci,836686
+P35042,LB-H-2,A25042,LB-H-2,none,none,nature,wild,none,S45042,H-2,leaf,Emelliodora_LB_Block1,B6,H2,none,,86314296
+P35043,LB-H-3,A25043,LB-H-3,none,none,nature,wild,none,S45043,H-3,leaf,Emelliodora_LB_Block1,C6,H3,none,,25496188
+P35044,LB-H-4,A25044,LB-H-4,none,none,nature,wild,none,S45044,H-4,leaf,Emelliodora_LB_Block1,D6,H4,none,,61993781
+P35045,LB-H-5,A25045,LB-H-5,none,none,nature,wild,none,S45045,H-5,leaf,Emelliodora_LB_Block1,E6,H5,none,,67003505
+P35046,LB-H-6,A25046,LB-H-6,none,none,nature,wild,none,S45046,H-6,leaf,Emelliodora_LB_Block1,F6,H6,none,,61716744
+P35047,LB-H-7,A25047,LB-H-7,none,none,nature,wild,none,S45047,H-7,leaf,Emelliodora_LB_Block1,G6,H7,none,,9778033
+P35048,LB-H-8,A25048,LB-H-8,none,none,nature,wild,none,S45048,H-8,leaf,Emelliodora_LB_Block1,H6,H8,none,,84205126
+P35049,LB-H-9,A25049,LB-H-9,none,none,nature,wild,none,S45049,H-9,leaf,Emelliodora_LB_Block1,A7,H9,none,failed—too few loci,1516419
+P35050,LB-H-10,A25050,LB-H-10,none,none,nature,wild,none,S45050,H-10,leaf,Emelliodora_LB_Block1,B7,H10,none,failed—too few loci,2772871
+P35051,LB-M-3,A25051,LB-M-3,none,none,nature,wild,none,S45051,M-3,leaf,Emelliodora_LB_Block1,C7,M3,none,outlier—species,9902504
+P35052,LB-M-4,A25052,LB-M-4,none,none,nature,wild,none,S45052,M-4,leaf,Emelliodora_LB_Block1,D7,M4,none,failed—too few loci,220302
+P35053,LB-M-5,A25053,LB-M-5,none,none,nature,wild,none,S45053,M-5,leaf,Emelliodora_LB_Block1,E7,M5,none,failed—too few loci,48228
+P35054,LB-D-1,A25054,LB-D-1,none,none,nature,wild,none,S45054,D-1,leaf,Emelliodora_LB_Block1,F7,D1,none,,103609027
+P35055,LB-D-2,A25055,LB-D-2,none,none,nature,wild,none,S45055,D-2,leaf,Emelliodora_LB_Block1,G7,D2,none,,98725717
+P35056,LB-D-3,A25056,LB-D-3,none,none,nature,wild,none,S45056,D-3,leaf,Emelliodora_LB_Block1,H7,D3,none,,63137663
+P35057,LB-D-4,A25057,LB-D-4,none,none,nature,wild,none,S45057,D-4,leaf,Emelliodora_LB_Block1,A8,D4,none,failed—too few loci,1295699
+P35058,LB-D-5,A25058,LB-D-5,none,none,nature,wild,none,S45058,D-5,leaf,Emelliodora_LB_Block1,B8,D5,none,,92146237
+P35059,LB-D-6,A25059,LB-D-6,none,none,nature,wild,none,S45059,D-6,leaf,Emelliodora_LB_Block1,C8,D6,none,,77323429
+P35060,LB-D-7,A25060,LB-D-7,none,none,nature,wild,none,S45060,D-7,leaf,Emelliodora_LB_Block1,D8,D7,none,,69201318
+P35061,LB-D-8,A25061,LB-D-8,none,none,nature,wild,none,S45061,D-8,leaf,Emelliodora_LB_Block1,E8,D8,none,,133208220
+P35062,LB-D-9,A25062,LB-D-9,none,none,nature,wild,none,S45062,D-9,leaf,Emelliodora_LB_Block1,F8,D9,none,,107940869
+P35063,LB-D-10,A25063,LB-D-10,none,none,nature,wild,none,S45063,D-10,leaf,Emelliodora_LB_Block1,G8,D10,none,,87814440
+P35064,LB-V-1,A25064,LB-V-1,none,none,nature,wild,none,S45064,V-1,leaf,Emelliodora_LB_Block1,H8,V1,none,,85867204
+P35065,LB-V-2,A25065,LB-V-2,none,none,nature,wild,none,S45065,V-2,leaf,Emelliodora_LB_Block1,A9,V2,none,failed—too few loci,3418305
+P35066,LB-V-3,A25066,LB-V-3,none,none,nature,wild,none,S45066,V-3,leaf,Emelliodora_LB_Block1,B9,V3,none,,85053482
+P35067,LB-V-4,A25067,LB-V-4,none,none,nature,wild,none,S45067,V-4,leaf,Emelliodora_LB_Block1,C9,V4,none,,74141967
+P35068,LB-V-5,A25068,LB-V-5,none,none,nature,wild,none,S45068,V-5,leaf,Emelliodora_LB_Block1,D9,V5,none,,45821167
+P35069,LB-V-6,A25069,LB-V-6,none,none,nature,wild,none,S45069,V-6,leaf,Emelliodora_LB_Block1,E9,V6,none,,53886437
+P35070,LB-V-7,A25070,LB-V-7,none,none,nature,wild,none,S45070,V-7,leaf,Emelliodora_LB_Block1,F9,V7,none,,57768831
+P35071,LB-V-8,A25071,LB-V-8,none,none,nature,wild,none,S45071,V-8,leaf,Emelliodora_LB_Block1,G9,V8,none,,106525149
+P35072,LB-V-9,A25072,LB-V-9,none,none,nature,wild,none,S45072,V-9,leaf,Emelliodora_LB_Block1,H9,V9,none,failed—too few loci,219628
+P35073,LB-V-10,A25073,LB-V-10,none,none,nature,wild,none,S45073,V-10,leaf,Emelliodora_LB_Block1,A10,V10,none,failed—too few loci,1817898
+P35074,LB-A-2,A25074,LB-A-2,none,none,nature,wild,none,S45074,A-2,leaf,Emelliodora_LB_Block1,B10,A2,none,,83107293
+P35075,LB-A-3,A25075,LB-A-3,none,none,nature,wild,none,S45075,A-3,leaf,Emelliodora_LB_Block1,C10,A3,none,,35878842
+P35076,LB-A-4,A25076,LB-A-4,none,none,nature,wild,none,S45076,A-4,leaf,Emelliodora_LB_Block1,D10,A4,none,,69126669
+P35077,LB-A-5,A25077,LB-A-5,none,none,nature,wild,none,S45077,A-5,leaf,Emelliodora_LB_Block1,E10,A5,none,,34468713
+P35078,LB-A-6,A25078,LB-A-6,none,none,nature,wild,none,S45078,A-6,leaf,Emelliodora_LB_Block1,F10,A6,none,,30479511
+P35079,LB-A-7,A25079,LB-A-7,none,none,nature,wild,none,S45079,A-7,leaf,Emelliodora_LB_Block1,G10,A7,none,,79903130
+P35080,LB-A-8,A25080,LB-A-8,none,none,nature,wild,none,S45080,A-8,leaf,Emelliodora_LB_Block1,H10,A8,none,,72361148
+P35081,LB-A-9,A25081,LB-A-9,none,none,nature,wild,none,S45081,A-9,leaf,Emelliodora_LB_Block1,A11,A9,none,,110232020
+P35082,LB-A-10,A25082,LB-A-10,none,none,nature,wild,none,S45082,A-10,leaf,Emelliodora_LB_Block1,B11,A10,none,,86722301
+P35083,LB-A-11,A25083,LB-A-11,none,none,nature,wild,none,S45083,A-11,leaf,Emelliodora_LB_Block1,C11,A11,none,,61299021
+P35084,LB-1-1,A25084,LB-1-1,none,none,nature,wild,none,S45084,1-1,leaf,Emelliodora_LB_Block1,D11,site1-1,none,,58965622
+P35085,LB-1-2,A25085,LB-1-2,none,none,nature,wild,none,S45085,1-2,leaf,Emelliodora_LB_Block1,E11,site1-2,none,,136518818
+P35086,LB-1-3,A25086,LB-1-3,none,none,nature,wild,none,S45086,1-3,leaf,Emelliodora_LB_Block1,F11,site1-3,none,,73068457
+P35087,LB-1-4,A25087,LB-1-4,none,none,nature,wild,none,S45087,1-4,leaf,Emelliodora_LB_Block1,G11,site1-4,none,,95467726
+P35088,LB-1-5,A25088,LB-1-5,none,none,nature,wild,none,S45088,1-5,leaf,Emelliodora_LB_Block1,H11,site1-5,none,,61482404
+P35089,LB-1-6,A25089,LB-1-6,none,none,nature,wild,none,S45089,1-6,leaf,Emelliodora_LB_Block1,A12,site1-6,none,,81087946
+P35090,LB-1-7,A25090,LB-1-7,none,none,nature,wild,none,S45090,1-7,leaf,Emelliodora_LB_Block1,B12,site1-7,none,failed—too few loci,278719
+P35091,LB-1-8,A25091,LB-1-8,none,none,nature,wild,none,S45091,1-8,leaf,Emelliodora_LB_Block1,C12,site1-8,none,,20029350
+P35092,LB-1-9,A25092,LB-1-9,none,none,nature,wild,none,S45092,1-9,leaf,Emelliodora_LB_Block1,D12,site1-9,none,failed—too few loci,245817
+P35093,LB-1-10,A25093,LB-1-10,none,none,nature,wild,none,S45093,1-10,leaf,Emelliodora_LB_Block1,E12,site1-10,none,outlier pca,24390500
+P35094,LB-C-1,A25094,LB-C-1,none,none,nature,wild,none,S45094,C-1,leaf,Emelliodora_LB_Block1,F12,C1,none,failed—too few loci,621935
+P35095,LB-C-2,A25095,LB-C-2,none,none,nature,wild,none,S45095,C-2,leaf,Emelliodora_LB_Block1,G12,C2,none,outlier pca,53080367
+P35096,LB-C-3,A25096,LB-C-3,none,none,nature,wild,none,S45096,C-3,leaf,Emelliodora_LB_Block1,H12,C3,none,failed—no reads,0
+P35097,LB-C-4,A25097,LB-C-4,none,none,nature,wild,none,S45097,C-4,leaf,Emelliodora_LB_Block2,A1,C4,none,,32315049
+P35098,LB-C-5,A25098,LB-C-5,none,none,nature,wild,none,S45098,C-5,leaf,Emelliodora_LB_Block2,B1,C5,none,,87887167
+P35099,LB-C-6,A25099,LB-C-6,none,none,nature,wild,none,S45099,C-6,leaf,Emelliodora_LB_Block2,C1,C6,none,,35910256
+P35100,LB-C-7,A25100,LB-C-7,none,none,nature,wild,none,S45100,C-7,leaf,Emelliodora_LB_Block2,D1,C7,none,,73805688
+P35101,LB-C-8,A25101,LB-C-8,none,none,nature,wild,none,S45101,C-8,leaf,Emelliodora_LB_Block2,E1,C8,none,,31652976
+P35102,LB-C-9,A25102,LB-C-9,none,none,nature,wild,none,S45102,C-9,leaf,Emelliodora_LB_Block2,F1,C9,none,,37201175
+P35103,LB-N2-1,A25103,LB-N2-1,none,none,nature,wild,none,S45103,N2-1,leaf,Emelliodora_LB_Block2,G1,N2-1,none,,118660659
+P35104,LB-N2-2,A25104,LB-N2-2,none,none,nature,wild,none,S45104,N2-2,leaf,Emelliodora_LB_Block2,H1,N2-2,none,failed—too few loci,1133
+P35105,LB-N2-3,A25105,LB-N2-3,none,none,nature,wild,none,S45105,N2-3,leaf,Emelliodora_LB_Block2,A2,N2-3,none,failed—too few loci,835438
+P35106,LB-N2-4,A25106,LB-N2-4,none,none,nature,wild,none,S45106,N2-4,leaf,Emelliodora_LB_Block2,B2,N2-4,none,,68653273
+P35107,LB-N2-5,A25107,LB-N2-5,none,none,nature,wild,none,S45107,N2-5,leaf,Emelliodora_LB_Block2,C2,N2-5,none,failed—too few loci,1009075
+P35108,LB-N2-6,A25108,LB-N2-6,none,none,nature,wild,none,S45108,N2-6,leaf,Emelliodora_LB_Block2,D2,N2-6,none,,62280215
+P35109,LB-N2-7,A25109,LB-N2-7,none,none,nature,wild,none,S45109,N2-7,leaf,Emelliodora_LB_Block2,E2,N2-7,none,,67965415
+P35110,LB-N2-8,A25110,LB-N2-8,none,none,nature,wild,none,S45110,N2-8,leaf,Emelliodora_LB_Block2,F2,N2-8,none,,65324520
+P35111,LB-N2-9,A25111,LB-N2-9,none,none,nature,wild,none,S45111,N2-9,leaf,Emelliodora_LB_Block2,G2,N2-9,none,,54838047
+P35112,LB-N2-10,A25112,LB-N2-10,none,none,nature,wild,none,S45112,N2-10,leaf,Emelliodora_LB_Block2,H2,N2-10,none,,29509568
+P35113,LB-N1-1,A25113,LB-N1-1,none,none,nature,wild,none,S45113,N1-1,leaf,Emelliodora_LB_Block2,A3,N1-1,none,,12558326
+P35114,LB-N1-2,A25114,LB-N1-2,none,none,nature,wild,none,S45114,N1-2,leaf,Emelliodora_LB_Block2,B3,N1-2,none,,45404579
+P35115,LB-N1-3,A25115,LB-N1-3,none,none,nature,wild,none,S45115,N1-3,leaf,Emelliodora_LB_Block2,C3,N1-3,none,,62837082
+P35116,LB-N1-4,A25116,LB-N1-4,none,none,nature,wild,none,S45116,N1-4,leaf,Emelliodora_LB_Block2,D3,N1-4,none,,51141048
+P35117,LB-N1-5,A25117,LB-N1-5,none,none,nature,wild,none,S45117,N1-5,leaf,Emelliodora_LB_Block2,E3,N1-5,none,,35542776
+P35118,LB-N1-6,A25118,LB-N1-6,none,none,nature,wild,none,S45118,N1-6,leaf,Emelliodora_LB_Block2,F3,N1-6,none,,96439524
+P35119,LB-N1-7,A25119,LB-N1-7,none,none,nature,wild,none,S45119,N1-7,leaf,Emelliodora_LB_Block2,G3,N1-7,none,,45601894
+P35120,LB-N1-8,A25120,LB-N1-8,none,none,nature,wild,none,S45120,N1-8,leaf,Emelliodora_LB_Block2,H3,N1-8,none,,65616845
+P35121,LB-N1-9,A25121,LB-N1-9,none,none,nature,wild,none,S45121,N1-9,leaf,Emelliodora_LB_Block2,A4,N1-9,none,,53789330
+P35122,LB-N1-10,A25122,LB-N1-10,none,none,nature,wild,none,S45122,N1-10,leaf,Emelliodora_LB_Block2,B4,N1-10,none,,51134534
+P35123,LB-3-1,A25123,LB-3-1,none,none,nature,wild,none,S45123,3-1,leaf,Emelliodora_LB_Block2,C4,site3-1,none,,52005414
+P35124,LB-3-2,A25124,LB-3-2,none,none,nature,wild,none,S45124,3-2,leaf,Emelliodora_LB_Block2,D4,site3-2,none,,29382752
+P35125,LB-3-3,A25125,LB-3-3,none,none,nature,wild,none,S45125,3-3,leaf,Emelliodora_LB_Block2,E4,site3-3,none,,49223103
+P35126,LB-3-4,A25126,LB-3-4,none,none,nature,wild,none,S45126,3-4,leaf,Emelliodora_LB_Block2,F4,site3-4,none,,51559884
+P35127,LB-3-5,A25127,LB-3-5,none,none,nature,wild,none,S45127,3-5,leaf,Emelliodora_LB_Block2,G4,site3-5,none,,35010294
+P35128,LB-3-6,A25128,LB-3-6,none,none,nature,wild,none,S45128,3-6,leaf,Emelliodora_LB_Block2,H4,site3-6,none,,17245778
+P35129,LB-3-7,A25129,LB-3-7,none,none,nature,wild,none,S45129,3-7,leaf,Emelliodora_LB_Block2,A5,site3-7,none,,24959903
+P35130,LB-3-8,A25130,LB-3-8,none,none,nature,wild,none,S45130,3-8,leaf,Emelliodora_LB_Block2,B5,site3-8,none,,28504431
+P35131,LB-3-9,A25131,LB-3-9,none,none,nature,wild,none,S45131,3-9,leaf,Emelliodora_LB_Block2,C5,site3-9,none,failed—too few loci,1765347
+P35132,LB-3-10,A25132,LB-3-10,none,none,nature,wild,none,S45132,3-10,leaf,Emelliodora_LB_Block2,D5,site3-10,none,,16669630
+P35133,LB-7-1,A25133,LB-7-1,none,none,nature,wild,none,S45133,7-1,leaf,Emelliodora_LB_Block2,E5,site7-1,none,outlier—geographic,54083951
+P35134,LB-7-2,A25134,LB-7-2,none,none,nature,wild,none,S45134,7-2,leaf,Emelliodora_LB_Block2,F5,site7-2,none,outlier—geographic,77462539
+P35135,LB-7-3,A25135,LB-7-3,none,none,nature,wild,none,S45135,7-3,leaf,Emelliodora_LB_Block2,G5,site7-3,none,outlier—geographic,77566385
+P35136,LB-7-4,A25136,LB-7-4,none,none,nature,wild,none,S45136,7-4,leaf,Emelliodora_LB_Block2,H5,site7-4,none,outlier—geographic,70314204
+P35137,LB-7-5,A25137,LB-7-5,none,none,nature,wild,none,S45137,7-5,leaf,Emelliodora_LB_Block2,A6,site7-5,none,outlier—geographic; failed—too few loci,588144
+P35138,LB-7-6,A25138,LB-7-6,none,none,nature,wild,none,S45138,7-6,leaf,Emelliodora_LB_Block2,B6,site7-6,none,outlier—geographic,19673251
+P35139,LB-7-7,A25139,LB-7-7,none,none,nature,wild,none,S45139,7-7,leaf,Emelliodora_LB_Block2,C6,site7-7,none,outlier—geographic,60587926
+P35140,LB-B-1,A25140,LB-B-1,none,none,nature,wild,none,S45140,B-1,leaf,Emelliodora_LB_Block2,D6,B1,none,,62756881
+P35141,LB-B-2,A25141,LB-B-2,none,none,nature,wild,none,S45141,B-2,leaf,Emelliodora_LB_Block2,E6,B2,none,,88691431
+P35142,LB-B-3,A25142,LB-B-3,none,none,nature,wild,none,S45142,B-3,leaf,Emelliodora_LB_Block2,F6,B3,none,,135088518
+P35143,LB-B-4,A25143,LB-B-4,none,none,nature,wild,none,S45143,B-4,leaf,Emelliodora_LB_Block2,G6,B4,none,,93716157
+P35144,LB-B-5,A25144,LB-B-5,none,none,nature,wild,none,S45144,B-5,leaf,Emelliodora_LB_Block2,H6,B5,none,,69568515
+P35145,LB-B-6,A25145,LB-B-6,none,none,nature,wild,none,S45145,B-6,leaf,Emelliodora_LB_Block2,A7,B6,none,failed—too few loci,348088
+P35146,LB-B-7,A25146,LB-B-7,none,none,nature,wild,none,S45146,B-7,leaf,Emelliodora_LB_Block2,B7,B7,none,failed—too few loci,2221063
+P35147,LB-B-8,A25147,LB-B-8,none,none,nature,wild,none,S45147,B-8,leaf,Emelliodora_LB_Block2,C7,B8,none,,37726800
+P35148,LB-B-9,A25148,LB-B-9,none,none,nature,wild,none,S45148,B-9,leaf,Emelliodora_LB_Block2,D7,B9,none,failed—too few loci,1754154
+P35149,LB-B-10,A25149,LB-B-10,none,none,nature,wild,none,S45149,B-10,leaf,Emelliodora_LB_Block2,E7,B10,none,,62794611
+P35150,LB-J2-1,A25150,LB-J2-1,none,none,nature,wild,none,S45150,J2-1,leaf,Emelliodora_LB_Block2,F7,J2-1,none,,56133903
+P35151,LB-J2-2,A25151,LB-J2-2,none,none,nature,wild,none,S45151,J2-2,leaf,Emelliodora_LB_Block2,G7,J2-2,none,,69981074
+P35152,LB-J2-3,A25152,LB-J2-3,none,none,nature,wild,none,S45152,J2-3,leaf,Emelliodora_LB_Block2,H7,J2-3,none,,52768717
+P35153,LB-J2-4,A25153,LB-J2-4,none,none,nature,wild,none,S45153,J2-4,leaf,Emelliodora_LB_Block2,A8,J2-4,none,failed—too few loci,494103
+P35154,LB-J2-5,A25154,LB-J2-5,none,none,nature,wild,none,S45154,J2-5,leaf,Emelliodora_LB_Block2,B8,J2-5,none,,39211685
+P35155,LB-J2-6,A25155,LB-J2-6,none,none,nature,wild,none,S45155,J2-6,leaf,Emelliodora_LB_Block2,C8,J2-6,none,,57160312
+P35156,LB-J2-7,A25156,LB-J2-7,none,none,nature,wild,none,S45156,J2-7,leaf,Emelliodora_LB_Block2,D8,J2-7,none,,69398065
+P35157,LB-J2-8,A25157,LB-J2-8,none,none,nature,wild,none,S45157,J2-8,leaf,Emelliodora_LB_Block2,E8,J2-8,none,,59633616
+P35158,LB-J2-9,A25158,LB-J2-9,none,none,nature,wild,none,S45158,J2-9,leaf,Emelliodora_LB_Block2,F8,J2-9,none,,130336747
+P35159,LB-J2-10,A25159,LB-J2-10,none,none,nature,wild,none,S45159,J2-10,leaf,Emelliodora_LB_Block2,G8,J2-10,none,,65029506
+P35160,LB-17-1,A25160,LB-17-1,none,none,nature,wild,none,S45160,17-1,leaf,Emelliodora_LB_Block2,H8,site17-1,none,,63313764
+P35161,LB-17-2,A25161,LB-17-2,none,none,nature,wild,none,S45161,17-2,leaf,Emelliodora_LB_Block2,A9,site17-2,none,failed—too few loci,1382210
+P35162,LB-17-3,A25162,LB-17-3,none,none,nature,wild,none,S45162,17-3,leaf,Emelliodora_LB_Block2,B9,site17-3,none,,64951395
+P35163,LB-17-4,A25163,LB-17-4,none,none,nature,wild,none,S45163,17-4,leaf,Emelliodora_LB_Block2,C9,site17-4,none,,77038713
+P35164,LB-17-5,A25164,LB-17-5,none,none,nature,wild,none,S45164,17-5,leaf,Emelliodora_LB_Block2,D9,site17-5,none,,67847525
+P35165,LB-17-6,A25165,LB-17-6,none,none,nature,wild,none,S45165,17-6,leaf,Emelliodora_LB_Block2,E9,site17-6,none,,48454535
+P35166,LB-17-7,A25166,LB-17-7,none,none,nature,wild,none,S45166,17-7,leaf,Emelliodora_LB_Block2,F9,site17-7,none,,71324042
+P35167,LB-17-8,A25167,LB-17-8,none,none,nature,wild,none,S45167,17-8,leaf,Emelliodora_LB_Block2,G9,site17-8,none,,65366869
+P35168,LB-17-9,A25168,LB-17-9,none,none,nature,wild,none,S45168,17-9,leaf,Emelliodora_LB_Block2,H9,site17-9,none,,42376892
+P35169,LB-17-10,A25169,LB-17-10,none,none,nature,wild,none,S45169,17-10,leaf,Emelliodora_LB_Block2,A10,site17-10,none,failed—too few loci,864927
+P35170,LB-11-1,A25170,LB-11-1,none,none,nature,wild,none,S45170,11-1,leaf,Emelliodora_LB_Block2,B10,site11-1,none,,33697002
+P35171,LB-11-2,A25171,LB-11-2,none,none,nature,wild,none,S45171,11-2,leaf,Emelliodora_LB_Block2,C10,site11-2,none,,94372613
+P35172,LB-11-3,A25172,LB-11-3,none,none,nature,wild,none,S45172,11-3,leaf,Emelliodora_LB_Block2,D10,site11-3,none,,78363616
+P35173,LB-11-4,A25173,LB-11-4,none,none,nature,wild,none,S45173,11-4,leaf,Emelliodora_LB_Block2,E10,site11-4,none,,83877488
+P35174,LB-11-5,A25174,LB-11-5,none,none,nature,wild,none,S45174,11-5,leaf,Emelliodora_LB_Block2,F10,site11-5,none,,42029339
+P35175,LB-11-6,A25175,LB-11-6,none,none,nature,wild,none,S45175,11-6,leaf,Emelliodora_LB_Block2,G10,site11-6,none,failed—too few loci,244881
+P35176,LB-11-7,A25176,LB-11-7,none,none,nature,wild,none,S45176,11-7,leaf,Emelliodora_LB_Block2,H10,site11-7,none,,72124383
+P35177,LB-11-8,A25177,LB-11-8,none,none,nature,wild,none,S45177,11-8,leaf,Emelliodora_LB_Block2,A11,site11-8,none,,38471352
+P35178,LB-11-9,A25178,LB-11-9,none,none,nature,wild,none,S45178,11-9,leaf,Emelliodora_LB_Block2,B11,site11-9,none,,40064870
+P35179,LB-11-10,A25179,LB-11-10,none,none,nature,wild,none,S45179,11-10,leaf,Emelliodora_LB_Block2,C11,site11-10,none,,37553911
+P35180,LB-i2-1,A25180,LB-i2-1,none,none,nature,wild,none,S45180,i2-1,leaf,Emelliodora_LB_Block2,D11,i2-1,none,,35041007
+P35181,LB-i2-2,A25181,LB-i2-2,none,none,nature,wild,none,S45181,i2-2,leaf,Emelliodora_LB_Block2,E11,i2-2,none,,35820193
+P35182,LB-i2-3,A25182,LB-i2-3,none,none,nature,wild,none,S45182,i2-3,leaf,Emelliodora_LB_Block2,F11,i2-3,none,failed—too few loci,1487017
+P35183,LB-i2-4,A25183,LB-i2-4,none,none,nature,wild,none,S45183,i2-4,leaf,Emelliodora_LB_Block2,G11,i2-4,none,,51221544
+P35184,LB-i2-5,A25184,LB-i2-5,none,none,nature,wild,none,S45184,i2-5,leaf,Emelliodora_LB_Block2,H11,i2-5,none,,33803609
+P35185,LB-i2-6,A25185,LB-i2-6,none,none,nature,wild,none,S45185,i2-6,leaf,Emelliodora_LB_Block2,A12,i2-6,none,,38011914
+P35186,LB-i2-7,A25186,LB-i2-7,none,none,nature,wild,none,S45186,i2-7,leaf,Emelliodora_LB_Block2,B12,i2-7,none,failed—too few loci,897931
+P35187,LB-i2-8,A25187,LB-i2-8,none,none,nature,wild,none,S45187,i2-8,leaf,Emelliodora_LB_Block2,C12,i2-8,none,,68057122
+P35188,LB-i2-9,A25188,LB-i2-9,none,none,nature,wild,none,S45188,i2-9,leaf,Emelliodora_LB_Block2,D12,i2-9,none,failed—too few loci,1680
+P35189,LB-i2-10,A25189,LB-i2-10,none,none,nature,wild,none,S45189,i2-10,leaf,Emelliodora_LB_Block2,E12,i2-10,none,,256679643
+P35190,LB-16-1,A25190,LB-16-1,none,none,nature,wild,none,S45190,16-1,leaf,Emelliodora_LB_Block2,F12,site16-1,none,failed—too few loci,1788663
+P35191,LB-16-2,A25191,LB-16-2,none,none,nature,wild,none,S45191,16-2,leaf,Emelliodora_LB_Block2,G12,site16-2,none,,88331416
+P35192,LB-16-3,A25192,LB-16-3,none,none,nature,wild,none,S45192,16-3,leaf,Emelliodora_LB_Block2,H12,site16-3,none,failed—no reads,0
+P35193,LB-16-4,A25193,LB-16-4,none,none,nature,wild,none,S45193,16-4,leaf,Emelliodora_LB_Block3,A1,site16-4,none,outlier pca,38282897
+P35194,LB-16-5,A25194,LB-16-5,none,none,nature,wild,none,S45194,16-5,leaf,Emelliodora_LB_Block3,B1,site16-5,none,outlier pca,58430442
+P35195,LB-16-6,A25195,LB-16-6,none,none,nature,wild,none,S45195,16-6,leaf,Emelliodora_LB_Block3,C1,site16-6,none,outlier pca,26334427
+P35196,LB-16-7,A25196,LB-16-7,none,none,nature,wild,none,S45196,16-7,leaf,Emelliodora_LB_Block3,D1,site16-7,none,,42300964
+P35197,LB-2-1,A25197,LB-2-1,none,none,nature,wild,none,S45197,2-1,leaf,Emelliodora_LB_Block3,E1,site2-1,none,,45361665
+P35198,LB-2-2,A25198,LB-2-2,none,none,nature,wild,none,S45198,2-2,leaf,Emelliodora_LB_Block3,F1,site2-2,none,,73821329
+P35199,LB-2-3,A25199,LB-2-3,none,none,nature,wild,none,S45199,2-3,leaf,Emelliodora_LB_Block3,G1,site2-3,none,,176630378
+P35200,LB-2-4,A25200,LB-2-4,none,none,nature,wild,none,S45200,2-4,leaf,Emelliodora_LB_Block3,H1,site2-4,none,failed—too few loci,19854
+P35201,LB-2-5,A25201,LB-2-5,none,none,nature,wild,none,S45201,2-5,leaf,Emelliodora_LB_Block3,A2,site2-5,none,failed—too few loci,2534346
+P35202,LB-2-6,A25202,LB-2-6,none,none,nature,wild,none,S45202,2-6,leaf,Emelliodora_LB_Block3,B2,site2-6,none,,85207524
+P35203,LB-2-7,A25203,LB-2-7,none,none,nature,wild,none,S45203,2-7,leaf,Emelliodora_LB_Block3,C2,site2-7,none,failed—too few loci,1839110
+P35204,LB-2-8,A25204,LB-2-8,none,none,nature,wild,none,S45204,2-8,leaf,Emelliodora_LB_Block3,D2,site2-8,none,,80359549
+P35205,LB-2-9,A25205,LB-2-9,none,none,nature,wild,none,S45205,2-9,leaf,Emelliodora_LB_Block3,E2,site2-9,none,,67743693
+P35206,LB-2-10,A25206,LB-2-10,none,none,nature,wild,none,S45206,2-10,leaf,Emelliodora_LB_Block3,F2,site2-10,none,,52523814
+P35207,LB-14-1,A25207,LB-14-1,none,none,nature,wild,none,S45207,14-1,leaf,Emelliodora_LB_Block3,G2,site14-1,none,,65305715
+P35208,LB-14-2,A25208,LB-14-2,none,none,nature,wild,none,S45208,14-2,leaf,Emelliodora_LB_Block3,H2,site14-2,none,,30511450
+P35209,LB-14-3,A25209,LB-14-3,none,none,nature,wild,none,S45209,14-3,leaf,Emelliodora_LB_Block3,A3,site14-3,none,,71714174
+P35210,LB-14-4,A25210,LB-14-4,none,none,nature,wild,none,S45210,14-4,leaf,Emelliodora_LB_Block3,B3,site14-4,none,,76311928
+P35211,LB-14-5,A25211,LB-14-5,none,none,nature,wild,none,S45211,14-5,leaf,Emelliodora_LB_Block3,C3,site14-5,none,,96596247
+P35212,LB-14-6,A25212,LB-14-6,none,none,nature,wild,none,S45212,14-6,leaf,Emelliodora_LB_Block3,D3,site14-6,none,,48612259
+P35213,LB-14-7,A25213,LB-14-7,none,none,nature,wild,none,S45213,14-7,leaf,Emelliodora_LB_Block3,E3,site14-7,none,,64929216
+P35214,LB-14-8,A25214,LB-14-8,none,none,nature,wild,none,S45214,14-8,leaf,Emelliodora_LB_Block3,F3,site14-8,none,,78229404
+P35215,LB-14-9,A25215,LB-14-9,none,none,nature,wild,none,S45215,14-9,leaf,Emelliodora_LB_Block3,G3,site14-9,none,,93659375
+P35216,LB-14-10,A25216,LB-14-10,none,none,nature,wild,none,S45216,14-10,leaf,Emelliodora_LB_Block3,H3,site14-10,none,,85180314
+P35217,LB-5-1,A25217,LB-5-1,none,none,nature,wild,none,S45217,5-1,leaf,Emelliodora_LB_Block3,A4,site5-1,none,outlier—species,23657055
+P35218,LB-5-2,A25218,LB-5-2,none,none,nature,wild,none,S45218,5-2,leaf,Emelliodora_LB_Block3,B4,site5-2,none,,91923663
+P35219,LB-5-3,A25219,LB-5-3,none,none,nature,wild,none,S45219,5-3,leaf,Emelliodora_LB_Block3,C4,site5-3,none,,44067747
+P35220,LB-5-4,A25220,LB-5-4,none,none,nature,wild,none,S45220,5-4,leaf,Emelliodora_LB_Block3,D4,site5-4,none,,26685981
+P35221,LB-5-5,A25221,LB-5-5,none,none,nature,wild,none,S45221,5-5,leaf,Emelliodora_LB_Block3,E4,site5-5,none,,60496950
+P35222,LB-5-6,A25222,LB-5-6,none,none,nature,wild,none,S45222,5-6,leaf,Emelliodora_LB_Block3,F4,site5-6,none,,118880693
+P35223,LB-5-7,A25223,LB-5-7,none,none,nature,wild,none,S45223,5-7,leaf,Emelliodora_LB_Block3,G4,site5-7,none,,132215218
+P35224,LB-5-8,A25224,LB-5-8,none,none,nature,wild,none,S45224,5-8,leaf,Emelliodora_LB_Block3,H4,site5-8,none,,68316423
+P35225,LB-5-9,A25225,LB-5-9,none,none,nature,wild,none,S45225,5-9,leaf,Emelliodora_LB_Block3,A5,site5-9,none,,79539927
+P35226,LB-5-10,A25226,LB-5-10,none,none,nature,wild,none,S45226,5-10,leaf,Emelliodora_LB_Block3,B5,site5-10,none,,57050602
+P35227,LB-10-1,A25227,LB-10-1,none,none,nature,wild,none,S45227,10-1,leaf,Emelliodora_LB_Block3,C5,site10-1,none,failed—too few loci,4913845
+P35228,LB-10-2,A25228,LB-10-2,none,none,nature,wild,none,S45228,10-2,leaf,Emelliodora_LB_Block3,D5,site10-2,none,,74862363
+P35229,LB-10-3,A25229,LB-10-3,none,none,nature,wild,none,S45229,10-3,leaf,Emelliodora_LB_Block3,E5,site10-3,none,,77502877
+P35230,LB-10-4,A25230,LB-10-4,none,none,nature,wild,none,S45230,10-4,leaf,Emelliodora_LB_Block3,F5,site10-4,none,,100767051
+P35231,LB-10-5,A25231,LB-10-5,none,none,nature,wild,none,S45231,10-5,leaf,Emelliodora_LB_Block3,G5,site10-5,none,,113082601
+P35232,LB-10-6,A25232,LB-10-6,none,none,nature,wild,none,S45232,10-6,leaf,Emelliodora_LB_Block3,H5,site10-6,none,,121535330
+P35233,LB-10-7,A25233,LB-10-7,none,none,nature,wild,none,S45233,10-7,leaf,Emelliodora_LB_Block3,A6,site10-7,none,failed—too few loci,1178619
+P35234,LB-10-8,A25234,LB-10-8,none,none,nature,wild,none,S45234,10-8,leaf,Emelliodora_LB_Block3,B6,site10-8,none,,71097385
+P35235,LB-10-9,A25235,LB-10-9,none,none,nature,wild,none,S45235,10-9,leaf,Emelliodora_LB_Block3,C6,site10-9,none,,93340511
+P35236,LB-10-10,A25236,LB-10-10,none,none,nature,wild,none,S45236,10-10,leaf,Emelliodora_LB_Block3,D6,site10-10,none,,80158427
+P35237,LB-T1-1,A25237,LB-T1-1,none,none,nature,wild,none,S45237,T1-1,leaf,Emelliodora_LB_Block3,E6,T1-1,none,,86900379
+P35238,LB-T1-2,A25238,LB-T1-2,none,none,nature,wild,none,S45238,T1-2,leaf,Emelliodora_LB_Block3,F6,T1-2,none,,92104283
+P35239,LB-T1-3,A25239,LB-T1-3,none,none,nature,wild,none,S45239,T1-3,leaf,Emelliodora_LB_Block3,G6,T1-3,none,,55033902
+P35240,LB-T1-4,A25240,LB-T1-4,none,none,nature,wild,none,S45240,T1-4,leaf,Emelliodora_LB_Block3,H6,T1-4,none,,52072424
+P35241,LB-T1-5,A25241,LB-T1-5,none,none,nature,wild,none,S45241,T1-5,leaf,Emelliodora_LB_Block3,A7,T1-5,none,failed—too few loci,1028713
+P35242,LB-T1-6,A25242,LB-T1-6,none,none,nature,wild,none,S45242,T1-6,leaf,Emelliodora_LB_Block3,B7,T1-6,none,failed—too few loci,4265058
+P35243,LB-T1-7,A25243,LB-T1-7,none,none,nature,wild,none,S45243,T1-7,leaf,Emelliodora_LB_Block3,C7,T1-7,none,,40756373
+P35244,LB-T1-8,A25244,LB-T1-8,none,none,nature,wild,none,S45244,T1-8,leaf,Emelliodora_LB_Block3,D7,T1-8,none,failed—too few loci,2341278
+P35245,LB-T1-9,A25245,LB-T1-9,none,none,nature,wild,none,S45245,T1-9,leaf,Emelliodora_LB_Block3,E7,T1-9,none,,52414402
+P35246,LB-T1-10,A25246,LB-T1-10,none,none,nature,wild,none,S45246,T1-10,leaf,Emelliodora_LB_Block3,F7,T1-10,none,,160613174
+P35247,LB-19-1,A25247,LB-19-1,none,none,nature,wild,none,S45247,19-1,leaf,Emelliodora_LB_Block3,G7,site19-1,none,,88799167
+P35248,LB-19-2,A25248,LB-19-2,none,none,nature,wild,none,S45248,19-2,leaf,Emelliodora_LB_Block3,H7,site19-2,none,,90066880
+P35249,LB-19-3,A25249,LB-19-3,none,none,nature,wild,none,S45249,19-3,leaf,Emelliodora_LB_Block3,A8,site19-3,none,failed—too few loci,2458089
+P35250,LB-19-4,A25250,LB-19-4,none,none,nature,wild,none,S45250,19-4,leaf,Emelliodora_LB_Block3,B8,site19-4,none,,54368542
+P35251,LB-19-5,A25251,LB-19-5,none,none,nature,wild,none,S45251,19-5,leaf,Emelliodora_LB_Block3,C8,site19-5,none,,72896095
+P35252,LB-19-6,A25252,LB-19-6,none,none,nature,wild,none,S45252,19-6,leaf,Emelliodora_LB_Block3,D8,site19-6,none,,76993452
+P35253,LB-19-7,A25253,LB-19-7,none,none,nature,wild,none,S45253,19-7,leaf,Emelliodora_LB_Block3,E8,site19-7,none,,78610882
+P35254,LB-19-8,A25254,LB-19-8,none,none,nature,wild,none,S45254,19-8,leaf,Emelliodora_LB_Block3,F8,site19-8,none,,101311773
+P35255,LB-19-9,A25255,LB-19-9,none,none,nature,wild,none,S45255,19-9,leaf,Emelliodora_LB_Block3,G8,site19-9,none,,87061433
+P35256,LB-19-10,A25256,LB-19-10,none,none,nature,wild,none,S45256,19-10,leaf,Emelliodora_LB_Block3,H8,site19-10,none,,75471157
+P35257,LB-K2-1,A25257,LB-K2-1,none,none,nature,wild,none,S45257,K2-1,leaf,Emelliodora_LB_Block3,A9,K2-1,none,failed—too few loci,2956474
+P35258,LB-K2-2,A25258,LB-K2-2,none,none,nature,wild,none,S45258,K2-2,leaf,Emelliodora_LB_Block3,B9,K2-2,none,,89992117
+P35259,LB-K2-3,A25259,LB-K2-3,none,none,nature,wild,none,S45259,K2-3,leaf,Emelliodora_LB_Block3,C9,K2-3,none,,95657079
+P35260,LB-K2-4,A25260,LB-K2-4,none,none,nature,wild,none,S45260,K2-4,leaf,Emelliodora_LB_Block3,D9,K2-4,none,,78725036
+P35261,LB-K2-5,A25261,LB-K2-5,none,none,nature,wild,none,S45261,K2-5,leaf,Emelliodora_LB_Block3,E9,K2-5,none,,108053854
+P35262,LB-K2-6,A25262,LB-K2-6,none,none,nature,wild,none,S45262,K2-6,leaf,Emelliodora_LB_Block3,F9,K2-6,none,,111241206
+P35263,LB-K2-7,A25263,LB-K2-7,none,none,nature,wild,none,S45263,K2-7,leaf,Emelliodora_LB_Block3,G9,K2-7,none,,80181224
+P35264,LB-K2-8,A25264,LB-K2-8,none,none,nature,wild,none,S45264,K2-8,leaf,Emelliodora_LB_Block3,H9,K2-8,none,,64378006
+P35265,LB-K2-9,A25265,LB-K2-9,none,none,nature,wild,none,S45265,K2-9,leaf,Emelliodora_LB_Block3,A10,K2-9,none,failed—too few loci,1894926
+P35266,LB-K2-10,A25266,LB-K2-10,none,none,nature,wild,none,S45266,K2-10,leaf,Emelliodora_LB_Block3,B10,K2-10,none,,63720451
+P35267,LB-20-1,A25267,LB-20-1,none,none,nature,wild,none,S45267,20-1,leaf,Emelliodora_LB_Block3,C10,site20-1,none,,105111950
+P35268,LB-20-2,A25268,LB-20-2,none,none,nature,wild,none,S45268,20-2,leaf,Emelliodora_LB_Block3,D10,site20-2,none,,110825497
+P35269,LB-20-3,A25269,LB-20-3,none,none,nature,wild,none,S45269,20-3,leaf,Emelliodora_LB_Block3,E10,site20-3,none,failed—too few loci,28760
+P35270,LB-20-4,A25270,LB-20-4,none,none,nature,wild,none,S45270,20-4,leaf,Emelliodora_LB_Block3,F10,site20-4,none,,131396215
+P35271,LB-20-5,A25271,LB-20-5,none,none,nature,wild,none,S45271,20-5,leaf,Emelliodora_LB_Block3,G10,site20-5,none,,99495889
+P35272,LB-20-6,A25272,LB-20-6,none,none,nature,wild,none,S45272,20-6,leaf,Emelliodora_LB_Block3,H10,site20-6,none,,100506527
+P35273,LB-20-7,A25273,LB-20-7,none,none,nature,wild,none,S45273,20-7,leaf,Emelliodora_LB_Block3,A11,site20-7,none,,54671139
+P35274,LB-20-8,A25274,LB-20-8,none,none,nature,wild,none,S45274,20-8,leaf,Emelliodora_LB_Block3,B11,site20-8,none,,73503350
+P35275,LB-20-9,A25275,LB-20-9,none,none,nature,wild,none,S45275,20-9,leaf,Emelliodora_LB_Block3,C11,site20-9,none,,67051158
+P35276,LB-20-10,A25276,LB-20-10,none,none,nature,wild,none,S45276,20-10,leaf,Emelliodora_LB_Block3,D11,site20-10,none,,108389653
+P35277,LB-W2-1,A25277,LB-W2-1,none,none,nature,wild,none,S45277,W2-1,leaf,Emelliodora_LB_Block3,E11,W2-1,none,failed—too few loci,67675
+P35278,LB-W2-2,A25278,LB-W2-2,none,none,nature,wild,none,S45278,W2-2,leaf,Emelliodora_LB_Block3,F11,W2-2,none,,119313531
+P35279,LB-W2-3,A25279,LB-W2-3,none,none,nature,wild,none,S45279,W2-3,leaf,Emelliodora_LB_Block3,G11,W2-3,none,,93535966
+P35280,LB-W2-4,A25280,LB-W2-4,none,none,nature,wild,none,S45280,W2-4,leaf,Emelliodora_LB_Block3,H11,W2-4,none,,115252890
+P35281,LB-W2-5,A25281,LB-W2-5,none,none,nature,wild,none,S45281,W2-5,leaf,Emelliodora_LB_Block3,A12,W2-5,none,,74195829
+P35282,LB-W2-6,A25282,LB-W2-6,none,none,nature,wild,none,S45282,W2-6,leaf,Emelliodora_LB_Block3,B12,W2-6,none,failed—too few loci,470191
+P35283,LB-W2-7,A25283,LB-W2-7,none,none,nature,wild,none,S45283,W2-7,leaf,Emelliodora_LB_Block3,C12,W2-7,none,failed—too few loci,139461
+P35284,LB-W2-8,A25284,LB-W2-8,none,none,nature,wild,none,S45284,W2-8,leaf,Emelliodora_LB_Block3,D12,W2-8,none,failed—too few loci,2642
+P35285,LB-W2-9,A25285,LB-W2-9,none,none,nature,wild,none,S45285,W2-9,leaf,Emelliodora_LB_Block3,E12,W2-9,none,failed—too few loci,31809
+P35286,LB-W2-10,A25286,LB-W2-10,none,none,nature,wild,none,S45286,W2-10,leaf,Emelliodora_LB_Block3,F12,W2-10,none,failed—too few loci,5903
+P35287,LB-24-1,A25287,LB-24-1,none,none,nature,wild,none,S45287,24-1,leaf,Emelliodora_LB_Block3,G12,site24-1,none,failed—too few loci,195400
+P35288,LB-24-2,A25288,LB-24-2,none,none,nature,wild,none,S45288,24-2,leaf,Emelliodora_LB_Block3,H12,site24-2,none,failed—no reads,0
+P35289,LB-24-3,A25289,LB-24-3,none,none,nature,wild,none,S45289,24-3,leaf,Emelliodora_LB_Block4,A1,site24-3,none,,29226936
+P35290,LB-24-4,A25290,LB-24-4,none,none,nature,wild,none,S45290,24-4,leaf,Emelliodora_LB_Block4,B1,site24-4,none,,62295109
+P35291,LB-24-5,A25291,LB-24-5,none,none,nature,wild,none,S45291,24-5,leaf,Emelliodora_LB_Block4,C1,site24-5,none,,75677732
+P35292,LB-24-6,A25292,LB-24-6,none,none,nature,wild,none,S45292,24-6,leaf,Emelliodora_LB_Block4,D1,site24-6,none,,76534423
+P35293,LB-24-7,A25293,LB-24-7,none,none,nature,wild,none,S45293,24-7,leaf,Emelliodora_LB_Block4,E1,site24-7,none,,36117963
+P35294,LB-24-8,A25294,LB-24-8,none,none,nature,wild,none,S45294,24-8,leaf,Emelliodora_LB_Block4,F1,site24-8,none,,74399995
+P35295,LB-24-9,A25295,LB-24-9,none,none,nature,wild,none,S45295,24-9,leaf,Emelliodora_LB_Block4,G1,site24-9,none,,59995642
+P35296,LB-24-10,A25296,LB-24-10,none,none,nature,wild,none,S45296,24-10,leaf,Emelliodora_LB_Block4,H1,site24-10,none,failed—too few loci,21483
+P35297,LB-W3-1,A25297,LB-W3-1,none,none,nature,wild,none,S45297,W3-1,leaf,Emelliodora_LB_Block4,A2,W3-1,none,failed—too few loci,2978018
+P35298,LB-W3-2,A25298,LB-W3-2,none,none,nature,wild,none,S45298,W3-2,leaf,Emelliodora_LB_Block4,B2,W3-2,none,,81088262
+P35299,LB-W3-3,A25299,LB-W3-3,none,none,nature,wild,none,S45299,W3-3,leaf,Emelliodora_LB_Block4,C2,W3-3,none,failed—too few loci,1123351
+P35300,LB-W3-4,A25300,LB-W3-4,none,none,nature,wild,none,S45300,W3-4,leaf,Emelliodora_LB_Block4,D2,W3-4,none,,77461107
+P35301,LB-W3-5,A25301,LB-W3-5,none,none,nature,wild,none,S45301,W3-5,leaf,Emelliodora_LB_Block4,E2,W3-5,none,,37312460
+P35302,LB-W3-6,A25302,LB-W3-6,none,none,nature,wild,none,S45302,W3-6,leaf,Emelliodora_LB_Block4,F2,W3-6,none,,63558490
+P35303,LB-W3-7,A25303,LB-W3-7,none,none,nature,wild,none,S45303,W3-7,leaf,Emelliodora_LB_Block4,G2,W3-7,none,,56222351
+P35304,LB-W3-8,A25304,LB-W3-8,none,none,nature,wild,none,S45304,W3-8,leaf,Emelliodora_LB_Block4,H2,W3-8,none,,73602815
+P35305,LB-W3-9,A25305,LB-W3-9,none,none,nature,wild,none,S45305,W3-9,leaf,Emelliodora_LB_Block4,A3,W3-9,none,,160288941
+P35306,LB-W3-10,A25306,LB-W3-10,none,none,nature,wild,none,S45306,W3-10,leaf,Emelliodora_LB_Block4,B3,W3-10,none,,64950679
+P35307,LB-T3-1,A25307,LB-T3-1,none,none,nature,wild,none,S45307,T3-1,leaf,Emelliodora_LB_Block4,C3,T3-1,none,,65648003
+P35308,LB-T3-2,A25308,LB-T3-2,none,none,nature,wild,none,S45308,T3-2,leaf,Emelliodora_LB_Block4,D3,T3-2,none,,74311676
+P35309,LB-T3-3,A25309,LB-T3-3,none,none,nature,wild,none,S45309,T3-3,leaf,Emelliodora_LB_Block4,E3,T3-3,none,,55792099
+P35310,LB-T3-4,A25310,LB-T3-4,none,none,nature,wild,none,S45310,T3-4,leaf,Emelliodora_LB_Block4,F3,T3-4,none,,38021843
+P35311,LB-T3-5,A25311,LB-T3-5,none,none,nature,wild,none,S45311,T3-5,leaf,Emelliodora_LB_Block4,G3,T3-5,none,,66270718
+P35312,LB-T3-6,A25312,LB-T3-6,none,none,nature,wild,none,S45312,T3-6,leaf,Emelliodora_LB_Block4,H3,T3-6,none,,54733027
+P35313,LB-T3-7,A25313,LB-T3-7,none,none,nature,wild,none,S45313,T3-7,leaf,Emelliodora_LB_Block4,A4,T3-7,none,,47814508
+P35314,LB-T3-8,A25314,LB-T3-8,none,none,nature,wild,none,S45314,T3-8,leaf,Emelliodora_LB_Block4,B4,T3-8,none,,61232005
+P35315,LB-T3-9,A25315,LB-T3-9,none,none,nature,wild,none,S45315,T3-9,leaf,Emelliodora_LB_Block4,C4,T3-9,none,,43835149
+P35316,LB-T3-10,A25316,LB-T3-10,none,none,nature,wild,none,S45316,T3-10,leaf,Emelliodora_LB_Block4,D4,T3-10,none,,52944241
+P35317,LB-21-1,A25317,LB-21-1,none,none,nature,wild,none,S45317,21-1,leaf,Emelliodora_LB_Block4,E4,site21-1,none,,137382185
+P35318,LB-21-2,A25318,LB-21-2,none,none,nature,wild,none,S45318,21-2,leaf,Emelliodora_LB_Block4,F4,site21-2,none,,77381063
+P35319,LB-21-3,A25319,LB-21-3,none,none,nature,wild,none,S45319,21-3,leaf,Emelliodora_LB_Block4,G4,site21-3,none,,43458005
+P35320,LB-21-4,A25320,LB-21-4,none,none,nature,wild,none,S45320,21-4,leaf,Emelliodora_LB_Block4,H4,site21-4,none,,114681180
+P35321,LB-21-5,A25321,LB-21-5,none,none,nature,wild,none,S45321,21-5,leaf,Emelliodora_LB_Block4,A5,site21-5,none,,71693153
+P35322,LB-21-6,A25322,LB-21-6,none,none,nature,wild,none,S45322,21-6,leaf,Emelliodora_LB_Block4,B5,site21-6,none,,65817891
+P35323,LB-21-7,A25323,LB-21-7,none,none,nature,wild,none,S45323,21-7,leaf,Emelliodora_LB_Block4,C5,site21-7,none,failed—too few loci,4044113
+P35324,LB-21-8,A25324,LB-21-8,none,none,nature,wild,none,S45324,21-8,leaf,Emelliodora_LB_Block4,D5,site21-8,none,,80477171
+P35325,LB-21-9,A25325,LB-21-9,none,none,nature,wild,none,S45325,21-9,leaf,Emelliodora_LB_Block4,E5,site21-9,none,,64260750
+P35326,LB-21-10,A25326,LB-21-10,none,none,nature,wild,none,S45326,21-10,leaf,Emelliodora_LB_Block4,F5,site21-10,none,,51795996
+P35327,LB-T2-1,A25327,LB-T2-1,none,none,nature,wild,none,S45327,T2-1,leaf,Emelliodora_LB_Block4,G5,T2-1,none,,61268363
+P35328,LB-T2-2,A25328,LB-T2-2,none,none,nature,wild,none,S45328,T2-2,leaf,Emelliodora_LB_Block4,H5,T2-2,none,,81294141
+P35329,LB-T2-3,A25329,LB-T2-3,none,none,nature,wild,none,S45329,T2-3,leaf,Emelliodora_LB_Block4,A6,T2-3,none,failed—too few loci,1875979
+P35330,LB-T2-4,A25330,LB-T2-4,none,none,nature,wild,none,S45330,T2-4,leaf,Emelliodora_LB_Block4,B6,T2-4,none,,84917450
+P35331,LB-T2-5,A25331,LB-T2-5,none,none,nature,wild,none,S45331,T2-5,leaf,Emelliodora_LB_Block4,C6,T2-5,none,,130038296
+P35332,LB-T2-6,A25332,LB-T2-6,none,none,nature,wild,none,S45332,T2-6,leaf,Emelliodora_LB_Block4,D6,T2-6,none,,197367920
+P35333,LB-T2-7,A25333,LB-T2-7,none,none,nature,wild,none,S45333,T2-7,leaf,Emelliodora_LB_Block4,E6,T2-7,none,,129276346
+P35334,LB-T2-8,A25334,LB-T2-8,none,none,nature,wild,none,S45334,T2-8,leaf,Emelliodora_LB_Block4,F6,T2-8,none,,126071848
+P35335,LB-T2-9,A25335,LB-T2-9,none,none,nature,wild,none,S45335,T2-9,leaf,Emelliodora_LB_Block4,G6,T2-9,none,,84570438
+P35336,LB-T2-10,A25336,LB-T2-10,none,none,nature,wild,none,S45336,T2-10,leaf,Emelliodora_LB_Block4,H6,T2-10,none,,136103823
+P35337,LB-13-1,A25337,LB-13-1,none,none,nature,wild,none,S45337,13-1,leaf,Emelliodora_LB_Block4,A7,site13-1,none,failed—too few loci,508469
+P35338,LB-13-2,A25338,LB-13-2,none,none,nature,wild,none,S45338,13-2,leaf,Emelliodora_LB_Block4,B7,site13-2,none,failed—too few loci,3091862
+P35339,LB-13-3,A25339,LB-13-3,none,none,nature,wild,none,S45339,13-3,leaf,Emelliodora_LB_Block4,C7,site13-3,none,,42197328
+P35340,LB-13-4,A25340,LB-13-4,none,none,nature,wild,none,S45340,13-4,leaf,Emelliodora_LB_Block4,D7,site13-4,none,failed—too few loci,2629476
+P35341,LB-13-5,A25341,LB-13-5,none,none,nature,wild,none,S45341,13-5,leaf,Emelliodora_LB_Block4,E7,site13-5,none,,61107633
+P35342,LB-13-6,A25342,LB-13-6,none,none,nature,wild,none,S45342,13-6,leaf,Emelliodora_LB_Block4,F7,site13-6,none,,37050461
+P35343,LB-26-1,A25343,LB-26-1,none,none,nature,wild,none,S45343,26-1,leaf,Emelliodora_LB_Block4,G7,site26-1,none,outlier—species,63216261
+P35344,LB-26-2,A25344,LB-26-2,none,none,nature,wild,none,S45344,26-2,leaf,Emelliodora_LB_Block4,H7,site26-2,none,outlier—species,54167561
+P35345,LB-26-3,A25345,LB-26-3,none,none,nature,wild,none,S45345,26-3,leaf,Emelliodora_LB_Block4,A8,site26-3,none,failed—too few loci,1104402
+P35346,LB-26-4,A25346,LB-26-4,none,none,nature,wild,none,S45346,26-4,leaf,Emelliodora_LB_Block4,B8,site26-4,none,outlier—species,51427943
+P35347,LB-26-5,A25347,LB-26-5,none,none,nature,wild,none,S45347,26-5,leaf,Emelliodora_LB_Block4,C8,site26-5,none,outlier—species,46310167
+P35348,LB-26-6,A25348,LB-26-6,none,none,nature,wild,none,S45348,26-6,leaf,Emelliodora_LB_Block4,D8,site26-6,none,,58461190
+P35349,LB-26-7,A25349,LB-26-7,none,none,nature,wild,none,S45349,26-7,leaf,Emelliodora_LB_Block4,E8,site26-7,none,outlier—species,55467170
+P35350,LB-26-8,A25350,LB-26-8,none,none,nature,wild,none,S45350,26-8,leaf,Emelliodora_LB_Block4,F8,site26-8,none,outlier—species,35764656
+P35351,LB-26-9,A25351,LB-26-9,none,none,nature,wild,none,S45351,26-9,leaf,Emelliodora_LB_Block4,G8,site26-9,none,,36520219
+P35352,LB-26-10,A25352,LB-26-10,none,none,nature,wild,none,S45352,26-10,leaf,Emelliodora_LB_Block4,H8,site26-10,none,outlier—species,25745987
+P35353,LB-i1-1,A25353,LB-i1-1,none,none,nature,wild,none,S45353,i1-1,leaf,Emelliodora_LB_Block4,A9,i1-1,none,failed—too few loci,2808997
+P35354,LB-i1-2,A25354,LB-i1-2,none,none,nature,wild,none,S45354,i1-2,leaf,Emelliodora_LB_Block4,B9,i1-2,none,,36863818
+P35355,LB-i1-3,A25355,LB-i1-3,none,none,nature,wild,none,S45355,i1-3,leaf,Emelliodora_LB_Block4,C9,i1-3,none,,21294177
+P35356,LB-i1-4,A25356,LB-i1-4,none,none,nature,wild,none,S45356,i1-4,leaf,Emelliodora_LB_Block4,D9,i1-4,none,,73190303
+P35357,LB-i1-5,A25357,LB-i1-5,none,none,nature,wild,none,S45357,i1-5,leaf,Emelliodora_LB_Block4,E9,i1-5,none,,53817489
+P35358,LB-i1-6,A25358,LB-i1-6,none,none,nature,wild,none,S45358,i1-6,leaf,Emelliodora_LB_Block4,F9,i1-6,none,,99388386
+P35359,LB-i1-7,A25359,LB-i1-7,none,none,nature,wild,none,S45359,i1-7,leaf,Emelliodora_LB_Block4,G9,i1-7,none,,44638740
+P35360,LB-i1-8,A25360,LB-i1-8,none,none,nature,wild,none,S45360,i1-8,leaf,Emelliodora_LB_Block4,H9,i1-8,none,,47467047
+P35361,LB-i1-9,A25361,LB-i1-9,none,none,nature,wild,none,S45361,i1-9,leaf,Emelliodora_LB_Block4,A10,i1-9,none,failed—too few loci,2300059
+P35362,LB-i1-10,A25362,LB-i1-10,none,none,nature,wild,none,S45362,i1-10,leaf,Emelliodora_LB_Block4,B10,i1-10,none,,74487659
+P35363,LB-O-1,A25363,LB-O-1,none,none,nature,wild,none,S45363,O-1,leaf,Emelliodora_LB_Block4,C10,O1,none,outlier—species,52554139
+P35364,LB-O-2,A25364,LB-O-2,none,none,nature,wild,none,S45364,O-2,leaf,Emelliodora_LB_Block4,D10,O2,none,outlier—species,26189296
+P35365,LB-O-3,A25365,LB-O-3,none,none,nature,wild,none,S45365,O-3,leaf,Emelliodora_LB_Block4,E10,O3,none,outlier—species,51902202
+P35366,LB-O-4,A25366,LB-O-4,none,none,nature,wild,none,S45366,O-4,leaf,Emelliodora_LB_Block4,F10,O4,none,outlier—species,42870579
+P35367,LB-O-5,A25367,LB-O-5,none,none,nature,wild,none,S45367,O-5,leaf,Emelliodora_LB_Block4,G10,O5,none,outlier—species,61109998
+P35368,LB-O-6,A25368,LB-O-6,none,none,nature,wild,none,S45368,O-6,leaf,Emelliodora_LB_Block4,H10,O6,none,outlier—species,46191256
+P35369,LB-O-7,A25369,LB-O-7,none,none,nature,wild,none,S45369,O-7,leaf,Emelliodora_LB_Block4,A11,O7,none,outlier—species,27310249
+P35370,LB-O-8,A25370,LB-O-8,none,none,nature,wild,none,S45370,O-8,leaf,Emelliodora_LB_Block4,B11,O8,none,outlier—species,25075808
+P35371,LB-O-9,A25371,LB-O-9,none,none,nature,wild,none,S45371,O-9,leaf,Emelliodora_LB_Block4,C11,O9,none,outlier—species,23010727
+P35372,LB-O-10,A25372,LB-O-10,none,none,nature,wild,none,S45372,O-10,leaf,Emelliodora_LB_Block4,D11,O10,none,outlier—species,17767257
+P35133,LB-7-1,A25133,LB-7-1,none,none,nature,wild,none,S45373,7-1R,leaf,Emelliodora_LB_Block4,E11,site7-1,none,replicate; outlier—geographic,35141386
+P35134,LB-7-2,A25134,LB-7-2,none,none,nature,wild,none,S45374,7-2R,leaf,Emelliodora_LB_Block4,F11,site7-2,none,replicate; outlier—geographic,30430959
+P35135,LB-7-3,A25135,LB-7-3,none,none,nature,wild,none,S45375,7-3R,leaf,Emelliodora_LB_Block4,G11,site7-3,none,replicate; outlier—geographic,37354184
+P35136,LB-7-4,A25136,LB-7-4,none,none,nature,wild,none,S45376,7-4R,leaf,Emelliodora_LB_Block4,H11,site7-4,none,replicate; outlier—geographic,47224046
+P35137,LB-7-5,A25137,LB-7-5,none,none,nature,wild,none,S45377,7-5R,leaf,Emelliodora_LB_Block4,A12,site7-5,none,replicate; outlier—geographic,68619175
+P35138,LB-7-6,A25138,LB-7-6,none,none,nature,wild,none,S45378,7-6R,leaf,Emelliodora_LB_Block4,B12,site7-6,none,replicate; outlier—geographic; failed—too few loci,57500
+P35139,LB-7-7,A25139,LB-7-7,none,none,nature,wild,none,S45379,7-7R,leaf,Emelliodora_LB_Block4,C12,site7-7,none,replicate; outlier—geographic; failed—too few loci,226028
+P35373,,,,,,,,,S45380,19-7-1,whole seedling,Emelliodora_Plate5_2015,A1,LB19_7_01,,,
+P35374,,,,,,,,,S45381,D-3-7,whole seedling,Emelliodora_Plate5_2015,B1,LBD_3_07,,,
+P35375,,,,,,,,,S45382,19-24-1,whole seedling,Emelliodora_Plate5_2015,C1,LB19_24_01,,,
+P35376,,,,,,,,,S45383,K2-28-8,whole seedling,Emelliodora_Plate5_2015,D1,LBK2_28_08,,,
+,,,,,,,,,S45384,11-9-3R,whole seedling,Emelliodora_Plate5_2015,E1,LB11_9_03R,,replicate ,
+,,,,,,,,,S45385,11-9-2R,whole seedling,Emelliodora_Plate5_2015,F1,LB11_9_02R,,replicate ,
+P35377,,,,,,,,,S45386,D-11-22,whole seedling,Emelliodora_Plate5_2015,G1,LBD_11_22,,,
+P35378,,,,,,,,,S45387,D-5-7,whole seedling,Emelliodora_Plate5_2015,H1,LBD_5_07,,,
+P35379,,,,,,,,,S45388,19-7-2,whole seedling,Emelliodora_Plate5_2015,A2,LB19_7_02,,,
+P35380,,,,,,,,,S45389,D-3-8,whole seedling,Emelliodora_Plate5_2015,B2,LBD_3_08,,,
+P35381,,,,,,,,,S45390,19-24-2,whole seedling,Emelliodora_Plate5_2015,C2,LB19_24_02,,,
+P35382,,,,,,,,,S45391,K2-26-1,whole seedling,Emelliodora_Plate5_2015,D2,LBK2_26_01,,,
+P35383,,,,,,,,,S45392,D-11-1,whole seedling,Emelliodora_Plate5_2015,E2,LBD_11_01,,,
+P35384,,,,,,,,,S45393,D-11-11,whole seedling,Emelliodora_Plate5_2015,F2,LBD_11_11,,,
+P35385,,,,,,,,,S45394,D-11-23,whole seedling,Emelliodora_Plate5_2015,G2,LBD_11_23,,,
+P35386,,,,,,,,,S45395,D-5-8,whole seedling,Emelliodora_Plate5_2015,H2,LBD_5_08,,,
+P35387,,,,,,,,,S45396,19-7-3,whole seedling,Emelliodora_Plate5_2015,A3,LB19_7_03,,,
+P35388,,,,,,,,,S45397,D-3-9,whole seedling,Emelliodora_Plate5_2015,B3,LBD_3_09,,,
+P35389,,,,,,,,,S45398,19-24-3,whole seedling,Emelliodora_Plate5_2015,C3,LB19_24_03,,,
+P35390,,,,,,,,,S45399,K2-26-2,whole seedling,Emelliodora_Plate5_2015,D3,LBK2_26_02,,,
+,,,,,,,,,S45400,D-11-1R,whole seedling,Emelliodora_Plate5_2015,E3,LBD_11_1R,,replicate ,
+P35391,,,,,,,,,S45401,D-11-12,whole seedling,Emelliodora_Plate5_2015,F3,LBD_11_12,,,
+P35392,,,,,,,,,S45402,D-11-24,whole seedling,Emelliodora_Plate5_2015,G3,LBD_11_24,,,
+P35393,,,,,,,,,S45403,D-5-9,whole seedling,Emelliodora_Plate5_2015,H3,LBD_5_09,,,
+P35394,,,,,,,,,S45404,19-7-4,whole seedling,Emelliodora_Plate5_2015,A4,LB19_7_04,,,
+P35395,,,,,,,,,S45405,D-3-10,whole seedling,Emelliodora_Plate5_2015,B4,LBD_3_10,,,
+P35396,,,,,,,,,S45406,19-24-4,whole seedling,Emelliodora_Plate5_2015,C4,LB19_24_04,,,
+P35397,,,,,,,,,S45407,K2-26-3,whole seedling,Emelliodora_Plate5_2015,D4,LBK2_26_03,,,
+P35398,,,,,,,,,S45408,D-11-2,whole seedling,Emelliodora_Plate5_2015,E4,LBD_11_02,,,
+P35399,,,,,,,,,S45409,D-11-13,whole seedling,Emelliodora_Plate5_2015,F4,LBD_11_13,,,
+P35400,,,,,,,,,S45410,D-11-25,whole seedling,Emelliodora_Plate5_2015,G4,LBD_11_25,,,
+P35401,,,,,,,,,S45411,D-5-10,whole seedling,Emelliodora_Plate5_2015,H4,LBD_5_10,,,
+P35402,,,,,,,,,S45412,19-7-5,whole seedling,Emelliodora_Plate5_2015,A5,LB19_7_05,,,
+P35403,,,,,,,,,S45413,D-3-11,whole seedling,Emelliodora_Plate5_2015,B5,LBD_3_11,,,
+P35404,,,,,,,,,S45414,19-24-5,whole seedling,Emelliodora_Plate5_2015,C5,LB19_24_05,,,
+P35405,,,,,,,,,S45415,K2-26-4,whole seedling,Emelliodora_Plate5_2015,D5,LBK2_26_04,,,
+P35406,,,,,,,,,S45416,D-11-3,whole seedling,Emelliodora_Plate5_2015,E5,LBD_11_03,,,
+P35407,,,,,,,,,S45417,D-11-14,whole seedling,Emelliodora_Plate5_2015,F5,LBD_11_14,,,
+P35408,,,,,,,,,S45418,D-11-26,whole seedling,Emelliodora_Plate5_2015,G5,LBD_11_26,,,
+P35409,,,,,,,,,S45419,D-5-11,whole seedling,Emelliodora_Plate5_2015,H5,LBD_5_11,,,
+P35410,,,,,,,,,S45420,M-5-1,whole seedling,Emelliodora_Plate5_2015,A6,LBM_5_01,,,
+P35411,,,,,,,,,S45421,D-3-12,whole seedling,Emelliodora_Plate5_2015,B6,LBD_3_12,,,
+P35412,,,,,,,,,S45422,K2-28-1,whole seedling,Emelliodora_Plate5_2015,C6,LBK2_28_01,,,
+P35413,,,,,,,,,S45423,K2-26-5,whole seedling,Emelliodora_Plate5_2015,D6,LBK2_26_05,,,
+P35414,,,,,,,,,S45424,D-11-4,whole seedling,Emelliodora_Plate5_2015,E6,LBD_11_04,,,
+P35415,,,,,,,,,S45425,D-11-15,whole seedling,Emelliodora_Plate5_2015,F6,LBD_11_15,,,
+P35416,,,,,,,,,S45426,D-5-1,whole seedling,Emelliodora_Plate5_2015,G6,LBD_5_01,,,
+P35417,,,,,,,,,S45427,D-5-12,whole seedling,Emelliodora_Plate5_2015,H6,LBD_5_12,,,
+P35418,,,,,,,,,S45428,M-5-02,whole seedling,Emelliodora_Plate5_2015,A7,LBM_5_02,,,
+P35419,,,,,,,,,S45429,D-12-1,whole seedling,Emelliodora_Plate5_2015,B7,LBD_12_01,,,
+P35420,,,,,,,,,S45430,K2-28-2,whole seedling,Emelliodora_Plate5_2015,C7,LBK2_28_02,,,
+P35421,,,,,,,,,S45431,K2-26-6,whole seedling,Emelliodora_Plate5_2015,D7,LBK2_26_06,,,
+P35422,,,,,,,,,S45432,D-11-5,whole seedling,Emelliodora_Plate5_2015,E7,LBD_11_05,,,
+P35423,,,,,,,,,S45433,D-11-16,whole seedling,Emelliodora_Plate5_2015,F7,LBD_11_16,,,
+P35424,,,,,,,,,S45434,D-5-2,whole seedling,Emelliodora_Plate5_2015,G7,LBD_5_02,,,
+P35425,,,,,,,,,S45435,D-5-13,whole seedling,Emelliodora_Plate5_2015,H7,LBD_5_13,,,
+P35426,,,,,,,,,S45436,M-5-03,whole seedling,Emelliodora_Plate5_2015,A8,LBM_5_03,,,
+P35427,,,,,,,,,S45437,D-12-2,whole seedling,Emelliodora_Plate5_2015,B8,LBD_12_02,,,
+P35428,,,,,,,,,S45438,K2-28-3,whole seedling,Emelliodora_Plate5_2015,C8,LBK2_28_03,,,
+P35429,,,,,,,,,S45439,K2-26-7,whole seedling,Emelliodora_Plate5_2015,D8,LBK2_26_07,,,
+P35430,,,,,,,,,S45440,D-11-6,whole seedling,Emelliodora_Plate5_2015,E8,LBD_11_06,,,
+P35431,,,,,,,,,S45441,D-11-17,whole seedling,Emelliodora_Plate5_2015,F8,LBD_11_17,,,
+P35432,,,,,,,,,S45442,D-5-3,whole seedling,Emelliodora_Plate5_2015,G8,LBD_5_03,,,
+P35433,,,,,,,,,S45443,D-5-14,whole seedling,Emelliodora_Plate5_2015,H8,LBD_5_14,,,
+P35434,,,,,,,,,S45444,M-5-04,whole seedling,Emelliodora_Plate5_2015,A9,LBM_5_04,,,
+P35435,,,,,,,,,S45445,D-12-3,whole seedling,Emelliodora_Plate5_2015,B9,LBD_12_03,,,
+P35436,,,,,,,,,S45446,K2-28-4,whole seedling,Emelliodora_Plate5_2015,C9,LBK2_28_04,,,
+P35437,,,,,,,,,S45447,K2-26-8,whole seedling,Emelliodora_Plate5_2015,D9,LBK2_26_08,,,
+P35438,,,,,,,,,S45448,D-11-7,whole seedling,Emelliodora_Plate5_2015,E9,LBD_11_07,,,
+P35439,,,,,,,,,S45449,D-11-18,whole seedling,Emelliodora_Plate5_2015,F9,LBD_11_18,,,
+P35440,,,,,,,,,S45450,D-5-4,whole seedling,Emelliodora_Plate5_2015,G9,LBD_5_04,,,
+P35441,,,,,,,,,S45451,D-5-15,whole seedling,Emelliodora_Plate5_2015,H9,LBD_5_15,,,
+P35442,,,,,,,,,S45452,M-5-05,whole seedling,Emelliodora_Plate5_2015,A10,LBM_5_05,,,
+P35443,,,,,,,,,S45453,D-12-4,whole seedling,Emelliodora_Plate5_2015,B10,LBD_12_04,,,
+P35444,,,,,,,,,S45454,K2-28-5,whole seedling,Emelliodora_Plate5_2015,C10,LBK2_28_05,,,
+P35445,,,,,,,,,S45455,11-9-1,whole seedling,Emelliodora_Plate5_2015,D10,LB11_9_01,,,
+P35446,,,,,,,,,S45456,D-11-8,whole seedling,Emelliodora_Plate5_2015,E10,LBD_11_08,,,
+P35447,,,,,,,,,S45457,D-11-19,whole seedling,Emelliodora_Plate5_2015,F10,LBD_11_19,,,
+P35448,,,,,,,,,S45458,D-5-5,whole seedling,Emelliodora_Plate5_2015,G10,LBD_5_05,,,
+P35449,,,,,,,,,S45459,D-5-16,whole seedling,Emelliodora_Plate5_2015,H10,LBD_5_16,,,
+P35450,,,,,,,,,S45460,M-5-06,whole seedling,Emelliodora_Plate5_2015,A11,LBM_5_06,,,
+P35451,,,,,,,,,S45461,D-12-5,whole seedling,Emelliodora_Plate5_2015,B11,LBD_12_05,,,
+P35452,,,,,,,,,S45462,K2-28-6,whole seedling,Emelliodora_Plate5_2015,C11,LBK2_28_06,,,
+P35453,,,,,,,,,S45463,11-9-2,whole seedling,Emelliodora_Plate5_2015,D11,LB11_9_02,,,
+P35454,,,,,,,,,S45464,D-11-9,whole seedling,Emelliodora_Plate5_2015,E11,LBD_11_09,,,
+P35455,,,,,,,,,S45465,D-11-20,whole seedling,Emelliodora_Plate5_2015,F11,LBD_11_20,,,
+P35456,,,,,,,,,S45466,D-5-6,whole seedling,Emelliodora_Plate5_2015,G11,LBD_5_06,,,
+P35457,,,,,,,,,S45467,D-5-17,whole seedling,Emelliodora_Plate5_2015,H11,LBD_5_17,,,
+P35458,,,,,,,,,S45468,M-5-07,whole seedling,Emelliodora_Plate5_2015,A12,LBM_5_07,,,
+P35459,,,,,,,,,S45469,D-12-6,whole seedling,Emelliodora_Plate5_2015,B12,LBD_12_06,,,
+P35460,,,,,,,,,S45470,K2-28-7,whole seedling,Emelliodora_Plate5_2015,C12,LBK2_28_07,,,
+P35461,,,,,,,,,S45471,11-9-3,whole seedling,Emelliodora_Plate5_2015,D12,LB11_9_03,,,
+P35462,,,,,,,,,S45472,D-11-10,whole seedling,Emelliodora_Plate5_2015,E12,LBD_11_10,,,
+P35463,,,,,,,,,S45473,D-11-21,whole seedling,Emelliodora_Plate5_2015,F12,LBD_11_21,,,
+,,,,,,,,,S45474,D-5-6R,whole seedling,Emelliodora_Plate5_2015,G12,LBD_5_06R,,replicate ,
+P35464,,,,,,,,,S45475,D-5-18,whole seedling,Emelliodora_Plate5_2015,H12,LBD_5_18,,,
+P35465,,,,,,,,,S45476,D-3-1,whole seedling,Emelliodora_Plate6_2015,A1,LBD_3_01,,,
+P35466,,,,,,,,,S45477,K2-22-7,whole seedling,Emelliodora_Plate6_2015,B1,LBK2_22_07,,,
+P35467,,,,,,,,,S45478,D-8-5,whole seedling,Emelliodora_Plate6_2015,C1,LBD_8_05,,,
+P35468,,,,,,,,,S45479,19-12-5,whole seedling,Emelliodora_Plate6_2015,D1,LB19_12_05,,,
+P35469,,,,,,,,,S45480,19-2-2,whole seedling,Emelliodora_Plate6_2015,E1,LB19_2_02,,,
+P35470,,,,,,,,,S45481,19-28-1,whole seedling,Emelliodora_Plate6_2015,F1,LB19_28_01,,,
+P35471,,,,,,,,,S45482,19-5-3,whole seedling,Emelliodora_Plate6_2015,G1,LB19_5_03,,,
+P35472,,,,,,,,,S45483,T1-14-2,whole seedling,Emelliodora_Plate6_2015,H1,LBT1_14_02,,,
+P35473,,,,,,,,,S45484,D-3-2,whole seedling,Emelliodora_Plate6_2015,A2,LBD_3_02,,,
+P35474,,,,,,,,,S45485,K2-22-8,whole seedling,Emelliodora_Plate6_2015,B2,LBK2_22_08,,,
+P35475,,,,,,,,,S45486,D-8-6,whole seedling,Emelliodora_Plate6_2015,C2,LBD_8_06,,,
+P35476,,,,,,,,,S45487,19-12-6,whole seedling,Emelliodora_Plate6_2015,D2,LB19_12_06,,,
+P35477,,,,,,,,,S45488,19-2-3,whole seedling,Emelliodora_Plate6_2015,E2,LB19_2_03,,,
+P35478,,,,,,,,,S45489,19-28-2,whole seedling,Emelliodora_Plate6_2015,F2,LB19_28_02,,,
+P35479,,,,,,,,,S45490,19-5-4,whole seedling,Emelliodora_Plate6_2015,G2,LB19_5_04,,,
+P35480,,,,,,,,,S45491,T1-14-3,whole seedling,Emelliodora_Plate6_2015,H2,LBT1_14_03,,,
+P35481,,,,,,,,,S45492,D-3-3,whole seedling,Emelliodora_Plate6_2015,A3,LBD_3_03,,,
+P35482,,,,,,,,,S45493,K2-22-9,whole seedling,Emelliodora_Plate6_2015,B3,LBK2_22_09,,,
+P35483,,,,,,,,,S45494,D-8-7,whole seedling,Emelliodora_Plate6_2015,C3,LBD_8_07,,,
+P35484,,,,,,,,,S45495,19-12-7,whole seedling,Emelliodora_Plate6_2015,D3,LB19_12_07,,,
+P35485,,,,,,,,,S45496,19-2-4,whole seedling,Emelliodora_Plate6_2015,E3,LB19_2_04,,,
+P35486,,,,,,,,,S45497,19-28-3,whole seedling,Emelliodora_Plate6_2015,F3,LB19_28_03,,,
+P35487,,,,,,,,,S45498,19-7-6,whole seedling,Emelliodora_Plate6_2015,G3,LB19_7_06,,,
+P35488,,,,,,,,,S45499,T1-14-4,whole seedling,Emelliodora_Plate6_2015,H3,LBT1_14_04,,,
+P35489,,,,,,,,,S45500,D-3-4,whole seedling,Emelliodora_Plate6_2015,A4,LBD_3_04,,,
+P35490,,,,,,,,,S45501,K2-22-10,whole seedling,Emelliodora_Plate6_2015,B4,LBK2_22_10,,,
+P35491,,,,,,,,,S45502,D-8-8,whole seedling,Emelliodora_Plate6_2015,C4,LBD_8_08,,,
+P35492,,,,,,,,,S45503,19-12-8,whole seedling,Emelliodora_Plate6_2015,D4,LB19_12_08,,,
+P35493,,,,,,,,,S45504,19-2-5,whole seedling,Emelliodora_Plate6_2015,E4,LB19_2_05,,,
+P35494,,,,,,,,,S45505,19-28-4,whole seedling,Emelliodora_Plate6_2015,F4,LB19_28_04,,,
+P35495,,,,,,,,,S45506,19-7-7,whole seedling,Emelliodora_Plate6_2015,G4,LB19_7_07,,,
+P35496,,,,,,,,,S45507,T1-14-5,whole seedling,Emelliodora_Plate6_2015,H4,LBT1_14_05,,,
+P35497,,,,,,,,,S45508,D-3-5,whole seedling,Emelliodora_Plate6_2015,A5,LBD_3_05,,,
+P35498,,,,,,,,,S45509,K2-22-11,whole seedling,Emelliodora_Plate6_2015,B5,LBK2_22_11,,,
+P35499,,,,,,,,,S45510,D-8-9,whole seedling,Emelliodora_Plate6_2015,C5,LBD_8_09,,,
+P35500,,,,,,,,,S45511,19-12-9,whole seedling,Emelliodora_Plate6_2015,D5,LB19_12_09,,,
+P35501,,,,,,,,,S45512,19-2-6,whole seedling,Emelliodora_Plate6_2015,E5,LB19_2_06,,,
+P35502,,,,,,,,,S45513,19-28-5,whole seedling,Emelliodora_Plate6_2015,F5,LB19_28_05,,,
+P35503,,,,,,,,,S45514,19-7-8,whole seedling,Emelliodora_Plate6_2015,G5,LB19_7_08,,,
+P35504,,,,,,,,,S45515,T1-14-6,whole seedling,Emelliodora_Plate6_2015,H5,LBT1_14_06,,,
+P35505,,,,,,,,,S45516,D-3-6,whole seedling,Emelliodora_Plate6_2015,A6,LBD_3_06,,,
+P35506,,,,,,,,,S45517,K2-22-12,whole seedling,Emelliodora_Plate6_2015,B6,LBK2_22_12,,,
+P35507,,,,,,,,,S45518,D-8-10,whole seedling,Emelliodora_Plate6_2015,C6,LBD_8_10,,,
+P35508,,,,,,,,,S45519,19-24-6,whole seedling,Emelliodora_Plate6_2015,D6,LB19_24_06,,,
+P35509,,,,,,,,,S45520,19-2-7,whole seedling,Emelliodora_Plate6_2015,E6,LB19_2_07,,,
+P35510,,,,,,,,,S45521,19-28-6,whole seedling,Emelliodora_Plate6_2015,F6,LB19_28_06,,,
+P35511,,,,,,,,,S45522,19-7-9,whole seedling,Emelliodora_Plate6_2015,G6,LB19_7_09,,,
+P35512,,,,,,,,,S45523,T1-14-7,whole seedling,Emelliodora_Plate6_2015,H6,LBT1_14_07,,,
+P35513,,,,,,,,,S45524,K2-2-1,whole seedling,Emelliodora_Plate6_2015,A7,LBK2_22_01,,,
+P35514,,,,,,,,,S45525,K2-22-13,whole seedling,Emelliodora_Plate6_2015,B7,LBK2_22_13,,,
+P35515,,,,,,,,,S45526,D-8-11,whole seedling,Emelliodora_Plate6_2015,C7,LBD_8_11,,,
+P35516,,,,,,,,,S45527,19-24-7,whole seedling,Emelliodora_Plate6_2015,D7,LB19_24_07,,,
+P35517,,,,,,,,,S45528,KMCH-1-1,whole seedling,Emelliodora_Plate6_2015,E7,KMCH_01_01,,,
+P35518,,,,,,,,,S45529,19-28-7,whole seedling,Emelliodora_Plate6_2015,F7,LB19_28_07,,,
+P35519,,,,,,,,,S45530,19-7-10,whole seedling,Emelliodora_Plate6_2015,G7,LB19_7_10,,,
+P35520,,,,,,,,,S45531,T1-14-8,whole seedling,Emelliodora_Plate6_2015,H7,LBT1_14_08,,,
+P35521,,,,,,,,,S45532,K2-22-2,whole seedling,Emelliodora_Plate6_2015,A8,LBK2_22_02,,,
+P35522,,,,,,,,,S45533,K2-22-14,whole seedling,Emelliodora_Plate6_2015,B8,LBK2_22_14,,,
+P35523,,,,,,,,,S45534,D-8-12,whole seedling,Emelliodora_Plate6_2015,C8,LBD_8_12,,,
+P35524,,,,,,,,,S45535,19-24-8,whole seedling,Emelliodora_Plate6_2015,D8,LB19_24_08,,,
+P35525,,,,,,,,,S45536,KMCH-1-2,whole seedling,Emelliodora_Plate6_2015,E8,KMCH_01_02,,,
+P35526,,,,,,,,,S45537,19-28-8,whole seedling,Emelliodora_Plate6_2015,F8,LB19_28_08,,,
+P35527,,,,,,,,,S45538,19-7-11,whole seedling,Emelliodora_Plate6_2015,G8,LB19_7_11,,,
+P35528,,,,,,,,,S45539,T1-14-9,whole seedling,Emelliodora_Plate6_2015,H8,LBT1_14_09,,,
+P35529,,,,,,,,,S45540,K2-22-3,whole seedling,Emelliodora_Plate6_2015,A9,LBK2_22_03,,,
+P35530,,,,,,,,,S45541,D-8-1,whole seedling,Emelliodora_Plate6_2015,B9,LBD_8_01,,,
+P35531,,,,,,,,,S45542,19-12-1,whole seedling,Emelliodora_Plate6_2015,C9,LB19_12_01,,,
+P35532,,,,,,,,,S45543,19-24-9,whole seedling,Emelliodora_Plate6_2015,D9,LB19_24_09,,,
+P35533,,,,,,,,,S45544,KMCH-1-3,whole seedling,Emelliodora_Plate6_2015,E9,KMCH_01_03,,,
+P35534,,,,,,,,,S45545,19-4-1,whole seedling,Emelliodora_Plate6_2015,F9,LB19_4_01,,,
+P35535,,,,,,,,,S45546,19-7-12,whole seedling,Emelliodora_Plate6_2015,G9,LB19_7_12,,,
+P35536,,,,,,,,,S45547,T1-14-10,whole seedling,Emelliodora_Plate6_2015,H9,LBT1_14_10,,,
+P35537,,,,,,,,,S45548,K2-22-4,whole seedling,Emelliodora_Plate6_2015,A10,LBK2_22_04,,,
+P35538,,,,,,,,,S45549,D-8-2,whole seedling,Emelliodora_Plate6_2015,B10,LBD_8_02,,,
+P35539,,,,,,,,,S45550,19-12-2,whole seedling,Emelliodora_Plate6_2015,C10,LB19_12_02,,,
+P35540,,,,,,,,,S45551,19-24-10,whole seedling,Emelliodora_Plate6_2015,D10,LB19_24_10,,,
+P35541,,,,,,,,,S45552,KMCH-1-4,whole seedling,Emelliodora_Plate6_2015,E10,KMCH_01_04,,,
+P35542,,,,,,,,,S45553,19-4-2,whole seedling,Emelliodora_Plate6_2015,F10,LB19_4_02,,,
+P35543,,,,,,,,,S45554,19-7-13,whole seedling,Emelliodora_Plate6_2015,G10,LB19_7_13,,,
+P35544,,,,,,,,,S45555,T1-14-11,whole seedling,Emelliodora_Plate6_2015,H10,LBT1_14_11,,,
+P35545,,,,,,,,,S45556,K2-22-5,whole seedling,Emelliodora_Plate6_2015,A11,LBK2_22_05,,,
+P35546,,,,,,,,,S45557,D-8-3,whole seedling,Emelliodora_Plate6_2015,B11,LBD_8_03,,,
+P35547,,,,,,,,,S45558,19-12-3,whole seedling,Emelliodora_Plate6_2015,C11,LB19_12_03,,,
+P35548,,,,,,,,,S45559,19-24-11,whole seedling,Emelliodora_Plate6_2015,D11,LB19_24_11,,,
+P35549,,,,,,,,,S45560,KMCH-1-5,whole seedling,Emelliodora_Plate6_2015,E11,KMCH_01_05,,,
+P35550,,,,,,,,,S45561,19-5-1,whole seedling,Emelliodora_Plate6_2015,F11,LB19_5_01,,,
+P35551,,,,,,,,,S45562,T1-2-1,whole seedling,Emelliodora_Plate6_2015,G11,LBT1_02_01,,,
+P35552,,,,,,,,,S45563,T1-14-12,whole seedling,Emelliodora_Plate6_2015,H11,LBT1_14_12,,,
+P35553,,,,,,,,,S45564,K2-22-6,whole seedling,Emelliodora_Plate6_2015,A12,LBK2_22_06,,,
+P35554,,,,,,,,,S45565,D-8-4,whole seedling,Emelliodora_Plate6_2015,B12,LBD_8_04,,,
+P35555,,,,,,,,,S45566,19-12-4,whole seedling,Emelliodora_Plate6_2015,C12,LB19_12_04,,,
+P35556,,,,,,,,,S45567,19-2-1,whole seedling,Emelliodora_Plate6_2015,D12,LB19_2_01,,,
+P35557,,,,,,,,,S45568,KMCH-1-6,whole seedling,Emelliodora_Plate6_2015,E12,KMCH_01_06,,,
+P35558,,,,,,,,,S45569,19-5-2,whole seedling,Emelliodora_Plate6_2015,F12,LB19_5_02,,,
+P35559,,,,,,,,,S45570,T1-14-1,whole seedling,Emelliodora_Plate6_2015,G12,LBT1_14_01,,,
+P35560,,,,,,,,,S45571,T1-14-13,whole seedling,Emelliodora_Plate6_2015,H12,LBT1_14_13,,,
+P35561,,,,,,,,,S45572,D-11-27,whole seedling,Emelliodora_Plate9_2015,A1,LBD_11_27,,,
+P35562,,,,,,,,,S45573,D-11-28,whole seedling,Emelliodora_Plate9_2015,B1,LBD_11_28,,,
+P35563,,,,,,,,,S45574,D-11-29,whole seedling,Emelliodora_Plate9_2015,C1,LBD_11_29,,,
+P35564,,,,,,,,,S45575,D-11-30,whole seedling,Emelliodora_Plate9_2015,D1,LBD_11_30,,,
+P35565,,,,,,,,,S45576,D-11-31,whole seedling,Emelliodora_Plate9_2015,E1,LBD_11_31,,,
+P35566,,,,,,,,,S45577,D-11-32,whole seedling,Emelliodora_Plate9_2015,F1,LBD_11_32,,,
+P35567,,,,,,,,,S45578,D-11-33,whole seedling,Emelliodora_Plate9_2015,G1,LBD_11_33,,,
+P35568,,,,,,,,,S45579,D-11-34,whole seedling,Emelliodora_Plate9_2015,H1,LBD_11_34,,,
+P35569,,,,,,,,,S45580,D-5-19,whole seedling,Emelliodora_Plate9_2015,A2,LBD_5_19,,,
+P35570,,,,,,,,,S45581,D-5-20,whole seedling,Emelliodora_Plate9_2015,B2,LBD_5_20,,,
+P35571,,,,,,,,,S45582,D-5-21,whole seedling,Emelliodora_Plate9_2015,C2,LBD_5_21,,,
+P35572,,,,,,,,,S45583,D-5-22,whole seedling,Emelliodora_Plate9_2015,D2,LBD_5_22,,,
+P35573,,,,,,,,,S45584,D-5-23,whole seedling,Emelliodora_Plate9_2015,E2,LBD_5_23,,,
+P35574,,,,,,,,,S45585,D-5-24,whole seedling,Emelliodora_Plate9_2015,F2,LBD_5_24,,,
+P35575,,,,,,,,,S45586,D-5-25,whole seedling,Emelliodora_Plate9_2015,G2,LBD_5_25,,,
+P35576,,,,,,,,,S45587,D-5-26,whole seedling,Emelliodora_Plate9_2015,H2,LBD_5_26,,,
+P35577,,,,,,,,,S45588,D-6-1,whole seedling,Emelliodora_Plate9_2015,A3,LBD_6_01,,,
+P35578,,,,,,,,,S45589,D-6-2,whole seedling,Emelliodora_Plate9_2015,B3,LBD_6_02,,,
+P35579,,,,,,,,,S45590,D-6-3,whole seedling,Emelliodora_Plate9_2015,C3,LBD_6_03,,,
+P35580,,,,,,,,,S45591,D-6-4,whole seedling,Emelliodora_Plate9_2015,D3,LBD_6_04,,,
+P35581,,,,,,,,,S45592,D-6-5,whole seedling,Emelliodora_Plate9_2015,E3,LBD_6_05,,,
+P35582,,,,,,,,,S45593,D-6-6,whole seedling,Emelliodora_Plate9_2015,F3,LBD_6_06,,,
+P35583,,,,,,,,,S45594,D-6-7,whole seedling,Emelliodora_Plate9_2015,G3,LBD_6_07,,,
+P35584,,,,,,,,,S45595,D-6-8,whole seedling,Emelliodora_Plate9_2015,H3,LBD_6_08,,,
+P35585,,,,,,,,,S45596,D-10-1,whole seedling,Emelliodora_Plate9_2015,A4,LBD_10_01,,,
+P35586,,,,,,,,,S45597,D-10-2,whole seedling,Emelliodora_Plate9_2015,B4,LBD_10_02,,,
+P35587,,,,,,,,,S45598,D-10-3,whole seedling,Emelliodora_Plate9_2015,C4,LBD_10_03,,,
+P35588,,,,,,,,,S45599,D-10-4,whole seedling,Emelliodora_Plate9_2015,D4,LBD_10_04,,,
+P35589,,,,,,,,,S45600,D-10-5,whole seedling,Emelliodora_Plate9_2015,E4,LBD_10_05,,,
+P35590,,,,,,,,,S45601,D-10-6,whole seedling,Emelliodora_Plate9_2015,F4,LBD_10_06,,,
+P35591,,,,,,,,,S45602,D-10-7,whole seedling,Emelliodora_Plate9_2015,G4,LBD_10_07,,,
+P35592,,,,,,,,,S45603,D-10-8,whole seedling,Emelliodora_Plate9_2015,H4,LBD_10_08,,,
+P35593,,,,,,,,,S45604,21-13-1,whole seedling,Emelliodora_Plate9_2015,A5,LB21_13_01,,,
+P35594,,,,,,,,,S45605,21-13-2,whole seedling,Emelliodora_Plate9_2015,B5,LB21_13_02,,,
+P35595,,,,,,,,,S45606,21-13-3,whole seedling,Emelliodora_Plate9_2015,C5,LB21_13_03,,,
+P35596,,,,,,,,,S45607,21-13-4,whole seedling,Emelliodora_Plate9_2015,D5,LB21_13_04,,,
+P35597,,,,,,,,,S45608,21-13-5,whole seedling,Emelliodora_Plate9_2015,E5,LB21_13_05,,,
+P35598,,,,,,,,,S45609,21-13-6,whole seedling,Emelliodora_Plate9_2015,F5,LB21_13_06,,,
+P35599,,,,,,,,,S45610,21-24-1,whole seedling,Emelliodora_Plate9_2015,G5,LB21_24_01,,,
+P35600,,,,,,,,,S45611,21-24-2,whole seedling,Emelliodora_Plate9_2015,H5,LB21_24_02,,,
+P35601,,,,,,,,,S45612,21-7-1,whole seedling,Emelliodora_Plate9_2015,A6,LB21_7_01,,,
+P35602,,,,,,,,,S45613,21-7-2,whole seedling,Emelliodora_Plate9_2015,B6,LB21_7_02,,,
+P35603,,,,,,,,,S45614,21-7-3,whole seedling,Emelliodora_Plate9_2015,C6,LB21_7_03,,,
+P35604,,,,,,,,,S45615,21-7-4,whole seedling,Emelliodora_Plate9_2015,D6,LB21_7_04,,,
+P35605,,,,,,,,,S45616,21-7-5,whole seedling,Emelliodora_Plate9_2015,E6,LB21_7_05,,,
+P35606,,,,,,,,,S45617,21-7-6,whole seedling,Emelliodora_Plate9_2015,F6,LB21_7_06,,,
+P35607,,,,,,,,,S45618,21-7-7,whole seedling,Emelliodora_Plate9_2015,G6,LB21_7_07,,,
+,,,,,,,,,S45619,21-7-7R,whole seedling,Emelliodora_Plate9_2015,H6,LB21_7_07R,,replicate ,
+P35608,,,,,,,,,S45620,21-1-1,whole seedling,Emelliodora_Plate9_2015,A7,LB21_1_01,,,
+,,,,,,,,,S45621,21-1-1R,whole seedling,Emelliodora_Plate9_2015,B7,LB21_1_01R,,replicate ,
+P35609,,,,,,,,,S45622,21-1-2,whole seedling,Emelliodora_Plate9_2015,C7,LB21_1_02,,,
+,,,,,,,,,S45623,21-1-2R,whole seedling,Emelliodora_Plate9_2015,D7,LB21_1_02R,,replicate ,
+P35610,,,,,,,,,S45624,21-1-3,whole seedling,Emelliodora_Plate9_2015,E7,LB21_1_03,,,
+P35611,,,,,,,,,S45625,21-1-4,whole seedling,Emelliodora_Plate9_2015,F7,LB21_1_04,,,
+P35612,,,,,,,,,S45626,21-1-5,whole seedling,Emelliodora_Plate9_2015,G7,LB21_1_05,,,
+P35613,,,,,,,,,S45627,21-1-6,whole seedling,Emelliodora_Plate9_2015,H7,LB21_1_06,,,
+P35614,,,,,,,,,S45628,21-1-7,whole seedling,Emelliodora_Plate9_2015,A8,LB21_1_07,,,
+P35615,,,,,,,,,S45629,21-1-8,whole seedling,Emelliodora_Plate9_2015,B8,LB21_1_08,,,
+P35616,,,,,,,,,S45630,21-5-1,whole seedling,Emelliodora_Plate9_2015,C8,LB21_5_01,,,
+,,,,,,,,,S45631,21-5-1R,whole seedling,Emelliodora_Plate9_2015,D8,LB21_5_01R,,replicate ,
+P35617,,,,,,,,,S45632,21-5-2,whole seedling,Emelliodora_Plate9_2015,E8,LB21_5_02,,,
+,,,,,,,,,S45633,21-5-2R,whole seedling,Emelliodora_Plate9_2015,F8,LB21_5_02R,,replicate ,
+P35618,,,,,,,,,S45634,21-5-3,whole seedling,Emelliodora_Plate9_2015,G8,LB21_5_03,,,
+P35619,,,,,,,,,S45635,21-5-4,whole seedling,Emelliodora_Plate9_2015,H8,LB21_5_04,,,
+P35620,,,,,,,,,S45636,21-5-5,whole seedling,Emelliodora_Plate9_2015,A9,LB21_5_05,,,
+P35621,,,,,,,,,S45637,21-5-6,whole seedling,Emelliodora_Plate9_2015,B9,LB21_5_06,,,
+P35622,,,,,,,,,S45638,21-5-7,whole seedling,Emelliodora_Plate9_2015,C9,LB21_5_07,,,
+P35623,,,,,,,,,S45639,21-5-8,whole seedling,Emelliodora_Plate9_2015,D9,LB21_5_08,,,
+P35624,,,,,,,,,S45640,21-5-9,whole seedling,Emelliodora_Plate9_2015,E9,LB21_5_09,,,
+P35625,,,,,,,,,S45641,21-5-10,whole seedling,Emelliodora_Plate9_2015,F9,LB21_5_10,,,
+P35626,,,,,,,,,S45642,21-5-11,whole seedling,Emelliodora_Plate9_2015,G9,LB21_5_11,,,
+P35627,,,,,,,,,S45643,M-6-1,whole seedling,Emelliodora_Plate9_2015,H9,LBM_6_01,,,
+P35628,,,,,,,,,S45644,M-6-2,whole seedling,Emelliodora_Plate9_2015,A10,LBM_6_02,,,
+P35629,,,,,,,,,S45645,M-6-3,whole seedling,Emelliodora_Plate9_2015,B10,LBM_6_03,,,
+P35630,,,,,,,,,S45646,M-1-1,whole seedling,Emelliodora_Plate9_2015,C10,LBM_1_01,,,
+P35631,,,,,,,,,S45647,M-1-2,whole seedling,Emelliodora_Plate9_2015,D10,LBM_1_02,,,
+P35632,,,,,,,,,S45648,M-1-3,whole seedling,Emelliodora_Plate9_2015,E10,LBM_1_03,,,
+P35633,,,,,,,,,S45649,M-1-4,whole seedling,Emelliodora_Plate9_2015,F10,LBM_1_04,,,
+P35634,,,,,,,,,S45650,M-1-5,whole seedling,Emelliodora_Plate9_2015,G10,LBM_1_05,,,
+P35635,,,,,,,,,S45651,M-1-6,whole seedling,Emelliodora_Plate9_2015,H10,LBM_1_06,,,
+P35636,,,,,,,,,S45652,M-1-7,whole seedling,Emelliodora_Plate9_2015,A11,LBM_1_07,,,
+P35637,,,,,,,,,S45653,M-1-8,whole seedling,Emelliodora_Plate9_2015,B11,LBM_1_08,,,
+P35638,,,,,,,,,S45654,M-1-9,whole seedling,Emelliodora_Plate9_2015,C11,LBM_1_09,,,
+P35639,,,,,,,,,S45655,M-1-10,whole seedling,Emelliodora_Plate9_2015,D11,LBM_1_10,,,
+P35640,,,,,,,,,S45656,M-1-11,whole seedling,Emelliodora_Plate9_2015,E11,LBM_1_11,,,
+P35641,,,,,,,,,S45657,M-1-12,whole seedling,Emelliodora_Plate9_2015,F11,LBM_1_12,,,
+P35642,,,,,,,,,S45658,M-1-13,whole seedling,Emelliodora_Plate9_2015,G11,LBM_1_13,,,
+P35643,,,,,,,,,S45659,M-1-14,whole seedling,Emelliodora_Plate9_2015,H11,LBM_1_14,,,
+P35644,,,,,,,,,S45660,M-1-15,whole seedling,Emelliodora_Plate9_2015,A12,LBM_1_15,,,
+P35645,,,,,,,,,S45661,M-1-16,whole seedling,Emelliodora_Plate9_2015,B12,LBM_1_16,,,
+P35646,,,,,,,,,S45662,M-1-17,whole seedling,Emelliodora_Plate9_2015,C12,LBM_1_17,,,
+P35647,,,,,,,,,S45663,M-1-18,whole seedling,Emelliodora_Plate9_2015,D12,LBM_1_18,,,
+P35648,,,,,,,,,S45664,M-1-19,whole seedling,Emelliodora_Plate9_2015,E12,LBM_1_19,,,
+P35649,,,,,,,,,S45665,M-1-20,whole seedling,Emelliodora_Plate9_2015,F12,LBM_1_20,,,
+P35650,,,,,,,,,S45666,M-1-21,whole seedling,Emelliodora_Plate9_2015,G12,LBM_1_21,,,
+P35651,,,,,,,,,S45667,M-1-22,whole seedling,Emelliodora_Plate9_2015,H12,LBM_1_22,,,
+P35652,,,,,,,,,S45668,M-2-1,whole seedling,Emelliodora_Plate10_2015,A1,LBM_2_01,,,
+P35653,,,,,,,,,S45669,M-2-2,whole seedling,Emelliodora_Plate10_2015,B1,LBM_2_02,,,
+P35654,,,,,,,,,S45670,M-2-3,whole seedling,Emelliodora_Plate10_2015,C1,LBM_2_03,,,
+P35655,,,,,,,,,S45671,M-2-4,whole seedling,Emelliodora_Plate10_2015,D1,LBM_2_04,,,
+P35656,,,,,,,,,S45672,M-2-5,whole seedling,Emelliodora_Plate10_2015,E1,LBM_2_05,,,
+P35657,,,,,,,,,S45673,M-2-6,whole seedling,Emelliodora_Plate10_2015,F1,LBM_2_06,,,
+P35658,,,,,,,,,S45674,M-2-7,whole seedling,Emelliodora_Plate10_2015,G1,LBM_2_07,,,
+P35659,,,,,,,,,S45675,M-2-8,whole seedling,Emelliodora_Plate10_2015,H1,LBM_2_08,,,
+P35660,,,,,,,,,S45676,M-5-8,whole seedling,Emelliodora_Plate10_2015,A2,LBM_5_08,,,
+P35661,,,,,,,,,S45677,M-5-9,whole seedling,Emelliodora_Plate10_2015,B2,LBM_5_09,,,
+P35662,,,,,,,,,S45678,M-5-10,whole seedling,Emelliodora_Plate10_2015,C2,LBM_5_10,,,
+P35663,,,,,,,,,S45679,M-5-11,whole seedling,Emelliodora_Plate10_2015,D2,LBM_5_11,,,
+P35664,,,,,,,,,S45680,M-5-12,whole seedling,Emelliodora_Plate10_2015,E2,LBM_5_12,,,
+P35665,,,,,,,,,S45681,M-5-13,whole seedling,Emelliodora_Plate10_2015,F2,LBM_5_13,,,
+,,,,,,,,,S45682,M-5-13R,whole seedling,Emelliodora_Plate10_2015,G2,LBM_5_13R,,replicate ,
+P35666,,,,,,,,,S45683,M-5-14,whole seedling,Emelliodora_Plate10_2015,H2,LBM_5_14,,,
+P35667,,,,,,,,,S45684,M-5-15,whole seedling,Emelliodora_Plate10_2015,A3,LBM_5_15,,,
+P35668,,,,,,,,,S45685,M-5-16,whole seedling,Emelliodora_Plate10_2015,B3,LBM_5_16,,,
+P35669,,,,,,,,,S45686,M-5-17,whole seedling,Emelliodora_Plate10_2015,C3,LBM_5_17,,,
+P35670,,,,,,,,,S45687,M-5-18,whole seedling,Emelliodora_Plate10_2015,D3,LBM_5_18,,,
+P35671,,,,,,,,,S45688,M-5-19,whole seedling,Emelliodora_Plate10_2015,E3,LBM_5_19,,,
+P35672,,,,,,,,,S45689,M-3-1,whole seedling,Emelliodora_Plate10_2015,F3,LBM_3_1,,,
+P35673,,,,,,,,,S45690,M-3-2,whole seedling,Emelliodora_Plate10_2015,G3,LBM_3_2,,,
+P35674,,,,,,,,,S45691,M-3-3,whole seedling,Emelliodora_Plate10_2015,H3,LBM_3_3,,,
+P35675,,,,,,,,,S45692,M-3-4,whole seedling,Emelliodora_Plate10_2015,A4,LBM_3_04,,,
+P35676,,,,,,,,,S45693,M-3-5,whole seedling,Emelliodora_Plate10_2015,B4,LBM_3_05,,,
+P35677,,,,,,,,,S45694,M-3-6,whole seedling,Emelliodora_Plate10_2015,C4,LBM_3_06,,,
+P35678,,,,,,,,,S45695,M-3-7,whole seedling,Emelliodora_Plate10_2015,D4,LBM_3_07,,,
+P35679,,,,,,,,,S45696,M-3-8,whole seedling,Emelliodora_Plate10_2015,E4,LBM_3_08,,,
+P35680,,,,,,,,,S45697,24-22-1,whole seedling,Emelliodora_Plate10_2015,F4,LB24_22_1,,,
+P35681,,,,,,,,,S45698,24-22-2,whole seedling,Emelliodora_Plate10_2015,G4,LB24_22_2,,,
+P35682,,,,,,,,,S45699,24-22-3,whole seedling,Emelliodora_Plate10_2015,H4,LB24_22_3,,,
+P35683,,,,,,,,,S45700,24-22-4,whole seedling,Emelliodora_Plate10_2015,A5,LB24_22_4,,,
+P35684,,,,,,,,,S45701,24-22-5,whole seedling,Emelliodora_Plate10_2015,B5,LB24_22_5,,,
+P35685,,,,,,,,,S45702,24-22-6,whole seedling,Emelliodora_Plate10_2015,C5,LB24_22_6,,,
+P35686,,,,,,,,,S45703,24-22-7,whole seedling,Emelliodora_Plate10_2015,D5,LB24_22_7,,,
+P35687,,,,,,,,,S45704,24-22-8,whole seedling,Emelliodora_Plate10_2015,E5,LB24_22_8,,,
+P35688,,,,,,,,,S45705,24-22-9,whole seedling,Emelliodora_Plate10_2015,F5,LB24_22_9,,,
+P35689,,,,,,,,,S45706,24-22-10,whole seedling,Emelliodora_Plate10_2015,G5,LB24_22_10,,,
+P35690,,,,,,,,,S45707,24-22-11,whole seedling,Emelliodora_Plate10_2015,H5,LB24_22_11,,,
+P35691,,,,,,,,,S45708,24-22-12,whole seedling,Emelliodora_Plate10_2015,A6,LB24_22_12,,,
+P35692,,,,,,,,,S45709,24-22-13,whole seedling,Emelliodora_Plate10_2015,B6,LB24_22_13,,,
+P35693,,,,,,,,,S45710,24-20-1,whole seedling,Emelliodora_Plate10_2015,C6,LB24_20_01,,,
+P35694,,,,,,,,,S45711,24-20-2,whole seedling,Emelliodora_Plate10_2015,D6,LB24_20_02,,,
+P35695,,,,,,,,,S45712,24-20-3,whole seedling,Emelliodora_Plate10_2015,E6,LB24_20_03,,,
+P35696,,,,,,,,,S45713,24-20-4,whole seedling,Emelliodora_Plate10_2015,F6,LB24_20_04,,,
+P35697,,,,,,,,,S45714,24-20-5,whole seedling,Emelliodora_Plate10_2015,G6,LB24_20_05,,,
+P35698,,,,,,,,,S45715,24-20-6,whole seedling,Emelliodora_Plate10_2015,H6,LB24_20_06,,,
+P35699,,,,,,,,,S45716,24-20-7,whole seedling,Emelliodora_Plate10_2015,A7,LB24_20_07,,,
+P35700,,,,,,,,,S45717,24-20-8,whole seedling,Emelliodora_Plate10_2015,B7,LB24_20_08,,,
+P35701,,,,,,,,,S45718,24-20-9,whole seedling,Emelliodora_Plate10_2015,C7,LB24_20_09,,,
+P35702,,,,,,,,,S45719,24-20-10,whole seedling,Emelliodora_Plate10_2015,D7,LB24_20_10,,,
+P35703,,,,,,,,,S45720,K2-28-9,whole seedling,Emelliodora_Plate10_2015,E7,LBK2_28_09,,,
+P35704,,,,,,,,,S45721,K2-28-10,whole seedling,Emelliodora_Plate10_2015,F7,LBK2_28_10,,,
+P35705,,,,,,,,,S45722,K2-26-9,whole seedling,Emelliodora_Plate10_2015,G7,LBK2_26_09,,,
+P35706,,,,,,,,,S45723,K2-26-10,whole seedling,Emelliodora_Plate10_2015,H7,LBK2_26_10,,,
+P35707,,,,,,,,,S45724,M-1-23,whole seedling,Emelliodora_Plate10_2015,A8,LBM_1_23,,,
+P35708,,,,,,,,,S45725,M-1-24,whole seedling,Emelliodora_Plate10_2015,B8,LBM_1_24,,,
+P35709,,,,,,,,,S45726,M-1-25,whole seedling,Emelliodora_Plate10_2015,C8,LBM_1_25,,,
+P35710,,,,,,,,,S45727,11-8-1,whole seedling,Emelliodora_Plate10_2015,D8,LB11_8_01,,,
+P35711,,,,,,,,,S45728,11-8-2,whole seedling,Emelliodora_Plate10_2015,E8,LB11_8_02,,,
+P35712,,,,,,,,,S45729,11-8-3,whole seedling,Emelliodora_Plate10_2015,F8,LB11_8_03,,,
+P35713,,,,,,,,,S45730,11-8-4,whole seedling,Emelliodora_Plate10_2015,G8,LB11_8_04,,,
+P35714,,,,,,,,,S45731,11-8-5,whole seedling,Emelliodora_Plate10_2015,H8,LB11_8_05,,,
+P35715,,,,,,,,,S45732,11-8-6,whole seedling,Emelliodora_Plate10_2015,A9,LB11_8_06,,,
+P35716,,,,,,,,,S45733,11-8-7,whole seedling,Emelliodora_Plate10_2015,B9,LB11_8_07,,,
+P35717,,,,,,,,,S45734,11-8-8,whole seedling,Emelliodora_Plate10_2015,C9,LB11_8_08,,,
+P35718,,,,,,,,,S45735,11-8-9,whole seedling,Emelliodora_Plate10_2015,D9,LB11_8_09,,,
+P35719,,,,,,,,,S45736,11-8-10,whole seedling,Emelliodora_Plate10_2015,E9,LB11_8_10,,,
+P35720,,,,,,,,,S45737,11-8-11,whole seedling,Emelliodora_Plate10_2015,F9,LB11_8_11,,,
+P35721,,,,,,,,,S45738,11-8-12,whole seedling,Emelliodora_Plate10_2015,G9,LB11_8_12,,,
+P35722,,,,,,,,,S45739,24-16-1,whole seedling,Emelliodora_Plate10_2015,H9,LB24_16_01,,,
+P35723,,,,,,,,,S45740,24-16-2,whole seedling,Emelliodora_Plate10_2015,A10,LB24_16_02,,,
+P35724,,,,,,,,,S45741,24-16-3,whole seedling,Emelliodora_Plate10_2015,B10,LB24_16_03,,,
+P35725,,,,,,,,,S45742,24-16-4,whole seedling,Emelliodora_Plate10_2015,C10,LB24_16_04,,,
+P35726,,,,,,,,,S45743,24-16-5,whole seedling,Emelliodora_Plate10_2015,D10,LB24_16_05,,,
+P35727,,,,,,,,,S45744,24-16-6,whole seedling,Emelliodora_Plate10_2015,E10,LB24_16_06,,,
+P35728,,,,,,,,,S45745,24-16-7,whole seedling,Emelliodora_Plate10_2015,F10,LB24_16_07,,,
+P35729,,,,,,,,,S45746,24-16-8,whole seedling,Emelliodora_Plate10_2015,G10,LB24_16_08,,,
+P35730,,,,,,,,,S45747,24-16-9,whole seedling,Emelliodora_Plate10_2015,H10,LB24_16_09,,,
+P35731,,,,,,,,,S45748,24-16-10,whole seedling,Emelliodora_Plate10_2015,A11,LB24_16_10,,,
+P35732,,,,,,,,,S45749,M-6-4,whole seedling,Emelliodora_Plate10_2015,B11,LBM_6_01,,,
+P35733,,,,,,,,,S45750,M-6-5,whole seedling,Emelliodora_Plate10_2015,C11,LBM_6_02,,,
+P35734,,,,,,,,,S45751,M-6-6,whole seedling,Emelliodora_Plate10_2015,D11,LBM_6_03,,,
+P35735,,,,,,,,,S45752,M-6-7,whole seedling,Emelliodora_Plate10_2015,E11,LBM_6_04,,,
+P35736,,,,,,,,,S45753,M-6-8,whole seedling,Emelliodora_Plate10_2015,F11,LBM_6_05,,,
+P35737,,,,,,,,,S45754,M-6-9,whole seedling,Emelliodora_Plate10_2015,G11,LBM_6_06,,,
+P35738,,,,,,,,,S45755,11-1-1,whole seedling,Emelliodora_Plate10_2015,H11,LB11_1_01,,,
+P35739,,,,,,,,,S45756,11-1-2,whole seedling,Emelliodora_Plate10_2015,A12,LB11_1_02,,,
+P35740,,,,,,,,,S45757,11-1-3,whole seedling,Emelliodora_Plate10_2015,B12,LB11_1_03,,,
+P35741,,,,,,,,,S45758,11-1-4,whole seedling,Emelliodora_Plate10_2015,C12,LB11_1_04,,,
+P35742,,,,,,,,,S45759,11-1-5,whole seedling,Emelliodora_Plate10_2015,D12,LB11_1_05,,,
+P35743,,,,,,,,,S45760,11-1-6,whole seedling,Emelliodora_Plate10_2015,E12,LB11_1_06,,,
+P35744,,,,,,,,,S45761,11-1-7,whole seedling,Emelliodora_Plate10_2015,F12,LB11_1_07,,,
+P35745,,,,,,,,,S45762,11-1-8,whole seedling,Emelliodora_Plate10_2015,G12,LB11_1_08,,,
+P35746,,,,,,,,,S45763,11-1-9,whole seedling,Emelliodora_Plate10_2015,H12,LB11_1_09,,,
+P35747,,,,,,,,,S45764,T1-1-4,leaf from seedling,Emel003A,A1,5321,,,
+P35748,,,,,,,,,S45765,T3-12-3,leaf from seedling,Emel003A,B1,5424,,,
+P35749,,,,,,,,,S45766,PAD-M2-4,leaf from seedling,Emel003A,C1,5304,,,
+P35750,,,,,,,,,S45767,T1-13-1,leaf from seedling,Emel003A,D1,5326,,,
+P35751,,,,,,,,,S45768,T2-22-6,leaf from seedling,Emel003A,E1,5392,,,
+P35752,,,,,,,,,S45769,T3-9-7,leaf from seedling,Emel003A,F1,5458,,,
+P35753,,,,,,,,,S45770,T3-9-4,leaf from seedling,Emel003A,G1,5455,,,
+P35754,,,,,,,,,S45771,T2-22-5,leaf from seedling,Emel003A,H1,5391,,,
+P35755,,,,,,,,,S45772,T2-20-4,leaf from seedling,Emel003A,A2,5374,,,
+P35756,,,,,,,,,S45773,T2-21-6,leaf from seedling,Emel003A,B2,5384,,,
+P35757,,,,,,,,,S45774,T1-7-4,leaf from seedling,Emel003A,C2,5345,,,
+P35758,,,,,,,,,S45775,T1-10-4,leaf from seedling,Emel003A,D2,5325,,,
+P35759,,,,,,,,,S45776,PAD-M4-6,leaf from seedling,Emel003A,E2,5314,,,
+P35760,,,,,,,,,S45777,T3-10-2,leaf from seedling,Emel003A,F2,5407,,,
+P35761,,,,,,,,,S45778,T3-11-7,leaf from seedling,Emel003A,G2,5420,,,
+P35762,,,,,,,,,S45779,PAD-M2-5,leaf from seedling,Emel003A,H2,5305,,,
+P35763,,,,,,,,,S45780,T1-6-3,leaf from seedling,Emel003A,A3,5336,,,
+P35764,,,,,,,,,S45781,T3-11-6,leaf from seedling,Emel003A,B3,5419,,,
+P35765,,,,,,,,,S45782,T2-21-5,leaf from seedling,Emel003A,C3,5383,,,
+P35766,,,,,,,,,S45783,T3-4-1,leaf from seedling,Emel003A,D3,5430,,,
+P35767,,,,,,,,,S45784,T1-15-1,leaf from seedling,Emel003A,E3,5327,,,
+P35768,,,,,,,,,S45785,T2-9-4,leaf from seedling,Emel003A,F3,5401,,,
+P35769,,,,,,,,,S45786,T3-8-4,leaf from seedling,Emel003A,G3,5447,,,
+P35770,,,,,,,,,S45787,T2-26-3,leaf from seedling,Emel003A,H3,5397,,,
+P35771,,,,,,,,,S45788,T2-15-2,leaf from seedling,Emel003A,A4,5363,,,
+P35772,,,,,,,,,S45789,T3-11-8,leaf from seedling,Emel003A,B4,5421,,,
+P35773,,,,,,,,,S45790,PAD-M6-1,leaf from seedling,Emel003A,C4,5316,,,
+P35774,,,,,,,,,S45791,T2-12-5,leaf from seedling,Emel003A,D4,5358,,,
+P35775,,,,,,,,,S45792,T3-11-4,leaf from seedling,Emel003A,E4,5417,,,
+P35776,,,,,,,,,S45793,T2-9-2,leaf from seedling,Emel003A,F4,5399,,,
+P35777,,,,,,,,,S45794,PAD-M4-4,leaf from seedling,Emel003A,G4,5312,,,
+P35778,,,,,,,,,S45795,T1-6-2,leaf from seedling,Emel003A,H4,5335,,,
+P35779,,,,,,,,,S45796,T3-10-3,leaf from seedling,Emel003A,A5,5408,,,
+P35780,,,,,,,,,S45797,T1-9-6,leaf from seedling,Emel003A,B5,5351,,,
+P35781,,,,,,,,,S45798,T2-22-7,leaf from seedling,Emel003A,C5,5393,,,
+P35782,,,,,,,,,S45799,T1-1-3,leaf from seedling,Emel003A,D5,5320,,,
+P35783,,,,,,,,,S45800,T3-4-3,leaf from seedling,Emel003A,E5,5432,,,
+P35784,,,,,,,,,S45801,T2-22-2,leaf from seedling,Emel003A,F5,5388,,,
+P35785,,,,,,,,,S45802,T3-7-1,leaf from seedling,Emel003A,G5,5436,,,
+P35786,,,,,,,,,S45803,T2-22-3,leaf from seedling,Emel003A,H5,5389,,,
+P35787,,,,,,,,,S45804,T3-7-2,leaf from seedling,Emel003A,A6,5437,,,
+P35788,,,,,,,,,S45805,T2-9-1,leaf from seedling,Emel003A,B6,5398,,,
+P35789,,,,,,,,,S45806,T3-9-2,leaf from seedling,Emel003A,C6,5453,,,
+P35790,,,,,,,,,S45807,T2-20-1,leaf from seedling,Emel003A,D6,5371,,,
+P35791,,,,,,,,,S45808,T1-6-7,leaf from seedling,Emel003A,E6,5340,,,
+P35792,,,,,,,,,S45809,T1-6-8,leaf from seedling,Emel003A,F6,5341,,,
+P35793,,,,,,,,,S45810,T3-12-1,leaf from seedling,Emel003A,G6,5422,,,
+P35794,,,,,,,,,S45811,T2-21-7,leaf from seedling,Emel003A,H6,5385,,,
+P35795,,,,,,,,,S45812,T1-10-1,leaf from seedling,Emel003A,A7,5322,,,
+P35796,,,,,,,,,S45813,T2-15-1,leaf from seedling,Emel003A,C7,5362,,,
+P35797,,,,,,,,,S45814,T3-4-2,leaf from seedling,Emel003A,D7,5431,,,
+P35798,,,,,,,,,S45815,T1-1-2,leaf from seedling,Emel003A,E7,5319,,,
+P35799,,,,,,,,,S45816,T2-12-3,leaf from seedling,Emel003A,F7,5356,,,
+P35800,,,,,,,,,S45817,T2-22-1,leaf from seedling,Emel003A,G7,5387,,,
+P35801,,,,,,,,,S45818,T2-26-2,leaf from seedling,Emel003A,H7,5396,,,
+P35802,,,,,,,,,S45819,T2-19-2,leaf from seedling,Emel003A,A8,5368,,,
+P35803,,,,,,,,,S45820,T3-8-1,leaf from seedling,Emel003A,B8,5444,,,
+P35804,,,,,,,,,S45821,T2-20-7,leaf from seedling,Emel003A,C8,5377,,,
+P35805,,,,,,,,,S45822,PAD-M2-7,leaf from seedling,Emel003A,D8,5307,,,
+P35806,,,,,,,,,S45823,T2-15-3,leaf from seedling,Emel003A,E8,5364,,,
+P35807,,,,,,,,,S45824,T2-12-4,leaf from seedling,Emel003A,F8,5357,,,
+P35808,,,,,,,,,S45825,T3-8-7,leaf from seedling,Emel003A,G8,5450,,,
+P35809,,,,,,,,,S45826,T3-11-2,leaf from seedling,Emel003A,H8,5415,,,
+P35810,,,,,,,,,S45827,T3-10-4,leaf from seedling,Emel003A,A9,5409,,,
+P35811,,,,,,,,,S45828,PAD-M2-2,leaf from seedling,Emel003A,B9,5302,,,
+P35812,,,,,,,,,S45829,T1-7-1,leaf from seedling,Emel003A,C9,5342,,,
+P35813,,,,,,,,,S45830,T2-22-4,leaf from seedling,Emel003A,D9,5390,,,
+P35814,,,,,,,,,S45831,T2-12-6,leaf from seedling,Emel003A,E9,5359,,,
+P35815,,,,,,,,,S45832,T1-9-2,leaf from seedling,Emel003A,F9,5347,,,
+P35816,,,,,,,,,S45833,T2-19-3,leaf from seedling,Emel003A,G9,5369,,,
+P35817,,,,,,,,,S45834,T2-12-1,leaf from seedling,Emel003A,H9,5354,,,
+P35818,,,,,,,,,S45835,T3-10-1,leaf from seedling,Emel003A,A10,5406,,,
+P35819,,,,,,,,,S45836,PAD-M4-5,leaf from seedling,Emel003A,B10,5313,,,
+P35820,,,,,,,,,S45837,PAD-M4-2,leaf from seedling,Emel003A,C10,5310,,,
+P35821,,,,,,,,,S45838,T1-6-4,leaf from seedling,Emel003A,D10,5337,,,
+P35822,,,,,,,,,S45839,T2-12-7,leaf from seedling,Emel003A,E10,5360,,,
+P35823,,,,,,,,,S45840,T3-9-6,leaf from seedling,Emel003A,F10,5457,,,
+P35824,,,,,,,,,S45841,PAD-M4-3,leaf from seedling,Emel003A,G10,5311,,,
+P35825,,,,,,,,,S45842,T3-3-1,leaf from seedling,Emel003A,H10,5426,,,
+P35826,,,,,,,,,S45843,T1-9-7,leaf from seedling,Emel003A,A11,5352,,,
+P35827,,,,,,,,,S45844,T1-6-5,leaf from seedling,Emel003A,B11,5338,,,
+P35828,,,,,,,,,S45845,PAD-M6-2,leaf from seedling,Emel003A,C11,5317,,,
+P35829,,,,,,,,,S45846,T1-9-1,leaf from seedling,Emel003A,D11,5346,,,
+P35830,,,,,,,,,S45847,T2-20-8,leaf from seedling,Emel003A,E11,5378,,,
+P35831,,,,,,,,,S45848,PAD-M4-1,leaf from seedling,Emel003A,F11,5309,,,
+P35832,,,,,,,,,S45849,T2-21-4,leaf from seedling,Emel003A,G11,5382,,,
+P35833,,,,,,,,,S45850,T3-9-5,leaf from seedling,Emel003A,H11,5456,,,
+P35834,,,,,,,,,S45851,T2-9-5,leaf from seedling,Emel003A,A12,5402,,,
+P35835,,,,,,,,,S45852,T1-5-2,leaf from seedling,Emel003A,B12,5331,,,
+P35836,,,,,,,,,S45853,T2-15-4,leaf from seedling,Emel003A,C12,5365,,,
+P35837,,,,,,,,,S45854,T3-10-5,leaf from seedling,Emel003A,D12,5410,,,
+P35838,,,,,,,,,S45855,PAD-M4-7,leaf from seedling,Emel003A,E12,5315,,,
+P35839,,,,,,,,,S45856,T1-6-1,leaf from seedling,Emel003A,F12,5334,,,
+P35840,,,,,,,,,S45857,T2-20-3,leaf from seedling,Emel003A,G12,5373,,,
+P35841,,,,,,,,,S45858,T3-8-5,leaf from seedling,Emel003A,H12,5448,,,
+P35842,,,,,,,,,S45859,T1-7-3,leaf from seedling,Emel003B,A1,5344,,,
+P35843,,,,,,,,,S45860,T1-9-4,leaf from seedling,Emel003B,B1,5349,,,
+P35844,,,,,,,,,S45861,T3-4-4,leaf from seedling,Emel003B,C1,5433,,,
+P35845,,,,,,,,,S45862,T3-7-5,leaf from seedling,Emel003B,D1,5440,,,
+P35846,,,,,,,,,S45863,T1-10-2,leaf from seedling,Emel003B,E1,5323,,,
+P35847,,,,,,,,,S45864,T1-9-5,leaf from seedling,Emel003B,F1,5350,,,
+P35848,,,,,,,,,S45865,T1-10-3,leaf from seedling,Emel003B,G1,5324,,,
+P35849,,,,,,,,,S45866,T3-7-4,leaf from seedling,Emel003B,H1,5439,,,
+P35850,,,,,,,,,S45867,PAD-M2-6,leaf from seedling,Emel003B,A2,5306,,,
+P35851,,,,,,,,,S45868,T3-10-6,leaf from seedling,Emel003B,B2,5411,,,
+P35852,,,,,,,,,S45869,T2-9-3,leaf from seedling,Emel003B,C2,5400,,,
+P35853,,,,,,,,,S45870,T1-9-8,leaf from seedling,Emel003B,D2,5353,,,
+P35854,,,,,,,,,S45871,T2-26-1,leaf from seedling,Emel003B,E2,5395,,,
+P35855,,,,,,,,,S45872,T3-11-1,leaf from seedling,Emel003B,F2,5414,,,
+P35856,,,,,,,,,S45873,T3-8-6,leaf from seedling,Emel003B,G2,5449,,,
+P35857,,,,,,,,,S45874,T3-8-2,leaf from seedling,Emel003B,H2,5445,,,
+P35858,,,,,,,,,S45875,T2-19-1,leaf from seedling,Emel003B,A3,5367,,,
+P35859,,,,,,,,,S45876,T3-7-8,leaf from seedling,Emel003B,B3,5443,,,
+,,,,,,,,,S45877,T3-11-1R,leaf from seedling,Emel003B,C3,5414,,replicate ,
+P35860,,,,,,,,,S45878,PAD-M2-3,leaf from seedling,Emel003B,D3,5303,,,
+P35861,,,,,,,,,S45879,T2-20-5,leaf from seedling,Emel003B,E3,5375,,,
+P35862,,,,,,,,,S45880,T2-20-2,leaf from seedling,Emel003B,F3,5372,,,
+P35863,,,,,,,,,S45881,T3-7-6,leaf from seedling,Emel003B,G3,5441,,,
+P35864,,,,,,,,,S45882,T3-7-7,leaf from seedling,Emel003B,H3,5442,,,
+P35865,,,,,,,,,S45883,PAD-M2-8,leaf from seedling,Emel003B,A4,5308,,,
+P35866,,,,,,,,,S45884,T1-15-3,leaf from seedling,Emel003B,B4,5329,,,
+P35867,,,,,,,,,S45885,T2-21-1,leaf from seedling,Emel003B,C4,5379,,,
+P35868,,,,,,,,,S45886,T3-9-3,leaf from seedling,Emel003B,D4,5454,,,
+P35869,,,,,,,,,S45887,T3-3-2,leaf from seedling,Emel003B,E4,5427,,,
+P35870,,,,,,,,,S45888,T2-21-2,leaf from seedling,Emel003B,F4,5380,,,
+P35871,,,,,,,,,S45889,T3-9-8,leaf from seedling,Emel003B,G4,5459,,,
+P35872,,,,,,,,,S45890,T1-6-6,leaf from seedling,Emel003B,H4,5339,,,
+P35873,,,,,,,,,S45891,T1-7-2,leaf from seedling,Emel003B,A5,5343,,,
+P35874,,,,,,,,,S45892,T2-12-8,leaf from seedling,Emel003B,B5,5361,,,
+P35875,,,,,,,,,S45893,T1-9-3,leaf from seedling,Emel003B,C5,5348,,,
+P35876,,,,,,,,,S45894,T3-12-2,leaf from seedling,Emel003B,D5,5423,,,
+P35877,,,,,,,,,S45895,T1-1-1,leaf from seedling,Emel003B,E5,5318,,,
+P35878,,,,,,,,,S45896,T2-12-2,leaf from seedling,Emel003B,F5,5355,,,
+P35879,,,,,,,,,S45897,T3-7-3,leaf from seedling,Emel003B,G5,5438,,,
+P35880,,,,,,,,,S45898,T3-11-5,leaf from seedling,Emel003B,H5,5418,,,
+P35881,,,,,,,,,S45899,T2-21-3,leaf from seedling,Emel003B,A6,5381,,,
+P35882,,,,,,,,,S45900,T2-20-6,leaf from seedling,Emel003B,B6,5376,,,
+P35883,,,,,,,,,S45901,T1-5-1,leaf from seedling,Emel003B,C6,5330,,,
+P35884,,,,,,,,,S45902,T3-8-3,leaf from seedling,Emel003B,D6,5446,,,
+P35885,,,,,,,,,S45903,T3-9-1,leaf from seedling,Emel003B,E6,5452,,,
+P35886,,,,,,,,,S45904,T3-11-3,leaf from seedling,Emel003B,F6,5416,,,
+,,,,,,,,,S45905,T1-6-6R,leaf from seedling,Emel003B,G6,r5339,,replicate ,
+,,,,,,,,,S45906,T2-12-8R,leaf from seedling,Emel003B,H6,r5361,,replicate ,
+,,,,,,,,,S45907,PAD-M6-1R,leaf from seedling,Emel003B,A7,r5316,,replicate ,
+,,,,,,,,,S45908,T2-19-2R,leaf from seedling,Emel003B,B7,r5368,,replicate ,
+,,,,,,,,,S45909,PAD-M4-1R,leaf from seedling,Emel003B,C7,r5309,,replicate ,
+P35887,,,,,,,,,S45910,YBT-unk,leaf from seedling,Emel003B,D7,r0000,,replicate ,
+P35888,MAJ-1-A,A25374,MAJ,none,emel_prov,nature,Jugiong,A-1-1,S45911,MAJ-1-A,leaf,Emelliodora_LB_Block09,A1,jg-1-1,none,,
+P35889,RYE-1-A,A25373,RYE,none,emel_prov,nature,Jugiong,A-1-2,S45912,RYE-1-A,leaf,Emelliodora_LB_Block09,B1,jg-1-2,none,,
+P35890,EUB-3-A,A25383,EUB,none,emel_prov,nature,Jugiong,A-1-3,S45913,EUB-3-A,leaf,Emelliodora_LB_Block09,C1,jg-1-3,none,,
+P35891,JUN-1-A,A25379,JUN,none,emel_prov,nature,Jugiong,A-1-4,S45914,JUN-1-A,leaf,Emelliodora_LB_Block09,D1,jg-1-4,none,,
+P35892,MUL-1-A,A25375,MUL,none,emel_prov,nature,Jugiong,A-1-5,S45915,MUL-1-A,leaf,Emelliodora_LB_Block09,E1,jg-1-5,none,,
+P35893,CON-2-A,A25387,CON,none,emel_prov,nature,Jugiong,A-1-6,S45916,CON-2-A,leaf,Emelliodora_LB_Block09,F1,jg-1-6,none,,
+P35894,EUB-1-A,A25383,EUB,none,emel_prov,nature,Jugiong,A-1-7,S45917,EUB-1-A,leaf,Emelliodora_LB_Block09,G1,jg-1-7,none,,
+P35895,BER-1-A,A25386,BER,none,emel_prov,nature,Jugiong,A-1-8,S45918,BER-1-A,leaf,Emelliodora_LB_Block09,H1,jg-1-8,none,failed—too few reads,
+P35896,WAB-1-A,A25392,WAB,none,emel_prov,nature,Jugiong,A-1-9,S45919,WAB-1-A,leaf,Emelliodora_LB_Block09,A2,jg-1-9,none,,
+P35897,MAR-1-A,A25391,MAR,none,emel_prov,nature,Jugiong,A-1-10,S45920,MAR-1-A,leaf,Emelliodora_LB_Block09,B2,jg-1-10,none,,
+P35898,BAR-2-A,A25381,BAR,none,emel_prov,nature,Jugiong,A-1-11,S45921,BAR-2-A,leaf,Emelliodora_LB_Block09,C2,jg-1-11,none,failed—too few loci,
+P35899,TEM-1-A,A25378,TEM,none,emel_prov,nature,Jugiong,A-1-12,S45922,TEM-1-A,leaf,Emelliodora_LB_Block09,D2,jg-1-12,none,,
+P35900,HAR-2-A,A25377,HAR,none,emel_prov,nature,Jugiong,A-1-13,S45923,HAR-2-A,leaf,Emelliodora_LB_Block09,E2,jg-1-13,none,,
+P35901,CON-1-A,A25387,CON,none,emel_prov,nature,Jugiong,A-1-14,S45924,CON-1-A,leaf,Emelliodora_LB_Block09,F2,jg-1-14,none,,
+P35902,DIC-2-A,A25376,DIC,none,emel_prov,nature,Jugiong,A-1-15,S45925,DIC-2-A,leaf,Emelliodora_LB_Block09,G2,jg-1-15,none,,
+P35903,TEM-2-A,A25378,TEM,none,emel_prov,nature,Jugiong,A-1-16,S45926,TEM-2-A,leaf,Emelliodora_LB_Block09,H2,jg-1-16,none,,
+P35904,RYE-3-A,A25373,RYE,none,emel_prov,nature,Jugiong,A-1-17,S45927,RYE-3-A,leaf,Emelliodora_LB_Block09,A3,jg-1-17,none,,
+P35905,JUN-2-A,A25379,JUN,none,emel_prov,nature,Jugiong,A-1-18,S45928,JUN-2-A,leaf,Emelliodora_LB_Block09,B3,jg-1-18,none,,
+P35906,HOLA-2-A,A25388,HOLA,none,emel_prov,nature,Jugiong,A-1-19,S45929,HOLA-2-A,leaf,Emelliodora_LB_Block09,C3,jg-1-19,none,,
+P35907,HAR-3-A,A25377,HAR,none,emel_prov,nature,Jugiong,A-1-20,S45930,HAR-3-A,leaf,Emelliodora_LB_Block09,D3,jg-1-20,none,,
+P35908,BAR-1-A,A25381,BAR,none,emel_prov,nature,Jugiong,A-1-21,S45931,BAR-1-A,leaf,Emelliodora_LB_Block09,E3,jg-1-21,none,,
+P35909,JER-1-A,A25389,JER,none,emel_prov,nature,Jugiong,A-1-22,S45932,JER-1-A,leaf,Emelliodora_LB_Block09,F3,jg-1-22,none,,
+P35910,DIC-1-A,A25376,DIC,none,emel_prov,nature,Jugiong,A-1-23,S45933,DIC-1-A,leaf,Emelliodora_LB_Block09,G3,jg-1-23,none,,
+P35911,HOLA-1-A,A25388,HOLA,none,emel_prov,nature,Jugiong,A-1-24,S45934,HOLA-1-A,leaf,Emelliodora_LB_Block09,H3,jg-1-24,none,,
+P35912,MAJ-3-A,A25374,MAJ,none,emel_prov,nature,Jugiong,A-1-25,S45935,MAJ-3-A,leaf,Emelliodora_LB_Block09,A4,jg-1-25,none,,
+P35913,GUN-2-A,A25382,GUN,none,emel_prov,nature,Jugiong,A-1-26,S45936,GUN-2-A,leaf,Emelliodora_LB_Block09,B4,jg-1-26,none,,
+P35914,MUL-3-A,A25375,MUL,none,emel_prov,nature,Jugiong,A-1-27,S45937,MUL-3-A,leaf,Emelliodora_LB_Block09,C4,jg-1-27,none,,
+P35915,WAL-2-A,A25380,WAL,none,emel_prov,nature,Jugiong,A-1-28,S45938,WAL-2-A,leaf,Emelliodora_LB_Block09,D4,jg-1-28,none,,
+P35916,COL-1-A,A25384,COL,none,emel_prov,nature,Jugiong,A-1-29,S45939,COL-1-A,leaf,Emelliodora_LB_Block09,E4,jg-1-29,none,,
+P35917,WAB-2-A,A25392,WAB,none,emel_prov,nature,Jugiong,A-1-30,S45940,WAB-2-A,leaf,Emelliodora_LB_Block09,F4,jg-1-30,none,,
+P35918,HOLB-1-A,A25390,HOLB,none,emel_prov,nature,Jugiong,A-1-31,S45941,HOLB-1-A,leaf,Emelliodora_LB_Block09,G4,jg-1-31,none,,
+P35919,GUN-3-A,A25382,GUN,none,emel_prov,nature,Jugiong,A-1-32,S45942,GUN-3-A,leaf,Emelliodora_LB_Block09,H4,jg-1-32,none,,
+P35920,EUB-2-A,A25383,EUB,none,emel_prov,nature,Jugiong,A-1-33,S45943,EUB-2-A,leaf,Emelliodora_LB_Block09,A5,jg-1-33,none,,
+P35921,HAR-1-A,A25377,HAR,none,emel_prov,nature,Jugiong,A-1-34,S45944,HAR-1-A,leaf,Emelliodora_LB_Block09,B5,jg-1-34,none,,
+P35922,MUL-2-A,A25375,MUL,none,emel_prov,nature,Jugiong,A-1-35,S45945,MUL-2-A,leaf,Emelliodora_LB_Block09,C5,jg-1-35,none,failed—too few loci,
+P35923,HOLB-2-A,A25390,HOLB,none,emel_prov,nature,Jugiong,A-1-36,S45946,HOLB-2-A,leaf,Emelliodora_LB_Block09,D5,jg-1-36,none,,
+P35924,TEM-3-A,A25378,TEM,none,emel_prov,nature,Jugiong,A-1-37,S45947,TEM-3-A,leaf,Emelliodora_LB_Block09,E5,jg-1-37,none,,
+P35925,MAJ-2-A,A25374,MAJ,none,emel_prov,nature,Jugiong,A-1-38,S45948,MAJ-2-A,leaf,Emelliodora_LB_Block09,F5,jg-1-38,none,,
+P35926,JER-2-A,A25389,JER,none,emel_prov,nature,Jugiong,A-1-39,S45949,JER-2-A,leaf,Emelliodora_LB_Block09,G5,jg-1-39,none,,
+P35927,MOR-2-A,A25385,MOR,none,emel_prov,nature,Jugiong,A-1-40,S45950,MOR-2-A,leaf,Emelliodora_LB_Block09,H5,jg-1-40,none,,
+P35928,MOR-1-A,A25385,MOR,none,emel_prov,nature,Jugiong,A-1-41,S45951,MOR-1-A,leaf,Emelliodora_LB_Block09,A6,jg-1-41,none,failed—too few loci,
+P35929,RYE-2-A,A25373,RYE,none,emel_prov,nature,Jugiong,A-1-42,S45952,RYE-2-A,leaf,Emelliodora_LB_Block09,B6,jg-1-42,none,,
+P35930,COL-2-A,A25384,COL,none,emel_prov,nature,Jugiong,A-1-43,S45953,COL-2-A,leaf,Emelliodora_LB_Block09,C6,jg-1-43,none,,
+P35931,WAL-1-A,A25380,WAL,none,emel_prov,nature,Jugiong,A-1-44,S45954,WAL-1-A,leaf,Emelliodora_LB_Block09,D6,jg-1-44,none,,
+P35932,MAR-2-A,A25391,MAR,none,emel_prov,nature,Jugiong,A-1-45,S45955,MAR-2-A,leaf,Emelliodora_LB_Block09,E6,jg-1-45,none,,
+P35933,WAB-3-A,A25392,WAB,none,emel_prov,nature,Jugiong,A-1-46,S45956,WAB-3-A,leaf,Emelliodora_LB_Block09,F6,jg-1-46,none,,
+P35934,GUN-1-A,A25382,GUN,none,emel_prov,nature,Jugiong,A-1-47,S45957,GUN-1-A,leaf,Emelliodora_LB_Block09,G6,jg-1-47,none,,
+P35935,BER-2-A,A25386,BER,none,emel_prov,nature,Jugiong,A-1-48,S45958,BER-2-A,leaf,Emelliodora_LB_Block09,H6,jg-1-48,none,,
+P35936,BER-3-A,A25386,BER,none,emel_prov,nature,Jugiong,A-2-1,S45959,BER-3-A,leaf,Emelliodora_LB_Block09,A7,jg-2-1,none,failed—too few loci,
+P35937,HAR-5-A,A25377,HAR,none,emel_prov,nature,Jugiong,A-2-2,S45960,HAR-5-A,leaf,Emelliodora_LB_Block09,B7,jg-2-2,none,,
+P35938,HOLA-4-A,A25388,HOLA,none,emel_prov,nature,Jugiong,A-2-3,S45961,HOLA-4-A,leaf,Emelliodora_LB_Block09,C7,jg-2-3,none,,
+P35939,RYE-4-A,A25373,RYE,none,emel_prov,nature,Jugiong,A-2-4,S45962,RYE-4-A,leaf,Emelliodora_LB_Block09,D7,jg-2-4,none,failed—too few reads,
+P35940,MAR-3-A,A25391,MAR,none,emel_prov,nature,Jugiong,A-2-5,S45963,MAR-3-A,leaf,Emelliodora_LB_Block09,E7,jg-2-5,none,,
+P35941,JUN-3-A,A25379,JUN,none,emel_prov,nature,Jugiong,A-2-6,S45964,JUN-3-A,leaf,Emelliodora_LB_Block09,F7,jg-2-6,none,,
+P35942,MUL-4-A,A25375,MUL,none,emel_prov,nature,Jugiong,A-2-7,S45965,MUL-4-A,leaf,Emelliodora_LB_Block09,G7,jg-2-7,none,,
+P35943,RYE-5-A,A25373,RYE,none,emel_prov,nature,Jugiong,A-2-8,S45966,RYE-5-A,leaf,Emelliodora_LB_Block09,H7,jg-2-8,none,,
+P35944,TEM-6-A,A25378,TEM,none,emel_prov,nature,Jugiong,A-2-9,S45967,TEM-6-A,leaf,Emelliodora_LB_Block09,A8,jg-2-9,none,failed—too few loci,
+P35945,GUN-5-A,A25382,GUN,none,emel_prov,nature,Jugiong,A-2-10,S45968,GUN-5-A,leaf,Emelliodora_LB_Block09,B8,jg-2-10,none,,
+P35946,EUB-4-A,A25383,EUB,none,emel_prov,nature,Jugiong,A-2-11,S45969,EUB-4-A,leaf,Emelliodora_LB_Block09,C8,jg-2-11,none,,
+P35947,COL-3-A,A25384,COL,none,emel_prov,nature,Jugiong,A-2-12,S45970,COL-3-A,leaf,Emelliodora_LB_Block09,D8,jg-2-12,none,,
+P35948,DIC-4-A,A25376,DIC,none,emel_prov,nature,Jugiong,A-2-13,S45971,DIC-4-A,leaf,Emelliodora_LB_Block09,E8,jg-2-13,none,,
+P35949,HOLB-4-A,A25390,HOLB,none,emel_prov,nature,Jugiong,A-2-14,S45972,HOLB-4-A,leaf,Emelliodora_LB_Block09,F8,jg-2-14,none,,
+P35950,BER-5-A,A25386,BER,none,emel_prov,nature,Jugiong,A-2-15,S45973,BER-5-A,leaf,Emelliodora_LB_Block09,G8,jg-2-15,none,,
+P35951,WAL-4-A,A25380,WAL,none,emel_prov,nature,Jugiong,A-2-16,S45974,WAL-4-A,leaf,Emelliodora_LB_Block09,H8,jg-2-16,none,,
+P35952,MOR-3-A,A25385,MOR,none,emel_prov,nature,Jugiong,A-2-17,S45975,MOR-3-A,leaf,Emelliodora_LB_Block09,A9,jg-2-17,none,failed—too few loci,
+P35953,JER-3-A,A25389,JER,none,emel_prov,nature,Jugiong,A-2-18,S45976,JER-3-A,leaf,Emelliodora_LB_Block09,B9,jg-2-18,none,,
+P35954,DIC-3-A,A25376,DIC,none,emel_prov,nature,Jugiong,A-2-19,S45977,DIC-3-A,leaf,Emelliodora_LB_Block09,C9,jg-2-19,none,,
+P35955,DIC-5-A,A25376,DIC,none,emel_prov,nature,Jugiong,A-2-20,S45978,DIC-5-A,leaf,Emelliodora_LB_Block09,D9,jg-2-20,none,,
+P35956,MAR-4-A,A25391,MAR,none,emel_prov,nature,Jugiong,A-2-21,S45979,MAR-4-A,leaf,Emelliodora_LB_Block09,E9,jg-2-21,none,,
+P35957,HOLA-3-A,A25388,HOLA,none,emel_prov,nature,Jugiong,A-2-22,S45980,HOLA-3-A,leaf,Emelliodora_LB_Block09,F9,jg-2-22,none,,
+P35958,GUN-4-A,A25382,GUN,none,emel_prov,nature,Jugiong,A-2-23,S45981,GUN-4-A,leaf,Emelliodora_LB_Block09,G9,jg-2-23,none,,
+P35959,TEM-5-A,A25378,TEM,none,emel_prov,nature,Jugiong,A-2-24,S45982,TEM-5-A,leaf,Emelliodora_LB_Block09,H9,jg-2-24,none,,
+P35960,RYE-6-A,A25373,RYE,none,emel_prov,nature,Jugiong,A-2-25,S45983,RYE-6-A,leaf,Emelliodora_LB_Block09,A10,jg-2-25,none,failed—too few loci,
+P35961,MAJ-4-A,A25374,MAJ,none,emel_prov,nature,Jugiong,A-2-26,S45984,MAJ-4-A,leaf,Emelliodora_LB_Block09,B10,jg-2-26,none,,
+P35962,JUN-4-A,A25379,JUN,none,emel_prov,nature,Jugiong,A-2-27,S45985,JUN-4-A,leaf,Emelliodora_LB_Block09,C10,jg-2-27,none,,
+P35963,COL-5-A,A25384,COL,none,emel_prov,nature,Jugiong,A-2-28,S45986,COL-5-A,leaf,Emelliodora_LB_Block09,D10,jg-2-28,none,,
+P35964,WAL-3-A,A25380,WAL,none,emel_prov,nature,Jugiong,A-2-29,S45987,WAL-3-A,leaf,Emelliodora_LB_Block09,E10,jg-2-29,none,,
+P35965,WAB-5-A,A25392,WAB,none,emel_prov,nature,Jugiong,A-2-30,S45988,WAB-5-A,leaf,Emelliodora_LB_Block09,F10,jg-2-30,none,,
+P35966,JER-4-A,A25389,JER,none,emel_prov,nature,Jugiong,A-2-31,S45989,JER-4-A,leaf,Emelliodora_LB_Block09,G10,jg-2-31,none,,
+P35967,MUL-5-A,A25375,MUL,none,emel_prov,nature,Jugiong,A-2-32,S45990,MUL-5-A,leaf,Emelliodora_LB_Block09,H10,jg-2-32,none,,
+P35968,HAR-6-A,A25377,HAR,none,emel_prov,nature,Jugiong,A-2-33,S45991,HAR-6-A,leaf,Emelliodora_LB_Block09,A11,jg-2-33,none,,
+P35969,HAR-4-A,A25377,HAR,none,emel_prov,nature,Jugiong,A-2-34,S45992,HAR-4-A,leaf,Emelliodora_LB_Block09,B11,jg-2-34,none,,
+P35970,BAR-4-A,A25381,BAR,none,emel_prov,nature,Jugiong,A-2-35,S45993,BAR-4-A,leaf,Emelliodora_LB_Block09,C11,jg-2-35,none,,
+P35971,HOLB-5-A,A25390,HOLB,none,emel_prov,nature,Jugiong,A-2-36,S45994,HOLB-5-A,leaf,Emelliodora_LB_Block09,D11,jg-2-36,none,,
+P35972,EUB-5-A,A25383,EUB,none,emel_prov,nature,Jugiong,A-2-37,S45995,EUB-5-A,leaf,Emelliodora_LB_Block09,E11,jg-2-37,none,,
+P35973,MAJ-5-A,A25374,MAJ,none,emel_prov,nature,Jugiong,A-2-38,S45996,MAJ-5-A,leaf,Emelliodora_LB_Block09,F11,jg-2-38,none,,
+P35974,BER-4-A,A25386,BER,none,emel_prov,nature,Jugiong,A-2-39,S45997,BER-4-A,leaf,Emelliodora_LB_Block09,G11,jg-2-39,none,,
+P35975,COL-4-A,A25384,COL,none,emel_prov,nature,Jugiong,A-2-40,S45998,COL-4-A,leaf,Emelliodora_LB_Block09,H11,jg-2-40,none,,
+P35976,TEM-4-A,A25378,TEM,none,emel_prov,nature,Jugiong,A-2-41,S45999,TEM-4-A,leaf,Emelliodora_LB_Block09,A12,jg-2-41,none,,
+P35977,MOR-4-A,A25385,MOR,none,emel_prov,nature,Jugiong,A-2-42,S46000,MOR-4-A,leaf,Emelliodora_LB_Block09,B12,jg-2-42,none,,
+P35978,EUB-6-A,A25383,EUB,none,emel_prov,nature,Jugiong,A-2-43,S46001,EUB-6-A,leaf,Emelliodora_LB_Block09,C12,jg-2-43,none,,
+P35979,CON-4-A,A25387,CON,none,emel_prov,nature,Jugiong,A-2-44,S46002,CON-4-A,leaf,Emelliodora_LB_Block09,D12,jg-2-44,none,,
+P35980,HOLB-3-A,A25390,HOLB,none,emel_prov,nature,Jugiong,A-2-45,S46003,HOLB-3-A,leaf,Emelliodora_LB_Block09,E12,jg-2-45,none,,
+P35981,CON-3-A,A25387,CON,none,emel_prov,nature,Jugiong,A-2-46,S46004,CON-3-A,leaf,Emelliodora_LB_Block09,F12,jg-2-46,none,,
+P35982,BAR-3-A,A25381,BAR,none,emel_prov,nature,Jugiong,A-2-47,S46005,BAR-3-A,leaf,Emelliodora_LB_Block09,G12,jg-2-47,none,,
+P35983,WAB-4-A,A25392,WAB,none,emel_prov,nature,Jugiong,A-2-48,S46006,WAB-4-A,leaf,Emelliodora_LB_Block09,H12,jg-2-48,none,failed—no reads,
+P35984,DIC-6-A,A25376,DIC,none,emel_prov,nature,Jugiong,A-3-1,S46007,DIC-6-A,leaf,Emelliodora_LB_Block10,A1,jg-3-1,none,,
+P35985,JUN-5-A,A25379,JUN,none,emel_prov,nature,Jugiong,A-3-2,S46008,JUN-5-A,leaf,Emelliodora_LB_Block10,B1,jg-3-2,none,,
+P35986,EUB-7-A,A25383,EUB,none,emel_prov,nature,Jugiong,A-3-3,S46009,EUB-7-A,leaf,Emelliodora_LB_Block10,C1,jg-3-3,none,,
+P35987,CON-6-A,A25387,CON,none,emel_prov,nature,Jugiong,A-3-4,S46010,CON-6-A,leaf,Emelliodora_LB_Block10,D1,jg-3-4,none,,
+P35988,JUN-6-A,A25379,JUN,none,emel_prov,nature,Jugiong,A-3-5,S46011,JUN-6-A,leaf,Emelliodora_LB_Block10,E1,jg-3-5,none,,
+P35989,BAR-6-A,A25381,BAR,none,emel_prov,nature,Jugiong,A-3-6,S46012,BAR-6-A,leaf,Emelliodora_LB_Block10,F1,jg-3-6,none,,
+P35990,MAJ-6-A,A25374,MAJ,none,emel_prov,nature,Jugiong,A-3-7,S46013,MAJ-6-A,leaf,Emelliodora_LB_Block10,G1,jg-3-7,none,,
+P35991,WAB-7-A,A25392,WAB,none,emel_prov,nature,Jugiong,A-3-8,S46014,WAB-7-A,leaf,Emelliodora_LB_Block10,H1,jg-3-8,none,failed—too few reads,
+P35992,TEM-8-A,A25378,TEM,none,emel_prov,nature,Jugiong,A-3-9,S46015,TEM-8-A,leaf,Emelliodora_LB_Block10,A2,jg-3-9,none,,
+P35993,HOLA-7-A,A25388,HOLA,none,emel_prov,nature,Jugiong,A-3-10,S46016,HOLA-7-A,leaf,Emelliodora_LB_Block10,B2,jg-3-10,none,,
+P35994,JER-6-A,A25389,JER,none,emel_prov,nature,Jugiong,A-3-11,S46017,JER-6-A,leaf,Emelliodora_LB_Block10,C2,jg-3-11,none,failed—too few loci,
+P35995,MAR-5-A,A25391,MAR,none,emel_prov,nature,Jugiong,A-3-12,S46018,MAR-5-A,leaf,Emelliodora_LB_Block10,D2,jg-3-12,none,failed—too few reads,
+P35996,MAJ-7-A,A25374,MAJ,none,emel_prov,nature,Jugiong,A-3-13,S46019,MAJ-7-A,leaf,Emelliodora_LB_Block10,E2,jg-3-13,none,failed—too few loci,
+P35997,GUN-6-A,A25382,GUN,none,emel_prov,nature,Jugiong,A-3-14,S46020,GUN-6-A,leaf,Emelliodora_LB_Block10,F2,jg-3-14,none,failed—too few reads,
+P35998,MUL-6-A,A25375,MUL,none,emel_prov,nature,Jugiong,A-3-15,S46021,MUL-6-A,leaf,Emelliodora_LB_Block10,G2,jg-3-15,none,failed—too few reads,
+P35999,HOLA-5-A,A25388,HOLA,none,emel_prov,nature,Jugiong,A-3-16,S46022,HOLA-5-A,leaf,Emelliodora_LB_Block10,H2,jg-3-16,none,,
+P36000,HOLB-6-A,A25390,HOLB,none,emel_prov,nature,Jugiong,A-3-17,S46023,HOLB-6-A,leaf,Emelliodora_LB_Block10,A3,jg-3-17,none,,
+P36001,JER-7-A,A25389,JER,none,emel_prov,nature,Jugiong,A-3-18,S46024,JER-7-A,leaf,Emelliodora_LB_Block10,B3,jg-3-18,none,,
+P36002,BER-8-A,A25386,BER,none,emel_prov,nature,Jugiong,A-3-19,S46025,BER-8-A,leaf,Emelliodora_LB_Block10,C3,jg-3-19,none,,
+P36003,BER-6-A,A25386,BER,none,emel_prov,nature,Jugiong,A-3-20,S46026,BER-6-A,leaf,Emelliodora_LB_Block10,D3,jg-3-20,none,,
+P36004,DIC-7-A,A25376,DIC,none,emel_prov,nature,Jugiong,A-3-21,S46027,DIC-7-A,leaf,Emelliodora_LB_Block10,E3,jg-3-21,none,,
+P36005,CON-7-A,A25387,CON,none,emel_prov,nature,Jugiong,A-3-22,S46028,CON-7-A,leaf,Emelliodora_LB_Block10,F3,jg-3-22,none,,
+P36006,JER-5-A,A25389,JER,none,emel_prov,nature,Jugiong,A-3-23,S46029,JER-5-A,leaf,Emelliodora_LB_Block10,G3,jg-3-23,none,,
+P36007,WAL-5-A,A25380,WAL,none,emel_prov,nature,Jugiong,A-3-24,S46030,WAL-5-A,leaf,Emelliodora_LB_Block10,H3,jg-3-24,none,,
+P36008,HAR-8-A,A25377,HAR,none,emel_prov,nature,Jugiong,A-3-25,S46031,HAR-8-A,leaf,Emelliodora_LB_Block10,A4,jg-3-25,none,,
+P36009,MAR-6-A,A25391,MAR,none,emel_prov,nature,Jugiong,A-3-26,S46032,MAR-6-A,leaf,Emelliodora_LB_Block10,B4,jg-3-26,none,,
+P36010,BER-7-A,A25386,BER,none,emel_prov,nature,Jugiong,A-3-27,S46033,BER-7-A,leaf,Emelliodora_LB_Block10,C4,jg-3-27,none,,
+P36011,COL-6-A,A25384,COL,none,emel_prov,nature,Jugiong,A-3-28,S46034,COL-6-A,leaf,Emelliodora_LB_Block10,D4,jg-3-28,none,,
+P36012,BAR-5-A,A25381,BAR,none,emel_prov,nature,Jugiong,A-3-29,S46035,BAR-5-A,leaf,Emelliodora_LB_Block10,E4,jg-3-29,none,,
+P36013,HOLA-6-A,A25388,HOLA,none,emel_prov,nature,Jugiong,A-3-30,S46036,HOLA-6-A,leaf,Emelliodora_LB_Block10,F4,jg-3-30,none,,
+P36014,HOLB-7-A,A25390,HOLB,none,emel_prov,nature,Jugiong,A-3-31,S46037,HOLB-7-A,leaf,Emelliodora_LB_Block10,G4,jg-3-31,none,,
+P36015,MOR-5-A,A25385,MOR,none,emel_prov,nature,Jugiong,A-3-32,S46038,MOR-5-A,leaf,Emelliodora_LB_Block10,H4,jg-3-32,none,,
+P36016,CON-5-A,A25387,CON,none,emel_prov,nature,Jugiong,A-3-33,S46039,CON-5-A,leaf,Emelliodora_LB_Block10,A5,jg-3-33,none,,
+P36017,WAB-6-A,A25392,WAB,none,emel_prov,nature,Jugiong,A-3-34,S46040,WAB-6-A,leaf,Emelliodora_LB_Block10,B5,jg-3-34,none,,
+P36018,WAL-7-A,A25380,WAL,none,emel_prov,nature,Jugiong,A-3-35,S46041,WAL-7-A,leaf,Emelliodora_LB_Block10,C5,jg-3-35,none,failed—too few loci,
+P36019,HOLB-8-A,A25390,HOLB,none,emel_prov,nature,Jugiong,A-3-36,S46042,HOLB-8-A,leaf,Emelliodora_LB_Block10,D5,jg-3-36,none,,
+P36020,COL-7-A,A25384,COL,none,emel_prov,nature,Jugiong,A-3-37,S46043,COL-7-A,leaf,Emelliodora_LB_Block10,E5,jg-3-37,none,,
+P36021,WAL-6-A,A25380,WAL,none,emel_prov,nature,Jugiong,A-3-38,S46044,WAL-6-A,leaf,Emelliodora_LB_Block10,F5,jg-3-38,none,,
+P36022,EUB-8-A,A25383,EUB,none,emel_prov,nature,Jugiong,A-3-39,S46045,EUB-8-A,leaf,Emelliodora_LB_Block10,G5,jg-3-39,none,,
+P36023,MUL-7-A,A25375,MUL,none,emel_prov,nature,Jugiong,A-3-40,S46046,MUL-7-A,leaf,Emelliodora_LB_Block10,H5,jg-3-40,none,,
+P36024,HAR-7-A,A25377,HAR,none,emel_prov,nature,Jugiong,A-3-41,S46047,HAR-7-A,leaf,Emelliodora_LB_Block10,A6,jg-3-41,none,failed—too few loci,
+P36025,DIC-8-A,A25376,DIC,none,emel_prov,nature,Jugiong,A-3-42,S46048,DIC-8-A,leaf,Emelliodora_LB_Block10,B6,jg-3-42,none,,
+P36026,COL-8-A,A25384,COL,none,emel_prov,nature,Jugiong,A-3-43,S46049,COL-8-A,leaf,Emelliodora_LB_Block10,C6,jg-3-43,none,,
+P36027,MOR-6-A,A25385,MOR,none,emel_prov,nature,Jugiong,A-3-44,S46050,MOR-6-A,leaf,Emelliodora_LB_Block10,D6,jg-3-44,none,,
+P36028,TEM-7-A,A25378,TEM,none,emel_prov,nature,Jugiong,A-3-45,S46051,TEM-7-A,leaf,Emelliodora_LB_Block10,E6,jg-3-45,none,failed—too few loci,
+P36029,RYE-7-A,A25373,RYE,none,emel_prov,nature,Jugiong,A-3-46,S46052,RYE-7-A,leaf,Emelliodora_LB_Block10,F6,jg-3-46,none,,
+P36030,RYE-8-A,A25373,RYE,none,emel_prov,nature,Jugiong,A-3-47,S46053,RYE-8-A,leaf,Emelliodora_LB_Block10,G6,jg-3-47,none,,
+P36031,GUN-7-A,A25382,GUN,none,emel_prov,nature,Jugiong,A-3-48,S46054,GUN-7-A,leaf,Emelliodora_LB_Block10,H6,jg-3-48,none,,
+P36032,MAJ-9-A,A25374,MAJ,none,emel_prov,nature,Jugiong,A-4-1,S46055,MAJ-9-A,leaf,Emelliodora_LB_Block10,A7,jg-4-1,none,failed—too few loci,
+P36033,JER-9-A,A25389,JER,none,emel_prov,nature,Jugiong,A-4-2,S46056,JER-9-A,leaf,Emelliodora_LB_Block10,B7,jg-4-2,none,,
+P36034,HOLB-9-A,A25390,HOLB,none,emel_prov,nature,Jugiong,A-4-3,S46057,HOLB-9-A,leaf,Emelliodora_LB_Block10,C7,jg-4-3,none,,
+P36035,CON-8-A,A25387,CON,none,emel_prov,nature,Jugiong,A-4-4,S46058,CON-8-A,leaf,Emelliodora_LB_Block10,D7,jg-4-4,none,failed—too few loci,
+P36036,BAR-8-A,A25381,BAR,none,emel_prov,nature,Jugiong,A-4-5,S46059,BAR-8-A,leaf,Emelliodora_LB_Block10,E7,jg-4-5,none,,
+P36037,EUB-9-A,A25383,EUB,none,emel_prov,nature,Jugiong,A-4-6,S46060,EUB-9-A,leaf,Emelliodora_LB_Block10,F7,jg-4-6,none,,
+P36038,DIC-9-A,A25376,DIC,none,emel_prov,nature,Jugiong,A-4-7,S46061,DIC-9-A,leaf,Emelliodora_LB_Block10,G7,jg-4-7,none,,
+P36039,RYE-9-A,A25373,RYE,none,emel_prov,nature,Jugiong,A-4-8,S46062,RYE-9-A,leaf,Emelliodora_LB_Block10,H7,jg-4-8,none,,
+P36040,DIC-10-A,A25376,DIC,none,emel_prov,nature,Jugiong,A-4-9,S46063,DIC-10-A,leaf,Emelliodora_LB_Block10,A8,jg-4-9,none,failed—too few loci,
+P36041,GUN-8-A,A25382,GUN,none,emel_prov,nature,Jugiong,A-4-10,S46064,GUN-8-A,leaf,Emelliodora_LB_Block10,B8,jg-4-10,none,,
+P36042,COL-10-A,A25384,COL,none,emel_prov,nature,Jugiong,A-4-11,S46065,COL-10-A,leaf,Emelliodora_LB_Block10,C8,jg-4-11,none,,
+P36043,MUL-9-A,A25375,MUL,none,emel_prov,nature,Jugiong,A-4-12,S46066,MUL-9-A,leaf,Emelliodora_LB_Block10,D8,jg-4-12,none,,
+P36044,HOLA-9-A,A25388,HOLA,none,emel_prov,nature,Jugiong,A-4-13,S46067,HOLA-9-A,leaf,Emelliodora_LB_Block10,E8,jg-4-13,none,,
+P36045,BAR-9-A,A25381,BAR,none,emel_prov,nature,Jugiong,A-4-14,S46068,BAR-9-A,leaf,Emelliodora_LB_Block10,F8,jg-4-14,none,,
+P36046,WAL-8-A,A25380,WAL,none,emel_prov,nature,Jugiong,A-4-15,S46069,WAL-8-A,leaf,Emelliodora_LB_Block10,G8,jg-4-15,none,,
+P36047,MUL-8-A,A25375,MUL,none,emel_prov,nature,Jugiong,A-4-16,S46070,MUL-8-A,leaf,Emelliodora_LB_Block10,H8,jg-4-16,none,,
+P36048,WAB-8-A,A25392,WAB,none,emel_prov,nature,Jugiong,A-4-17,S46071,WAB-8-A,leaf,Emelliodora_LB_Block10,A9,jg-4-17,none,failed—too few loci,
+P36049,HOLA-8-A,A25388,HOLA,none,emel_prov,nature,Jugiong,A-4-18,S46072,HOLA-8-A,leaf,Emelliodora_LB_Block10,B9,jg-4-18,none,,
+P36050,JER-8-A,A25389,JER,none,emel_prov,nature,Jugiong,A-4-19,S46073,JER-8-A,leaf,Emelliodora_LB_Block10,C9,jg-4-19,none,,
+P36051,MAR-8-A,A25391,MAR,none,emel_prov,nature,Jugiong,A-4-20,S46074,MAR-8-A,leaf,Emelliodora_LB_Block10,D9,jg-4-20,none,,
+P36052,JUN-9-A,A25379,JUN,none,emel_prov,nature,Jugiong,A-4-21,S46075,JUN-9-A,leaf,Emelliodora_LB_Block10,E9,jg-4-21,none,,
+P36053,MOR-9-A,A25385,MOR,none,emel_prov,nature,Jugiong,A-4-22,S46076,MOR-9-A,leaf,Emelliodora_LB_Block10,F9,jg-4-22,none,,
+P36054,JUN-7-A,A25379,JUN,none,emel_prov,nature,Jugiong,A-4-23,S46077,JUN-7-A,leaf,Emelliodora_LB_Block10,G9,jg-4-23,none,,
+P36055,WAB-9-A,A25392,WAB,none,emel_prov,nature,Jugiong,A-4-24,S46078,WAB-9-A,leaf,Emelliodora_LB_Block10,H9,jg-4-24,none,,
+P36056,HAR-9-A,A25377,HAR,none,emel_prov,nature,Jugiong,A-4-25,S46079,HAR-9-A,leaf,Emelliodora_LB_Block10,A10,jg-4-25,none,failed—too few loci,
+P36057,HAR-10-A,A25377,HAR,none,emel_prov,nature,Jugiong,A-4-26,S46080,HAR-10-A,leaf,Emelliodora_LB_Block10,B10,jg-4-26,none,,
+P36058,MAR-7-A,A25391,MAR,none,emel_prov,nature,Jugiong,A-4-27,S46081,MAR-7-A,leaf,Emelliodora_LB_Block10,C10,jg-4-27,none,,
+P36059,HOLB-10-A,A25390,HOLB,none,emel_prov,nature,Jugiong,A-4-28,S46082,HOLB-10-A,leaf,Emelliodora_LB_Block10,D10,jg-4-28,none,,
+P36060,TEM-10-A,A25378,TEM,none,emel_prov,nature,Jugiong,A-4-29,S46083,TEM-10-A,leaf,Emelliodora_LB_Block10,E10,jg-4-29,none,,
+P36061,CON-9-A,A25387,CON,none,emel_prov,nature,Jugiong,A-4-30,S46084,CON-9-A,leaf,Emelliodora_LB_Block10,F10,jg-4-30,none,,
+P36062,COL-9-A,A25384,COL,none,emel_prov,nature,Jugiong,A-4-31,S46085,COL-9-A,leaf,Emelliodora_LB_Block10,G10,jg-4-31,none,,
+P36063,EUB-10-A,A25383,EUB,none,emel_prov,nature,Jugiong,A-4-32,S46086,EUB-10-A,leaf,Emelliodora_LB_Block10,H10,jg-4-32,none,,
+P36064,CON-10-A,A25387,CON,none,emel_prov,nature,Jugiong,A-4-33,S46087,CON-10-A,leaf,Emelliodora_LB_Block10,A11,jg-4-33,none,,
+P36065,HOLA-10-A,A25388,HOLA,none,emel_prov,nature,Jugiong,A-4-34,S46088,HOLA-10-A,leaf,Emelliodora_LB_Block10,B11,jg-4-34,none,,
+P36066,MAJ-8-A,A25374,MAJ,none,emel_prov,nature,Jugiong,A-4-35,S46089,MAJ-8-A,leaf,Emelliodora_LB_Block10,C11,jg-4-35,none,,
+P36067,GUN-9-A,A25382,GUN,none,emel_prov,nature,Jugiong,A-4-36,S46090,GUN-9-A,leaf,Emelliodora_LB_Block10,D11,jg-4-36,none,,
+P36068,BER-10-A,A25386,BER,none,emel_prov,nature,Jugiong,A-4-37,S46091,BER-10-A,leaf,Emelliodora_LB_Block10,E11,jg-4-37,none,failed—too few loci,
+P36069,MOR-8-A,A25385,MOR,none,emel_prov,nature,Jugiong,A-4-38,S46092,MOR-8-A,leaf,Emelliodora_LB_Block10,F11,jg-4-38,none,,
+P36070,TEM-9-A,A25378,TEM,none,emel_prov,nature,Jugiong,A-4-39,S46093,TEM-9-A,leaf,Emelliodora_LB_Block10,G11,jg-4-39,none,failed—too few reads,
+P36071,RYE-10-A,A25373,RYE,none,emel_prov,nature,Jugiong,A-4-40,S46094,RYE-10-A,leaf,Emelliodora_LB_Block10,H11,jg-4-40,none,,
+P36072,BER-9-A,A25386,BER,none,emel_prov,nature,Jugiong,A-4-41,S46095,BER-9-A,leaf,Emelliodora_LB_Block10,A12,jg-4-41,none,,
+P36073,JER-10-A,A25389,JER,none,emel_prov,nature,Jugiong,A-4-42,S46096,JER-10-A,leaf,Emelliodora_LB_Block10,B12,jg-4-42,none,failed—too few loci,
+P36074,WAL-9-A,A25380,WAL,none,emel_prov,nature,Jugiong,A-4-43,S46097,WAL-9-A,leaf,Emelliodora_LB_Block10,C12,jg-4-43,none,failed—too few loci,
+P36075,WAL-10-A,A25380,WAL,none,emel_prov,nature,Jugiong,A-4-44,S46098,WAL-10-A,leaf,Emelliodora_LB_Block10,D12,jg-4-44,none,failed—too few reads,
+P36076,JUN-8-A,A25379,JUN,none,emel_prov,nature,Jugiong,A-4-45,S46099,JUN-8-A,leaf,Emelliodora_LB_Block10,E12,jg-4-45,none,,
+P36077,MAR-9-A,A25391,MAR,none,emel_prov,nature,Jugiong,A-4-46,S46100,MAR-9-A,leaf,Emelliodora_LB_Block10,F12,jg-4-46,none,failed—too few reads,
+P36078,MOR-7-A,A25385,MOR,none,emel_prov,nature,Jugiong,A-4-47,S46101,MOR-7-A,leaf,Emelliodora_LB_Block10,G12,jg-4-47,none,,
+P36079,BAR-7-A,A25381,BAR,none,emel_prov,nature,Jugiong,A-4-48,S46102,BAR-7-A,leaf,Emelliodora_LB_Block10,H12,jg-4-48,none,failed—no reads,
+P36080,CON-12-A,A25387,CON,none,emel_prov,nature,Jugiong,A-5-1,S46103,CON-12-A,leaf,Emelliodora_LB_Block11,A1,jg-5-1,none,failed—too few reads,
+P36081,HOLA-12-A,A25388,HOLA,none,emel_prov,nature,Jugiong,A-5-2,S46104,HOLA-12-A,leaf,Emelliodora_LB_Block11,B1,jg-5-2,none,,
+P36082,JER-11-A,A25389,JER,none,emel_prov,nature,Jugiong,A-5-3,S46105,JER-11-A,leaf,Emelliodora_LB_Block11,C1,jg-5-3,none,,
+P36083,CON-11-A,A25387,CON,none,emel_prov,nature,Jugiong,A-5-4,S46106,CON-11-A,leaf,Emelliodora_LB_Block11,D1,jg-5-4,none,,
+P36084,JUN-12-A,A25379,JUN,none,emel_prov,nature,Jugiong,A-5-5,S46107,JUN-12-A,leaf,Emelliodora_LB_Block11,E1,jg-5-5,none,,
+P36085,JUN-10-A,A25379,JUN,none,emel_prov,nature,Jugiong,A-5-6,S46108,JUN-10-A,leaf,Emelliodora_LB_Block11,F1,jg-5-6,none,,
+P36086,GUN-12-A,A25382,GUN,none,emel_prov,nature,Jugiong,A-5-7,S46109,GUN-12-A,leaf,Emelliodora_LB_Block11,G1,jg-5-7,none,,
+P36087,MUL-10-A,A25375,MUL,none,emel_prov,nature,Jugiong,A-5-8,S46110,MUL-10-A,leaf,Emelliodora_LB_Block11,H1,jg-5-8,none,failed—too few reads,
+P36088,DIC-12-A,A25376,DIC,none,emel_prov,nature,Jugiong,A-5-9,S46111,DIC-12-A,leaf,Emelliodora_LB_Block11,A2,jg-5-9,none,,
+P36089,MOR-12-A,A25385,MOR,none,emel_prov,nature,Jugiong,A-5-10,S46112,MOR-12-A,leaf,Emelliodora_LB_Block11,B2,jg-5-10,none,,
+P36090,MAJ-11-A,A25374,MAJ,none,emel_prov,nature,Jugiong,A-5-11,S46113,MAJ-11-A,leaf,Emelliodora_LB_Block11,C2,jg-5-11,none,failed—too few loci,
+P36091,BAR-12-A,A25381,BAR,none,emel_prov,nature,Jugiong,A-5-12,S46114,BAR-12-A,leaf,Emelliodora_LB_Block11,D2,jg-5-12,none,,
+P36092,BAR-10-A,A25381,BAR,none,emel_prov,nature,Jugiong,A-5-13,S46115,BAR-10-A,leaf,Emelliodora_LB_Block11,E2,jg-5-13,none,,
+P36093,EUB-12-A,A25383,EUB,none,emel_prov,nature,Jugiong,A-5-14,S46116,EUB-12-A,leaf,Emelliodora_LB_Block11,F2,jg-5-14,none,,
+P36094,JUN-11-A,A25379,JUN,none,emel_prov,nature,Jugiong,A-5-15,S46117,JUN-11-A,leaf,Emelliodora_LB_Block11,G2,jg-5-15,none,,
+P36095,MOR-10-A,A25385,MOR,none,emel_prov,nature,Jugiong,A-5-16,S46118,MOR-10-A,leaf,Emelliodora_LB_Block11,H2,jg-5-16,none,,
+P36096,WAL-11-A,A25380,WAL,none,emel_prov,nature,Jugiong,A-5-17,S46119,WAL-11-A,leaf,Emelliodora_LB_Block11,A3,jg-5-17,none,,
+P36097,MAR-10-A,A25391,MAR,none,emel_prov,nature,Jugiong,A-5-18,S46120,MAR-10-A,leaf,Emelliodora_LB_Block11,B3,jg-5-18,none,,
+P36098,BAR-11-A,A25381,BAR,none,emel_prov,nature,Jugiong,A-5-19,S46121,BAR-11-A,leaf,Emelliodora_LB_Block11,C3,jg-5-19,none,,
+P36099,COL-11-A,A25384,COL,none,emel_prov,nature,Jugiong,A-5-20,S46122,COL-11-A,leaf,Emelliodora_LB_Block11,D3,jg-5-20,none,,
+P36100,WAB-12-A,A25392,WAB,none,emel_prov,nature,Jugiong,A-5-21,S46123,WAB-12-A,leaf,Emelliodora_LB_Block11,E3,jg-5-21,none,,
+P36101,GUN-11-A,A25382,GUN,none,emel_prov,nature,Jugiong,A-5-22,S46124,GUN-11-A,leaf,Emelliodora_LB_Block11,F3,jg-5-22,none,,
+P36102,MAJ-10-A,A25374,MAJ,none,emel_prov,nature,Jugiong,A-5-23,S46125,MAJ-10-A,leaf,Emelliodora_LB_Block11,G3,jg-5-23,none,,
+P36103,COL-12-A,A25384,COL,none,emel_prov,nature,Jugiong,A-5-24,S46126,COL-12-A,leaf,Emelliodora_LB_Block11,H3,jg-5-24,none,,
+P36104,WAB-10-A,A25392,WAB,none,emel_prov,nature,Jugiong,A-5-25,S46127,WAB-10-A,leaf,Emelliodora_LB_Block11,A4,jg-5-25,none,,
+P36105,JER-12-A,A25389,JER,none,emel_prov,nature,Jugiong,A-5-26,S46128,JER-12-A,leaf,Emelliodora_LB_Block11,B4,jg-5-26,none,,
+P36106,HAR-12-A,A25377,HAR,none,emel_prov,nature,Jugiong,A-5-27,S46129,HAR-12-A,leaf,Emelliodora_LB_Block11,C4,jg-5-27,none,,
+P36107,MOR-11-A,A25385,MOR,none,emel_prov,nature,Jugiong,A-5-28,S46130,MOR-11-A,leaf,Emelliodora_LB_Block11,D4,jg-5-28,none,,
+P36108,BER-12-A,A25386,BER,none,emel_prov,nature,Jugiong,A-5-29,S46131,BER-12-A,leaf,Emelliodora_LB_Block11,E4,jg-5-29,none,,
+P36109,HOLB-11-A,A25390,HOLB,none,emel_prov,nature,Jugiong,A-5-30,S46132,HOLB-11-A,leaf,Emelliodora_LB_Block11,F4,jg-5-30,none,,
+P36110,DIC-11-A,A25376,DIC,none,emel_prov,nature,Jugiong,A-5-31,S46133,DIC-11-A,leaf,Emelliodora_LB_Block11,G4,jg-5-31,none,failed—too few loci,
+P36111,HAR-11-A,A25377,HAR,none,emel_prov,nature,Jugiong,A-5-32,S46134,HAR-11-A,leaf,Emelliodora_LB_Block11,H4,jg-5-32,none,,
+P36112,HOLB-12-A,A25390,HOLB,none,emel_prov,nature,Jugiong,A-5-33,S46135,HOLB-12-A,leaf,Emelliodora_LB_Block11,A5,jg-5-33,none,,
+P36113,WAL-12-A,A25380,WAL,none,emel_prov,nature,Jugiong,A-5-34,S46136,WAL-12-A,leaf,Emelliodora_LB_Block11,B5,jg-5-34,none,,
+P36114,RYE-11-A,A25373,RYE,none,emel_prov,nature,Jugiong,A-5-35,S46137,RYE-11-A,leaf,Emelliodora_LB_Block11,C5,jg-5-35,none,failed—too few loci,
+P36115,TEM-12-A,A25378,TEM,none,emel_prov,nature,Jugiong,A-5-36,S46138,TEM-12-A,leaf,Emelliodora_LB_Block11,D5,jg-5-36,none,,
+P36116,TEM-11-A,A25378,TEM,none,emel_prov,nature,Jugiong,A-5-37,S46139,TEM-11-A,leaf,Emelliodora_LB_Block11,E5,jg-5-37,none,,
+P36117,MUL-11-A,A25375,MUL,none,emel_prov,nature,Jugiong,A-5-38,S46140,MUL-11-A,leaf,Emelliodora_LB_Block11,F5,jg-5-38,none,,
+P36118,MAR-11-A,A25391,MAR,none,emel_prov,nature,Jugiong,A-5-39,S46141,MAR-11-A,leaf,Emelliodora_LB_Block11,G5,jg-5-39,none,,
+P36119,GUN-10-A,A25382,GUN,none,emel_prov,nature,Jugiong,A-5-40,S46142,GUN-10-A,leaf,Emelliodora_LB_Block11,H5,jg-5-40,none,,
+P36120,WAB-11-A,A25392,WAB,none,emel_prov,nature,Jugiong,A-5-41,S46143,WAB-11-A,leaf,Emelliodora_LB_Block11,A6,jg-5-41,none,failed—too few loci,
+P36121,HOLA-11-A,A25388,HOLA,none,emel_prov,nature,Jugiong,A-5-42,S46144,HOLA-11-A,leaf,Emelliodora_LB_Block11,B6,jg-5-42,none,,
+P36122,EUB-11-A,A25383,EUB,none,emel_prov,nature,Jugiong,A-5-43,S46145,EUB-11-A,leaf,Emelliodora_LB_Block11,C6,jg-5-43,none,,
+P36123,BER-11-A,A25386,BER,none,emel_prov,nature,Jugiong,A-5-44,S46146,BER-11-A,leaf,Emelliodora_LB_Block11,D6,jg-5-44,none,,
+P36124,MAR-12-A,A25391,MAR,none,emel_prov,nature,Jugiong,A-5-45,S46147,MAR-12-A,leaf,Emelliodora_LB_Block11,E6,jg-5-45,none,,
+P36125,RYE-12-A,A25373,RYE,none,emel_prov,nature,Jugiong,A-5-46,S46148,RYE-12-A,leaf,Emelliodora_LB_Block11,F6,jg-5-46,none,,
+P36126,MAJ-12-A,A25374,MAJ,none,emel_prov,nature,Jugiong,A-5-47,S46149,MAJ-12-A,leaf,Emelliodora_LB_Block11,G6,jg-5-47,none,,
+P36127,MUL-12-A,A25375,MUL,none,emel_prov,nature,Jugiong,A-5-48,S46150,MUL-12-A,leaf,Emelliodora_LB_Block11,H6,jg-5-48,none,,
+P36128,WAB-14-B,A25392,WAB,none,emel_prov,nature,Gunning,B-1-1,S46151,WAB-14-B,leaf,Emelliodora_LB_Block11,A7,lfp-1-1,none,failed—too few loci,
+P36129,DIC-13-B,A25376,DIC,none,emel_prov,nature,Gunning,B-1-2,S46152,DIC-13-B,leaf,Emelliodora_LB_Block11,B7,lfp-1-2,none,failed—too few loci,
+P36130,JER-13-B,A25389,JER,none,emel_prov,nature,Gunning,B-1-3,S46153,JER-13-B,leaf,Emelliodora_LB_Block11,C7,lfp-1-3,none,,
+P36131,HOLA-13-B,A25388,HOLA,none,emel_prov,nature,Gunning,B-1-4,S46154,HOLA-13-B,leaf,Emelliodora_LB_Block11,D7,lfp-1-4,none,failed—too few loci,
+P36132,BAR-14-B,A25381,BAR,none,emel_prov,nature,Gunning,B-1-5,S46155,BAR-14-B,leaf,Emelliodora_LB_Block11,E7,lfp-1-5,none,,
+P36133,EUB-14-B,A25383,EUB,none,emel_prov,nature,Gunning,B-1-6,S46156,EUB-14-B,leaf,Emelliodora_LB_Block11,F7,lfp-1-6,none,,
+P36134,MAR-15-B,A25391,MAR,none,emel_prov,nature,Gunning,B-1-7,S46157,MAR-15-B,leaf,Emelliodora_LB_Block11,G7,lfp-1-7,none,,
+P36135,MAR-13-B,A25391,MAR,none,emel_prov,nature,Gunning,B-1-8,S46158,MAR-13-B,leaf,Emelliodora_LB_Block11,H7,lfp-1-8,none,,
+P36136,TEM-14-B,A25378,TEM,none,emel_prov,nature,Gunning,B-1-9,S46159,TEM-14-B,leaf,Emelliodora_LB_Block11,A8,lfp-1-9,none,failed—too few loci,
+P36137,BAR-13-B,A25381,BAR,none,emel_prov,nature,Gunning,B-1-10,S46160,BAR-13-B,leaf,Emelliodora_LB_Block11,B8,lfp-1-10,none,,
+P36138,MAJ-14-B,A25374,MAJ,none,emel_prov,nature,Gunning,B-1-11,S46161,MAJ-14-B,leaf,Emelliodora_LB_Block11,C8,lfp-1-11,none,,
+P36139,GUN-15-B,A25382,GUN,none,emel_prov,nature,Gunning,B-1-12,S46162,GUN-15-B,leaf,Emelliodora_LB_Block11,D8,lfp-1-12,none,,
+P36140,JUN-13-B,A25379,JUN,none,emel_prov,nature,Gunning,B-1-13,S46163,JUN-13-B,leaf,Emelliodora_LB_Block11,E8,lfp-1-13,none,,
+P36141,RYE-15-B,A25373,RYE,none,emel_prov,nature,Gunning,B-1-14,S46164,RYE-15-B,leaf,Emelliodora_LB_Block11,F8,lfp-1-14,none,,
+P36142,COL-13-B,A25384,COL,none,emel_prov,nature,Gunning,B-1-15,S46165,COL-13-B,leaf,Emelliodora_LB_Block11,G8,lfp-1-15,none,,
+P36143,JER-14-B,A25389,JER,none,emel_prov,nature,Gunning,B-1-16,S46166,JER-14-B,leaf,Emelliodora_LB_Block11,H8,lfp-1-16,none,,
+P36144,RYE-13-B,A25373,RYE,none,emel_prov,nature,Gunning,B-1-17,S46167,RYE-13-B,leaf,Emelliodora_LB_Block11,A9,lfp-1-17,none,failed—too few loci,
+P36145,GUN-13-B,A25382,GUN,none,emel_prov,nature,Gunning,B-1-18,S46168,GUN-13-B,leaf,Emelliodora_LB_Block11,B9,lfp-1-18,none,,
+P36146,TEM-13-B,A25378,TEM,none,emel_prov,nature,Gunning,B-1-19,S46169,TEM-13-B,leaf,Emelliodora_LB_Block11,C9,lfp-1-19,none,,
+P36147,WAL-14-B,A25380,WAL,none,emel_prov,nature,Gunning,B-1-20,S46170,WAL-14-B,leaf,Emelliodora_LB_Block11,D9,lfp-1-20,none,,
+P36148,DIC-15-B,A25376,DIC,none,emel_prov,nature,Gunning,B-1-21,S46171,DIC-15-B,leaf,Emelliodora_LB_Block11,E9,lfp-1-21,none,,
+P36149,CON-14-B,A25387,CON,none,emel_prov,nature,Gunning,B-1-22,S46172,CON-14-B,leaf,Emelliodora_LB_Block11,F9,lfp-1-22,none,,
+P36150,JER-15-B,A25389,JER,none,emel_prov,nature,Gunning,B-1-23,S46173,JER-15-B,leaf,Emelliodora_LB_Block11,G9,lfp-1-23,none,,
+P36151,EUB-13-B,A25383,EUB,none,emel_prov,nature,Gunning,B-1-24,S46174,EUB-13-B,leaf,Emelliodora_LB_Block11,H9,lfp-1-24,none,,
+P36152,BER-13-B,A25386,BER,none,emel_prov,nature,Gunning,B-1-25,S46175,BER-13-B,leaf,Emelliodora_LB_Block11,A10,lfp-1-25,none,failed—too few loci,
+P36153,MOR-13-B,A25385,MOR,none,emel_prov,nature,Gunning,B-1-26,S46176,MOR-13-B,leaf,Emelliodora_LB_Block11,B10,lfp-1-26,none,,
+P36154,MUL-13-B,A25375,MUL,none,emel_prov,nature,Gunning,B-1-27,S46177,MUL-13-B,leaf,Emelliodora_LB_Block11,C10,lfp-1-27,none,failed—too few reads,
+P36155,MOR-14-B,A25385,MOR,none,emel_prov,nature,Gunning,B-1-28,S46178,MOR-14-B,leaf,Emelliodora_LB_Block11,D10,lfp-1-28,none,,
+P36156,MAJ-13-B,A25374,MAJ,none,emel_prov,nature,Gunning,B-1-29,S46179,MAJ-13-B,leaf,Emelliodora_LB_Block11,E10,lfp-1-29,none,failed—too few reads,
+P36157,BER-14-B,A25386,BER,none,emel_prov,nature,Gunning,B-1-30,S46180,BER-14-B,leaf,Emelliodora_LB_Block11,F10,lfp-1-30,none,,
+P36158,WAL-13-B,A25380,WAL,none,emel_prov,nature,Gunning,B-1-31,S46181,WAL-13-B,leaf,Emelliodora_LB_Block11,G10,lfp-1-31,none,failed—too few reads,
+P36159,COL-14-B,A25384,COL,none,emel_prov,nature,Gunning,B-1-32,S46182,COL-14-B,leaf,Emelliodora_LB_Block11,H10,lfp-1-32,none,,
+P36160,CON-13-B,A25387,CON,none,emel_prov,nature,Gunning,B-1-33,S46183,CON-13-B,leaf,Emelliodora_LB_Block11,A11,lfp-1-33,none,,
+P36161,MAR-14-B,A25391,MAR,none,emel_prov,nature,Gunning,B-1-34,S46184,MAR-14-B,leaf,Emelliodora_LB_Block11,B11,lfp-1-34,none,,
+P36162,HAR-15-B,A25377,HAR,none,emel_prov,nature,Gunning,B-1-35,S46185,HAR-15-B,leaf,Emelliodora_LB_Block11,C11,lfp-1-35,none,,
+P36163,HOLB-14-B,A25390,HOLB,none,emel_prov,nature,Gunning,B-1-36,S46186,HOLB-14-B,leaf,Emelliodora_LB_Block11,D11,lfp-1-36,none,,
+P36164,HOLB-13-B,A25390,HOLB,none,emel_prov,nature,Gunning,B-1-37,S46187,HOLB-13-B,leaf,Emelliodora_LB_Block11,E11,lfp-1-37,none,,
+P36165,MUL-14-B,A25375,MUL,none,emel_prov,nature,Gunning,B-1-38,S46188,MUL-14-B,leaf,Emelliodora_LB_Block11,F11,lfp-1-38,none,,
+P36166,HAR-13-B,A25377,HAR,none,emel_prov,nature,Gunning,B-1-39,S46189,HAR-13-B,leaf,Emelliodora_LB_Block11,G11,lfp-1-39,none,,
+P36167,BAR-15-B,A25381,BAR,none,emel_prov,nature,Gunning,B-1-40,S46190,BAR-15-B,leaf,Emelliodora_LB_Block11,H11,lfp-1-40,none,,
+P36168,HOLA-14-B,A25388,HOLA,none,emel_prov,nature,Gunning,B-1-41,S46191,HOLA-14-B,leaf,Emelliodora_LB_Block11,A12,lfp-1-41,none,,
+P36169,WAB-13-B,A25392,WAB,none,emel_prov,nature,Gunning,B-1-42,S46192,WAB-13-B,leaf,Emelliodora_LB_Block11,B12,lfp-1-42,none,,
+P36170,DIC-14-B,A25376,DIC,none,emel_prov,nature,Gunning,B-1-43,S46193,DIC-14-B,leaf,Emelliodora_LB_Block11,C12,lfp-1-43,none,,
+P36171,GUN-14-B,A25382,GUN,none,emel_prov,nature,Gunning,B-1-44,S46194,GUN-14-B,leaf,Emelliodora_LB_Block11,D12,lfp-1-44,none,,
+P36172,HAR-14-B,A25377,HAR,none,emel_prov,nature,Gunning,B-1-45,S46195,HAR-14-B,leaf,Emelliodora_LB_Block11,E12,lfp-1-45,none,,
+P36173,JUN-14-B,A25379,JUN,none,emel_prov,nature,Gunning,B-1-46,S46196,JUN-14-B,leaf,Emelliodora_LB_Block11,F12,lfp-1-46,none,,
+P36174,RYE-14-B,A25373,RYE,none,emel_prov,nature,Gunning,B-1-47,S46197,RYE-14-B,leaf,Emelliodora_LB_Block11,G12,lfp-1-47,none,,
+P36175,CON-15-B,A25387,CON,none,emel_prov,nature,Gunning,B-1-48,S46198,CON-15-B,leaf,Emelliodora_LB_Block11,H12,lfp-1-48,none,failed—no reads,
+P36176,EUB-15-B,A25383,EUB,none,emel_prov,nature,Gunning,B-2-1,S46199,EUB-15-B,leaf,Emelliodora_LB_Block12,A1,lfp-2-1,none,,
+P36177,WAB-15-B,A25392,WAB,none,emel_prov,nature,Gunning,B-2-2,S46200,WAB-15-B,leaf,Emelliodora_LB_Block12,B1,lfp-2-2,none,,
+P36178,RYE-16-B,A25373,RYE,none,emel_prov,nature,Gunning,B-2-3,S46201,RYE-16-B,leaf,Emelliodora_LB_Block12,C1,lfp-2-3,none,,
+P36179,MAR-17-B,A25391,MAR,none,emel_prov,nature,Gunning,B-2-4,S46202,MAR-17-B,leaf,Emelliodora_LB_Block12,D1,lfp-2-4,none,,
+P36180,JER-18-B,A25389,JER,none,emel_prov,nature,Gunning,B-2-5,S46203,JER-18-B,leaf,Emelliodora_LB_Block12,E1,lfp-2-5,none,,
+P36181,BER-15-B,A25386,BER,none,emel_prov,nature,Gunning,B-2-6,S46204,BER-15-B,leaf,Emelliodora_LB_Block12,F1,lfp-2-6,none,,
+P36182,CON-18-B,A25387,CON,none,emel_prov,nature,Gunning,B-2-7,S46205,CON-18-B,leaf,Emelliodora_LB_Block12,G1,lfp-2-7,none,,
+P36183,MAR-18-B,A25391,MAR,none,emel_prov,nature,Gunning,B-2-8,S46206,MAR-18-B,leaf,Emelliodora_LB_Block12,H1,lfp-2-8,none,failed—too few reads,
+P36184,WAL-16-B,A25380,WAL,none,emel_prov,nature,Gunning,B-2-9,S46207,WAL-16-B,leaf,Emelliodora_LB_Block12,A2,lfp-2-9,none,,
+P36185,DIC-16-B,A25376,DIC,none,emel_prov,nature,Gunning,B-2-10,S46208,DIC-16-B,leaf,Emelliodora_LB_Block12,B2,lfp-2-10,none,,
+P36186,JER-17-B,A25389,JER,none,emel_prov,nature,Gunning,B-2-11,S46209,JER-17-B,leaf,Emelliodora_LB_Block12,C2,lfp-2-11,none,failed—too few loci,
+P36187,CON-17-B,A25387,CON,none,emel_prov,nature,Gunning,B-2-12,S46210,CON-17-B,leaf,Emelliodora_LB_Block12,D2,lfp-2-12,none,,
+P36188,COL-15-B,A25384,COL,none,emel_prov,nature,Gunning,B-2-13,S46211,COL-15-B,leaf,Emelliodora_LB_Block12,E2,lfp-2-13,none,,
+P36189,GUN-17-B,A25382,GUN,none,emel_prov,nature,Gunning,B-2-14,S46212,GUN-17-B,leaf,Emelliodora_LB_Block12,F2,lfp-2-14,none,,
+P36190,JUN-17-B,A25379,JUN,none,emel_prov,nature,Gunning,B-2-15,S46213,JUN-17-B,leaf,Emelliodora_LB_Block12,G2,lfp-2-15,none,,
+P36191,COL-16-B,A25384,COL,none,emel_prov,nature,Gunning,B-2-16,S46214,COL-16-B,leaf,Emelliodora_LB_Block12,H2,lfp-2-16,none,,
+P36192,HOLB-16-B,A25390,HOLB,none,emel_prov,nature,Gunning,B-2-17,S46215,HOLB-16-B,leaf,Emelliodora_LB_Block12,A3,lfp-2-17,none,,
+P36193,HOLB-15-B,A25390,HOLB,none,emel_prov,nature,Gunning,B-2-18,S46216,HOLB-15-B,leaf,Emelliodora_LB_Block12,B3,lfp-2-18,none,,
+P36194,MOR-15-B,A25385,MOR,none,emel_prov,nature,Gunning,B-2-19,S46217,MOR-15-B,leaf,Emelliodora_LB_Block12,C3,lfp-2-19,none,,
+P36195,GUN-16-B,A25382,GUN,none,emel_prov,nature,Gunning,B-2-20,S46218,GUN-16-B,leaf,Emelliodora_LB_Block12,D3,lfp-2-20,none,,
+P36196,BER-17-B,A25386,BER,none,emel_prov,nature,Gunning,B-2-21,S46219,BER-17-B,leaf,Emelliodora_LB_Block12,E3,lfp-2-21,none,,
+P36197,MUL-15-B,A25375,MUL,none,emel_prov,nature,Gunning,B-2-22,S46220,MUL-15-B,leaf,Emelliodora_LB_Block12,F3,lfp-2-22,none,,
+P36198,HOLA-16-B,A25388,HOLA,none,emel_prov,nature,Gunning,B-2-23,S46221,HOLA-16-B,leaf,Emelliodora_LB_Block12,G3,lfp-2-23,none,,
+P36199,WAB-16-B,A25392,WAB,none,emel_prov,nature,Gunning,B-2-24,S46222,WAB-16-B,leaf,Emelliodora_LB_Block12,H3,lfp-2-24,none,,
+P36200,CON-16-B,A25387,CON,none,emel_prov,nature,Gunning,B-2-25,S46223,CON-16-B,leaf,Emelliodora_LB_Block12,A4,lfp-2-25,none,,
+P36201,RYE-17-B,A25373,RYE,none,emel_prov,nature,Gunning,B-2-26,S46224,RYE-17-B,leaf,Emelliodora_LB_Block12,B4,lfp-2-26,none,,
+P36202,HAR-17-B,A25377,HAR,none,emel_prov,nature,Gunning,B-2-27,S46225,HAR-17-B,leaf,Emelliodora_LB_Block12,C4,lfp-2-27,none,,
+P36203,JUN-15-B,A25379,JUN,none,emel_prov,nature,Gunning,B-2-28,S46226,JUN-15-B,leaf,Emelliodora_LB_Block12,D4,lfp-2-28,none,,
+P36204,MOR-16-B,A25385,MOR,none,emel_prov,nature,Gunning,B-2-29,S46227,MOR-16-B,leaf,Emelliodora_LB_Block12,E4,lfp-2-29,none,,
+P36205,HOLB-17-B,A25390,HOLB,none,emel_prov,nature,Gunning,B-2-30,S46228,HOLB-17-B,leaf,Emelliodora_LB_Block12,F4,lfp-2-30,none,,
+P36206,TEM-16-B,A25378,TEM,none,emel_prov,nature,Gunning,B-2-31,S46229,TEM-16-B,leaf,Emelliodora_LB_Block12,G4,lfp-2-31,none,,
+P36207,HOLA-15-B,A25388,HOLA,none,emel_prov,nature,Gunning,B-2-32,S46230,HOLA-15-B,leaf,Emelliodora_LB_Block12,H4,lfp-2-32,none,,
+P36208,MAJ-16-B,A25374,MAJ,none,emel_prov,nature,Gunning,B-2-33,S46231,MAJ-16-B,leaf,Emelliodora_LB_Block12,A5,lfp-2-33,none,,
+P36209,BAR-17-B,A25381,BAR,none,emel_prov,nature,Gunning,B-2-34,S46232,BAR-17-B,leaf,Emelliodora_LB_Block12,B5,lfp-2-34,none,,
+P36210,JER-16-B,A25389,JER,none,emel_prov,nature,Gunning,B-2-35,S46233,JER-16-B,leaf,Emelliodora_LB_Block12,C5,lfp-2-35,none,failed—too few loci,
+P36211,MAR-16-B,A25391,MAR,none,emel_prov,nature,Gunning,B-2-36,S46234,MAR-16-B,leaf,Emelliodora_LB_Block12,D5,lfp-2-36,none,,
+P36212,BER-16-B,A25386,BER,none,emel_prov,nature,Gunning,B-2-37,S46235,BER-16-B,leaf,Emelliodora_LB_Block12,E5,lfp-2-37,none,,
+P36213,DIC-17-B,A25376,DIC,none,emel_prov,nature,Gunning,B-2-38,S46236,DIC-17-B,leaf,Emelliodora_LB_Block12,F5,lfp-2-38,none,,
+P36214,MUL-16-B,A25375,MUL,none,emel_prov,nature,Gunning,B-2-39,S46237,MUL-16-B,leaf,Emelliodora_LB_Block12,G5,lfp-2-39,none,,
+P36215,EUB-16-B,A25383,EUB,none,emel_prov,nature,Gunning,B-2-40,S46238,EUB-16-B,leaf,Emelliodora_LB_Block12,H5,lfp-2-40,none,,
+P36216,JUN-16-B,A25379,JUN,none,emel_prov,nature,Gunning,B-2-41,S46239,JUN-16-B,leaf,Emelliodora_LB_Block12,A6,lfp-2-41,none,failed—too few loci,
+P36217,MUL-17-B,A25375,MUL,none,emel_prov,nature,Gunning,B-2-42,S46240,MUL-17-B,leaf,Emelliodora_LB_Block12,B6,lfp-2-42,none,,
+P36218,HAR-16-B,A25377,HAR,none,emel_prov,nature,Gunning,B-2-43,S46241,HAR-16-B,leaf,Emelliodora_LB_Block12,C6,lfp-2-43,none,,
+P36219,TEM-15-B,A25378,TEM,none,emel_prov,nature,Gunning,B-2-44,S46242,TEM-15-B,leaf,Emelliodora_LB_Block12,D6,lfp-2-44,none,,
+P36220,DIC-18-B,A25376,DIC,none,emel_prov,nature,Gunning,B-2-45,S46243,DIC-18-B,leaf,Emelliodora_LB_Block12,E6,lfp-2-45,none,,
+P36221,BAR-16-B,A25381,BAR,none,emel_prov,nature,Gunning,B-2-46,S46244,BAR-16-B,leaf,Emelliodora_LB_Block12,F6,lfp-2-46,none,,
+P36222,WAL-15-B,A25380,WAL,none,emel_prov,nature,Gunning,B-2-47,S46245,WAL-15-B,leaf,Emelliodora_LB_Block12,G6,lfp-2-47,none,,
+P36223,MAJ-15-B,A25374,MAJ,none,emel_prov,nature,Gunning,B-2-48,S46246,MAJ-15-B,leaf,Emelliodora_LB_Block12,H6,lfp-2-48,none,,
+P36224,HOLA-17-B,A25388,HOLA,none,emel_prov,nature,Gunning,B-3-1,S46247,HOLA-17-B,leaf,Emelliodora_LB_Block12,A7,lfp-3-1,none,failed—too few loci,
+P36225,HOLA-18-B,A25388,HOLA,none,emel_prov,nature,Gunning,B-3-2,S46248,HOLA-18-B,leaf,Emelliodora_LB_Block12,B7,lfp-3-2,none,,
+P36226,JUN-20-B,A25379,JUN,none,emel_prov,nature,Gunning,B-3-3,S46249,JUN-20-B,leaf,Emelliodora_LB_Block12,C7,lfp-3-3,none,,
+P36227,JUN-19-B,A25379,JUN,none,emel_prov,nature,Gunning,B-3-4,S46250,JUN-19-B,leaf,Emelliodora_LB_Block12,D7,lfp-3-4,none,,
+P36228,BER-20-B,A25386,BER,none,emel_prov,nature,Gunning,B-3-5,S46251,BER-20-B,leaf,Emelliodora_LB_Block12,E7,lfp-3-5,none,,
+P36229,DIC-20-B,A25376,DIC,none,emel_prov,nature,Gunning,B-3-6,S46252,DIC-20-B,leaf,Emelliodora_LB_Block12,F7,lfp-3-6,none,,
+P36230,WAB-18-B,A25392,WAB,none,emel_prov,nature,Gunning,B-3-7,S46253,WAB-18-B,leaf,Emelliodora_LB_Block12,G7,lfp-3-7,none,,
+P36231,MAR-19-B,A25391,MAR,none,emel_prov,nature,Gunning,B-3-8,S46254,MAR-19-B,leaf,Emelliodora_LB_Block12,H7,lfp-3-8,none,,
+P36232,COL-17-B,A25384,COL,none,emel_prov,nature,Gunning,B-3-9,S46255,COL-17-B,leaf,Emelliodora_LB_Block12,A8,lfp-3-9,none,failed—too few loci,
+P36233,MAJ-18-B,A25374,MAJ,none,emel_prov,nature,Gunning,B-3-10,S46256,MAJ-18-B,leaf,Emelliodora_LB_Block12,B8,lfp-3-10,none,,
+P36234,MAJ-17-B,A25374,MAJ,none,emel_prov,nature,Gunning,B-3-11,S46257,MAJ-17-B,leaf,Emelliodora_LB_Block12,C8,lfp-3-11,none,,
+P36235,HAR-19-B,A25377,HAR,none,emel_prov,nature,Gunning,B-3-12,S46258,HAR-19-B,leaf,Emelliodora_LB_Block12,D8,lfp-3-12,none,,
+P36236,MUL-20-B,A25375,MUL,none,emel_prov,nature,Gunning,B-3-13,S46259,MUL-20-B,leaf,Emelliodora_LB_Block12,E8,lfp-3-13,none,,
+P36237,JUN-18-B,A25379,JUN,none,emel_prov,nature,Gunning,B-3-14,S46260,JUN-18-B,leaf,Emelliodora_LB_Block12,F8,lfp-3-14,none,,
+P36238,HOLB-19-B,A25390,HOLB,none,emel_prov,nature,Gunning,B-3-15,S46261,HOLB-19-B,leaf,Emelliodora_LB_Block12,G8,lfp-3-15,none,,
+P36239,MOR-17-B,A25385,MOR,none,emel_prov,nature,Gunning,B-3-16,S46262,MOR-17-B,leaf,Emelliodora_LB_Block12,H8,lfp-3-16,none,,
+P36240,WAB-17-B,A25392,WAB,none,emel_prov,nature,Gunning,B-3-17,S46263,WAB-17-B,leaf,Emelliodora_LB_Block12,A9,lfp-3-17,none,failed—too few loci,
+P36241,BAR-18-B,A25381,BAR,none,emel_prov,nature,Gunning,B-3-18,S46264,BAR-18-B,leaf,Emelliodora_LB_Block12,B9,lfp-3-18,none,,
+P36242,JER-19-B,A25389,JER,none,emel_prov,nature,Gunning,B-3-19,S46265,JER-19-B,leaf,Emelliodora_LB_Block12,C9,lfp-3-19,none,,
+P36243,CON-20-B,A25387,CON,none,emel_prov,nature,Gunning,B-3-20,S46266,CON-20-B,leaf,Emelliodora_LB_Block12,D9,lfp-3-20,none,,
+P36244,EUB-18-B,A25383,EUB,none,emel_prov,nature,Gunning,B-3-21,S46267,EUB-18-B,leaf,Emelliodora_LB_Block12,E9,lfp-3-21,none,,
+P36245,TEM-17-B,A25378,TEM,none,emel_prov,nature,Gunning,B-3-22,S46268,TEM-17-B,leaf,Emelliodora_LB_Block12,F9,lfp-3-22,none,,
+P36246,RYE-19-B,A25373,RYE,none,emel_prov,nature,Gunning,B-3-23,S46269,RYE-19-B,leaf,Emelliodora_LB_Block12,G9,lfp-3-23,none,,
+P36247,BER-19-B,A25386,BER,none,emel_prov,nature,Gunning,B-3-24,S46270,BER-19-B,leaf,Emelliodora_LB_Block12,H9,lfp-3-24,none,,
+P36248,MAR-20-B,A25391,MAR,none,emel_prov,nature,Gunning,B-3-25,S46271,MAR-20-B,leaf,Emelliodora_LB_Block12,A10,lfp-3-25,none,failed—too few loci,
+P36249,CON-19-B,A25387,CON,none,emel_prov,nature,Gunning,B-3-26,S46272,CON-19-B,leaf,Emelliodora_LB_Block12,B10,lfp-3-26,none,,
+P36250,GUN-19-B,A25382,GUN,none,emel_prov,nature,Gunning,B-3-27,S46273,GUN-19-B,leaf,Emelliodora_LB_Block12,C10,lfp-3-27,none,,
+P36251,MUL-18-B,A25375,MUL,none,emel_prov,nature,Gunning,B-3-28,S46274,MUL-18-B,leaf,Emelliodora_LB_Block12,D10,lfp-3-28,none,,
+P36252,WAL-17-B,A25380,WAL,none,emel_prov,nature,Gunning,B-3-29,S46275,WAL-17-B,leaf,Emelliodora_LB_Block12,E10,lfp-3-29,none,failed—too few loci,
+P36253,MOR-18-B,A25385,MOR,none,emel_prov,nature,Gunning,B-3-30,S46276,MOR-18-B,leaf,Emelliodora_LB_Block12,F10,lfp-3-30,none,,
+P36254,TEM-18-B,A25378,TEM,none,emel_prov,nature,Gunning,B-3-31,S46277,TEM-18-B,leaf,Emelliodora_LB_Block12,G10,lfp-3-31,none,,
+P36255,GUN-18-B,A25382,GUN,none,emel_prov,nature,Gunning,B-3-32,S46278,GUN-18-B,leaf,Emelliodora_LB_Block12,H10,lfp-3-32,none,,
+P36256,WAB-19-B,A25392,WAB,none,emel_prov,nature,Gunning,B-3-33,S46279,WAB-19-B,leaf,Emelliodora_LB_Block12,A11,lfp-3-33,none,,
+P36257,WAL-18-B,A25380,WAL,none,emel_prov,nature,Gunning,B-3-34,S46280,WAL-18-B,leaf,Emelliodora_LB_Block12,B11,lfp-3-34,none,,
+P36258,BAR-19-B,A25381,BAR,none,emel_prov,nature,Gunning,B-3-35,S46281,BAR-19-B,leaf,Emelliodora_LB_Block12,C11,lfp-3-35,none,,
+P36259,HOLB-20-B,A25390,HOLB,none,emel_prov,nature,Gunning,B-3-36,S46282,HOLB-20-B,leaf,Emelliodora_LB_Block12,D11,lfp-3-36,none,,
+P36260,JER-20-B,A25389,JER,none,emel_prov,nature,Gunning,B-3-37,S46283,JER-20-B,leaf,Emelliodora_LB_Block12,E11,lfp-3-37,none,,
+P36261,EUB-17-B,A25383,EUB,none,emel_prov,nature,Gunning,B-3-38,S46284,EUB-17-B,leaf,Emelliodora_LB_Block12,F11,lfp-3-38,none,,
+P36262,HOLB-18-B,A25390,HOLB,none,emel_prov,nature,Gunning,B-3-39,S46285,HOLB-18-B,leaf,Emelliodora_LB_Block12,G11,lflp-3-39,none,,
+P36263,MAJ-19-B,A25374,MAJ,none,emel_prov,nature,Gunning,B-3-40,S46286,MAJ-19-B,leaf,Emelliodora_LB_Block12,H11,lfp-3-40,none,,
+P36264,BER-18-B,A25386,BER,none,emel_prov,nature,Gunning,B-3-41,S46287,BER-18-B,leaf,Emelliodora_LB_Block12,A12,lfp-3-41,none,,
+P36265,MOR-19-B,A25385,MOR,none,emel_prov,nature,Gunning,B-3-42,S46288,MOR-19-B,leaf,Emelliodora_LB_Block12,B12,lfp-3-42,none,,
+P36266,RYE-18-B,A25373,RYE,none,emel_prov,nature,Gunning,B-3-43,S46289,RYE-18-B,leaf,Emelliodora_LB_Block12,C12,lfp-3-43,none,,
+P36267,DIC-19-B,A25376,DIC,none,emel_prov,nature,Gunning,B-3-44,S46290,DIC-19-B,leaf,Emelliodora_LB_Block12,D12,lfp-3-44,none,,
+P36268,HAR-18-B,A25377,HAR,none,emel_prov,nature,Gunning,B-3-45,S46291,HAR-18-B,leaf,Emelliodora_LB_Block12,E12,lfp-3-45,none,,
+P36269,COL-18-B,A25384,COL,none,emel_prov,nature,Gunning,B-3-46,S46292,COL-18-B,leaf,Emelliodora_LB_Block12,F12,lfp-3-46,none,,
+P36270,HOLA-19-B,A25388,HOLA,none,emel_prov,nature,Gunning,B-3-47,S46293,HOLA-19-B,leaf,Emelliodora_LB_Block12,G12,lfp-3-47,none,,
+P36271,MUL-19-B,A25375,MUL,none,emel_prov,nature,Gunning,B-3-48,S46294,MUL-19-B,leaf,Emelliodora_LB_Block12,H12,lfp-3-48,none,failed—no reads,
+P36272,HOLA-22-B,A25388,HOLA,none,emel_prov,nature,Gunning,B-4-1,S46295,HOLA-22-B,leaf,Emelliodora_LB_Block13,A1,lfp-4-1,none,,
+P36273,EUB-20-B,A25383,EUB,none,emel_prov,nature,Gunning,B-4-2,S46296,EUB-20-B,leaf,Emelliodora_LB_Block13,B1,lfp-4-2,none,,
+P36274,MUL-22-B,A25375,MUL,none,emel_prov,nature,Gunning,B-4-3,S46297,MUL-22-B,leaf,Emelliodora_LB_Block13,C1,lfp-4-3,none,,
+P36275,WAL-21-B,A25380,WAL,none,emel_prov,nature,Gunning,B-4-4,S46298,WAL-21-B,leaf,Emelliodora_LB_Block13,D1,lfp-4-4,none,,
+P36276,MAJ-20-B,A25374,MAJ,none,emel_prov,nature,Gunning,B-4-5,S46299,MAJ-20-B,leaf,Emelliodora_LB_Block13,E1,lfp-4-5,none,,
+P36277,WAB-21-B,A25392,WAB,none,emel_prov,nature,Gunning,B-4-6,S46300,WAB-21-B,leaf,Emelliodora_LB_Block13,F1,lfp-4-6,none,,
+P36278,COL-19-B,A25384,COL,none,emel_prov,nature,Gunning,B-4-7,S46301,COL-19-B,leaf,Emelliodora_LB_Block13,G1,lfp-4-7,none,,
+P36279,MOR-20-B,A25385,MOR,none,emel_prov,nature,Gunning,B-4-8,S46302,MOR-20-B,leaf,Emelliodora_LB_Block13,H1,lfp-4-8,none,failed—too few reads,
+P36280,DIC-22-B,A25376,DIC,none,emel_prov,nature,Gunning,B-4-9,S46303,DIC-22-B,leaf,Emelliodora_LB_Block13,A2,lfp-4-9,none,,
+P36281,HOLB-22-B,A25390,HOLB,none,emel_prov,nature,Gunning,B-4-10,S46304,HOLB-22-B,leaf,Emelliodora_LB_Block13,B2,lfp-4-10,none,,
+P36282,COL-21-B,A25384,COL,none,emel_prov,nature,Gunning,B-4-11,S46305,COL-21-B,leaf,Emelliodora_LB_Block13,C2,lfp-4-11,none,failed—too few loci,
+P36283,TEM-20-B,A25378,TEM,none,emel_prov,nature,Gunning,B-4-12,S46306,TEM-20-B,leaf,Emelliodora_LB_Block13,D2,lfp-4-12,none,,
+P36284,GUN-20-B,A25382,GUN,none,emel_prov,nature,Gunning,B-4-13,S46307,GUN-20-B,leaf,Emelliodora_LB_Block13,E2,lfp-4-13,none,,
+P36285,MOR-22-B,A25385,MOR,none,emel_prov,nature,Gunning,B-4-14,S46308,MOR-22-B,leaf,Emelliodora_LB_Block13,F2,lfp-4-14,none,,
+P36286,HOLA-20-B,A25388,HOLA,none,emel_prov,nature,Gunning,B-4-15,S46309,HOLA-20-B,leaf,Emelliodora_LB_Block13,G2,lfp-4-15,none,,
+P36287,CON-22-B,A25387,CON,none,emel_prov,nature,Gunning,B-4-16,S46310,CON-22-B,leaf,Emelliodora_LB_Block13,H2,lfp-4-16,none,,
+P36288,BER-22-B,A25386,BER,none,emel_prov,nature,Gunning,B-4-17,S46311,BER-22-B,leaf,Emelliodora_LB_Block13,A3,lfp-4-17,none,,
+P36289,MAJ-21-B,A25374,MAJ,none,emel_prov,nature,Gunning,B-4-18,S46312,MAJ-21-B,leaf,Emelliodora_LB_Block13,B3,lfp-4-18,none,,
+P36290,CON-21-B,A25387,CON,none,emel_prov,nature,Gunning,B-4-19,S46313,CON-21-B,leaf,Emelliodora_LB_Block13,C3,lfp-4-19,none,,
+P36291,TEM-21-B,A25378,TEM,none,emel_prov,nature,Gunning,B-4-20,S46314,TEM-21-B,leaf,Emelliodora_LB_Block13,D3,lfp-4-20,none,,
+P36292,RYE-21-B,A25373,RYE,none,emel_prov,nature,Gunning,B-4-21,S46315,RYE-21-B,leaf,Emelliodora_LB_Block13,E3,lfp-4-21,none,,
+P36293,DIC-21-B,A25376,DIC,none,emel_prov,nature,Gunning,B-4-22,S46316,DIC-21-B,leaf,Emelliodora_LB_Block13,F3,lfp-4-22,none,,
+P36294,BAR-21-B,A25381,BAR,none,emel_prov,nature,Gunning,B-4-23,S46317,BAR-21-B,leaf,Emelliodora_LB_Block13,G3,lfp-4-23,none,,
+P36295,JUN-22-B,A25379,JUN,none,emel_prov,nature,Gunning,B-4-24,S46318,JUN-22-B,leaf,Emelliodora_LB_Block13,H3,lfp-4-24,none,,
+P36296,WAB-22-B,A25392,WAB,none,emel_prov,nature,Gunning,B-4-25,S46319,WAB-22-B,leaf,Emelliodora_LB_Block13,A4,lfp-4-25,none,,
+P36297,JUN-21-B,A25379,JUN,none,emel_prov,nature,Gunning,B-4-26,S46320,JUN-21-B,leaf,Emelliodora_LB_Block13,B4,lfp-4-26,none,,
+P36298,MOR-21-B,A25385,MOR,none,emel_prov,nature,Gunning,B-4-27,S46321,MOR-21-B,leaf,Emelliodora_LB_Block13,C4,lfp-4-27,none,,
+P36299,TEM-19-B,A25378,TEM,none,emel_prov,nature,Gunning,B-4-28,S46322,TEM-19-B,leaf,Emelliodora_LB_Block13,D4,lfp-4-28,none,,
+P36300,BER-21-B,A25386,BER,none,emel_prov,nature,Gunning,B-4-29,S46323,BER-21-B,leaf,Emelliodora_LB_Block13,E4,lfp-4-29,none,,
+P36301,EUB-19-B,A25383,EUB,none,emel_prov,nature,Gunning,B-4-30,S46324,EUB-19-B,leaf,Emelliodora_LB_Block13,F4,lfp-4-30,none,,
+P36302,RYE-20-B,A25373,RYE,none,emel_prov,nature,Gunning,B-4-31,S46325,RYE-20-B,leaf,Emelliodora_LB_Block13,G4,lfp-4-31,none,,
+P36303,HOLB-21-B,A25390,HOLB,none,emel_prov,nature,Gunning,B-4-32,S46326,HOLB-21-B,leaf,Emelliodora_LB_Block13,H4,lfp-4-32,none,,
+P36304,WAL-19-B,A25380,WAL,none,emel_prov,nature,Gunning,B-4-33,S46327,WAL-19-B,leaf,Emelliodora_LB_Block13,A5,lfp-4-33,none,,
+P36305,BAR-20-B,A25381,BAR,none,emel_prov,nature,Gunning,B-4-34,S46328,BAR-20-B,leaf,Emelliodora_LB_Block13,B5,lfp-4-34,none,,
+P36306,MUL-21-B,A25375,MUL,none,emel_prov,nature,Gunning,B-4-35,S46329,MUL-21-B,leaf,Emelliodora_LB_Block13,C5,lfp-4-35,none,failed—too few loci,
+P36307,WAB-20-B,A25392,WAB,none,emel_prov,nature,Gunning,B-4-36,S46330,WAB-20-B,leaf,Emelliodora_LB_Block13,D5,lfp-4-36,none,,
+P36308,HOLA-21-B,A25388,HOLA,none,emel_prov,nature,Gunning,B-4-37,S46331,HOLA-21-B,leaf,Emelliodora_LB_Block13,E5,lfp-4-37,none,,
+P36309,JER-21-B,A25389,JER,none,emel_prov,nature,Gunning,B-4-38,S46332,JER-21-B,leaf,Emelliodora_LB_Block13,F5,lfp-4-38,none,,
+P36310,MAJ-22-B,A25374,MAJ,none,emel_prov,nature,Gunning,B-4-39,S46333,MAJ-22-B,leaf,Emelliodora_LB_Block13,G5,lfp-4-39,none,,
+P36311,COL-20-B,A25384,COL,none,emel_prov,nature,Gunning,B-4-40,S46334,COL-20-B,leaf,Emelliodora_LB_Block13,H5,lfp-4-40,none,,
+P36312,WAL-20-B,A25380,WAL,none,emel_prov,nature,Gunning,B-4-41,S46335,WAL-20-B,leaf,Emelliodora_LB_Block13,A6,lfp-4-41,none,failed—too few loci,
+P36313,JER-22-B,A25389,JER,none,emel_prov,nature,Gunning,B-4-42,S46336,JER-22-B,leaf,Emelliodora_LB_Block13,B6,lfp-4-42,none,,
+P36314,HAR-20-B,A25377,HAR,none,emel_prov,nature,Gunning,B-4-43,S46337,HAR-20-B,leaf,Emelliodora_LB_Block13,C6,lfp-4-43,none,,
+P36315,HAR-21-B,A25377,HAR,none,emel_prov,nature,Gunning,B-4-44,S46338,HAR-21-B,leaf,Emelliodora_LB_Block13,D6,lfp-4-44,none,,
+P36316,GUN-21-B,A25382,GUN,none,emel_prov,nature,Gunning,B-4-45,S46339,GUN-21-B,leaf,Emelliodora_LB_Block13,E6,lfp-4-45,none,,
+P36317,EUB-21-B,A25383,EUB,none,emel_prov,nature,Gunning,B-4-46,S46340,EUB-21-B,leaf,Emelliodora_LB_Block13,F6,lfp-4-46,none,,
+P36318,MAR-22-B,A25391,MAR,none,emel_prov,nature,Gunning,B-4-47,S46341,MAR-22-B,leaf,Emelliodora_LB_Block13,G6,lfp-4-47,none,,
+P36319,MAR-21-B,A25391,MAR,none,emel_prov,nature,Gunning,B-4-48,S46342,MAR-21-B,leaf,Emelliodora_LB_Block13,H6,lfp-4-48,none,,
+P36320,MUL-23-B,A25375,MUL,none,emel_prov,nature,Gunning,B-5-1,S46343,MUL-23-B,leaf,Emelliodora_LB_Block13,A7,lfp-5-1,none,failed—too few loci,
+P36321,TEM-22-B,A25378,TEM,none,emel_prov,nature,Gunning,B-5-2,S46344,TEM-22-B,leaf,Emelliodora_LB_Block13,B7,lfp-5-2,none,,
+P36322,CON-24-B,A25387,CON,none,emel_prov,nature,Gunning,B-5-3,S46345,CON-24-B,leaf,Emelliodora_LB_Block13,C7,lfp-5-3,none,,
+P36323,MAR-24-B,A25391,MAR,none,emel_prov,nature,Gunning,B-5-4,S46346,MAR-24-B,leaf,Emelliodora_LB_Block13,D7,lfp-5-4,none,failed—too few loci,
+P36324,BAR-24-B,A25381,BAR,none,emel_prov,nature,Gunning,B-5-5,S46347,BAR-24-B,leaf,Emelliodora_LB_Block13,E7,lfp-5-5,none,,
+P36325,MOR-23-B,A25385,MOR,none,emel_prov,nature,Gunning,B-5-6,S46348,MOR-23-B,leaf,Emelliodora_LB_Block13,F7,lfp-5-6,none,,
+P36326,DIC-24-B,A25376,DIC,none,emel_prov,nature,Gunning,B-5-7,S46349,DIC-24-B,leaf,Emelliodora_LB_Block13,G7,lfp-5-7,none,,
+P36327,HAR-24-B,A25377,HAR,none,emel_prov,nature,Gunning,B-5-8,S46350,HAR-24-B,leaf,Emelliodora_LB_Block13,H7,lfp-5-8,none,,
+P36328,RYE-24-B,A25373,RYE,none,emel_prov,nature,Gunning,B-5-9,S46351,RYE-24-B,leaf,Emelliodora_LB_Block13,A8,lfp-5-9,none,failed—too few loci,
+P36329,WAL-22-B,A25380,WAL,none,emel_prov,nature,Gunning,B-5-10,S46352,WAL-22-B,leaf,Emelliodora_LB_Block13,B8,lfp-5-10,none,,
+P36330,HOLA-23-B,A25388,HOLA,none,emel_prov,nature,Gunning,B-5-11,S46353,HOLA-23-B,leaf,Emelliodora_LB_Block13,C8,lfp-5-11,none,,
+P36331,HAR-22-B,A25377,HAR,none,emel_prov,nature,Gunning,B-5-12,S46354,HAR-22-B,leaf,Emelliodora_LB_Block13,D8,lfp-5-12,none,,
+P36332,RYE-23-B,A25373,RYE,none,emel_prov,nature,Gunning,B-5-13,S46355,RYE-23-B,leaf,Emelliodora_LB_Block13,E8,lfp-5-13,none,,
+P36333,HOLB-24-B,A25390,HOLB,none,emel_prov,nature,Gunning,B-5-14,S46356,HOLB-24-B,leaf,Emelliodora_LB_Block13,F8,lfp-5-14,none,,
+P36334,COL-22-B,A25384,COL,none,emel_prov,nature,Gunning,B-5-15,S46357,COL-22-B,leaf,Emelliodora_LB_Block13,G8,lfp-5-15,none,,
+P36335,BAR-22-B,A25381,BAR,none,emel_prov,nature,Gunning,B-5-16,S46358,BAR-22-B,leaf,Emelliodora_LB_Block13,H8,lfp-5-16,none,,
+P36336,COL-24-B,A25384,COL,none,emel_prov,nature,Gunning,B-5-17,S46359,COL-24-B,leaf,Emelliodora_LB_Block13,A9,lfp-5-17,none,failed—too few loci,
+P36337,EUB-22-B,A25383,EUB,none,emel_prov,nature,Gunning,B-5-18,S46360,EUB-22-B,leaf,Emelliodora_LB_Block13,B9,lfp-5-18,none,,
+P36338,EUB-24-B,A25383,EUB,none,emel_prov,nature,Gunning,B-5-19,S46361,EUB-24-B,leaf,Emelliodora_LB_Block13,C9,lfp-5-19,none,,
+P36339,BAR-23-B,A25381,BAR,none,emel_prov,nature,Gunning,B-5-20,S46362,BAR-23-B,leaf,Emelliodora_LB_Block13,D9,lfp-5-20,none,,
+P36340,COL-23-B,A25384,COL,none,emel_prov,nature,Gunning,B-5-21,S46363,COL-23-B,leaf,Emelliodora_LB_Block13,E9,lfp-5-21,none,,
+P36341,MAR-23-B,A25391,MAR,none,emel_prov,nature,Gunning,B-5-22,S46364,MAR-23-B,leaf,Emelliodora_LB_Block13,F9,lfp-5-22,none,,
+P36342,GUN-23-B,A25382,GUN,none,emel_prov,nature,Gunning,B-5-23,S46365,GUN-23-B,leaf,Emelliodora_LB_Block13,G9,lfp-5-23,none,,
+P36343,WAL-24-B,A25380,WAL,none,emel_prov,nature,Gunning,B-5-24,S46366,WAL-24-B,leaf,Emelliodora_LB_Block13,H9,lfp-5-24,none,,
+P36344,GUN-24-B,A25382,GUN,none,emel_prov,nature,Gunning,B-5-25,S46367,GUN-24-B,leaf,Emelliodora_LB_Block13,A10,lfp-5-25,none,failed—too few loci,
+P36345,MUL-24-B,A25375,MUL,none,emel_prov,nature,Gunning,B-5-26,S46368,MUL-24-B,leaf,Emelliodora_LB_Block13,B10,lfp-5-26,none,,
+P36346,MAJ-23-B,A25374,MAJ,none,emel_prov,nature,Gunning,B-5-27,S46369,MAJ-23-B,leaf,Emelliodora_LB_Block13,C10,lfp-5-27,none,,
+P36347,WAL-23-B,A25380,WAL,none,emel_prov,nature,Gunning,B-5-28,S46370,WAL-23-B,leaf,Emelliodora_LB_Block13,D10,lfp-5-28,none,,
+P36348,EUB-23-B,A25383,EUB,none,emel_prov,nature,Gunning,B-5-29,S46371,EUB-23-B,leaf,Emelliodora_LB_Block13,E10,lfp-5-29,none,,
+P36349,BER-23-B,A25386,BER,none,emel_prov,nature,Gunning,B-5-30,S46372,BER-23-B,leaf,Emelliodora_LB_Block13,F10,lfp-5-30,none,,
+P36350,MAJ-24-B,A25374,MAJ,none,emel_prov,nature,Gunning,B-5-31,S46373,MAJ-24-B,leaf,Emelliodora_LB_Block13,G10,lfp-5-31,none,,
+P36351,RYE-22-B,A25373,RYE,none,emel_prov,nature,Gunning,B-5-32,S46374,RYE-22-B,leaf,Emelliodora_LB_Block13,H10,lfp-5-32,none,,
+P36352,JUN-23-B,A25379,JUN,none,emel_prov,nature,Gunning,B-5-33,S46375,JUN-23-B,leaf,Emelliodora_LB_Block13,A11,lfp-5-33,none,,
+P36353,WAB-23-B,A25392,WAB,none,emel_prov,nature,Gunning,B-5-34,S46376,WAB-23-B,leaf,Emelliodora_LB_Block13,B11,lfp-5-34,none,,
+P36354,CON-23-B,A25387,CON,none,emel_prov,nature,Gunning,B-5-35,S46377,CON-23-B,leaf,Emelliodora_LB_Block13,C11,lfp-5-35,none,,
+P36355,WAB-24-B,A25392,WAB,none,emel_prov,nature,Gunning,B-5-36,S46378,WAB-24-B,leaf,Emelliodora_LB_Block13,D11,lfp-5-36,none,,
+P36356,BER-24-B,A25386,BER,none,emel_prov,nature,Gunning,B-5-37,S46379,BER-24-B,leaf,Emelliodora_LB_Block13,E11,lfp-5-37,none,,
+P36357,GUN-22-B,A25382,GUN,none,emel_prov,nature,Gunning,B-5-38,S46380,GUN-22-B,leaf,Emelliodora_LB_Block13,F11,lfp-5-38,none,,
+P36358,HOLB-23-B,A25390,HOLB,none,emel_prov,nature,Gunning,B-5-39,S46381,HOLB-23-B,leaf,Emelliodora_LB_Block13,G11,lfp-5-39,none,,
+P36359,HAR-23-B,A25377,HAR,none,emel_prov,nature,Gunning,B-5-40,S46382,HAR-23-B,leaf,Emelliodora_LB_Block13,H11,lfp-5-40,none,,
+P36360,JUN-24-B,A25379,JUN,none,emel_prov,nature,Gunning,B-5-41,S46383,JUN-24-B,leaf,Emelliodora_LB_Block13,A12,lfp-5-41,none,,
+P36361,DIC-23-B,A25376,DIC,none,emel_prov,nature,Gunning,B-5-42,S46384,DIC-23-B,leaf,Emelliodora_LB_Block13,B12,lfp-5-42,none,failed—too few loci,
+P36362,JER-24-B,A25389,JER,none,emel_prov,nature,Gunning,B-5-43,S46385,JER-24-B,leaf,Emelliodora_LB_Block13,C12,lfp-5-43,none,failed—too few loci,
+P36363,TEM-24-B,A25378,TEM,none,emel_prov,nature,Gunning,B-5-44,S46386,TEM-24-B,leaf,Emelliodora_LB_Block13,D12,lfp-5-44,none,failed—too few reads,
+P36364,MOR-24-B,A25385,MOR,none,emel_prov,nature,Gunning,B-5-45,S46387,MOR-24-B,leaf,Emelliodora_LB_Block13,E12,lfp-5-45,none,failed—too few reads,
+P36365,TEM-23-B,A25378,TEM,none,emel_prov,nature,Gunning,B-5-46,S46388,TEM-23-B,leaf,Emelliodora_LB_Block13,F12,lfp-5-46,none,failed—too few reads,
+P36366,JER-23-B,A25389,JER,none,emel_prov,nature,Gunning,B-5-47,S46389,JER-23-B,leaf,Emelliodora_LB_Block13,G12,lfp-5-47,none,failed—too few loci,
+P36367,HOLA-24-B,A25388,HOLA,none,emel_prov,nature,Gunning,B-5-48,S46390,HOLA-24-B,leaf,Emelliodora_LB_Block13,H12,lfp-5-48,none,failed—no reads,
